@@ -5,22 +5,22 @@ Sie stehen unter Verdacht eine der größten-
 
 2
 00:01:51,560 --> 00:01:57,400
-Websites der Welt für illegales downloading...
+Websites der Welt für illegales downloading ...
 
 3
 00:01:57,560 --> 00:02:02,040
-Guten Abend. Die US Regierungs droht
+Guten Abend. Die US Regierung droht
 mit Handelssanktionen-
 
 4
 00:02:02,200 --> 00:02:05,560
-wenn File Sharing Seiten, wie
+wenn File-Sharing-Seiten, wie
 The Pirate Bay nicht geschlossen werden.
 
 5
 00:02:05,720 --> 00:02:10,800
 Illegales Downloading hat die
-großen Hollywood Organisationen verärgert...
+großen Hollywood-Organisationen verärgert ...
 
 6
 00:02:10,959 --> 00:02:16,160
@@ -49,7 +49,7 @@ die Regierungs-Website.
 11
 00:03:00,160 --> 00:03:04,640
 Das Verfahren gegen die Gründer von
-The Pirate Bay beginnt morgen.
+„The Pirate Bay“ beginnt morgen.
 
 12
 00:03:04,800 --> 00:03:07,280
@@ -57,16 +57,16 @@ Heute treffen sie die Presse.
 
 13
 00:03:12,879 --> 00:03:17,640
-Was passiert mit The Pirate Bay
+Was passiert mit „The Pirate Bay“
 wenn ihr für schuldig befunden werdet?
 
 14
 00:03:17,800 --> 00:03:20,280
-Nichts!
+Nichts.
 
 15
 00:03:20,439 --> 00:03:24,360
-Was wollen sie dagegen tun?
+Was wollen Sie dagegen tun?
 Sie sind schon einmal gescheitert die Seite abzuschalten.
 
 16
@@ -76,13 +76,13 @@ und wieder zu scheitern.
 
 17
 00:03:29,800 --> 00:03:33,040
-Es ist nicht The Pirate Bay,
+Es ist nicht „The Pirate Bay“,
 was morgen vor Gericht steht
 
 18
 00:03:33,200 --> 00:03:38,840
-Es geht darum um uns,
-die in Verbindung mit The Pirate Bay stehen-
+Es geht darum, uns,
+die in Verbindung mit „The Pirate Bay“ stehen,-
 
 19
 00:03:39,000 --> 00:03:42,840
@@ -95,8 +95,8 @@ um das Recht, es geht um Politik.
 
 21
 00:03:49,439 --> 00:03:53,879
-Die Hälfte des BitTorrent Traffics 
-wird von The Pirate Bay koordiniert.
+Die Hälfte des BitTorrent-Traffics 
+wird von „The Pirate Bay“ koordiniert.
 
 22
 00:03:54,040 --> 00:03:57,080
@@ -145,7 +145,7 @@ Ich hab gesagt Fredrik feiert gerne.
 32
 00:04:24,040 --> 00:04:28,800
 Ich wollte nicht lügen und ihnen sagen
-das ich weiß, wo er war.
+dass ich weiß, wo er war.
 
 33
 00:04:28,959 --> 00:04:32,720
@@ -186,7 +186,7 @@ ein großartiger Name für einen Fluchtplan.
 
 41
 00:05:04,760 --> 00:05:12,239
-Sein Plan war es nach Hause, zu seiner
+Sein Plan war es, nach Hause zu seiner
 Freundin nach Laos, zu fliegen
 
 42
@@ -214,7 +214,7 @@ Puuuh!
 
 47
 00:05:39,520 --> 00:05:44,080
-Das Interesse an der File-Sharing
+Das Interesse an der File-Sharing-
 Verhandlung in Stockholm ist riesig.
 
 48
@@ -307,7 +307,7 @@ erzählen bevor der Staatsanwalt beginnt.
 
 67
 00:07:37,400 --> 00:07:42,160
-Wir das vom Staatsanwalt akzeptiert?
+Wird das vom Staatsanwalt akzeptiert?
 Sie können beginnen, Fredrik Neij.
 
 68
@@ -321,11 +321,11 @@ Und speziell am Internet und an Netzwerken
 
 70
 00:07:53,560 --> 00:07:59,600
-Und dass ich... Ähmm...
+Und dass ich ... Ähmm ...
 
 71
 00:07:59,760 --> 00:08:04,160
-...ich hab den Faden verloren.
+... ich hab den Faden verloren.
 
 72
 00:08:04,320 --> 00:08:10,200
@@ -334,7 +334,7 @@ Sie haben ein großes Interesse an IT.
 
 73
 00:08:10,360 --> 00:08:16,520
-Ich beteiligte mich an The Pirate Bay,
+Ich beteiligte mich an „The Pirate Bay“,
 wegen meines großes Interesses an IT.
 
 74
@@ -344,30 +344,30 @@ mit Technik zu arbeiten.
 
 75
 00:08:23,439 --> 00:08:26,680
-Für mich ist The Pirate Bay
+Für mich ist „The Pirate Bay“
 eine technische Herauforderung.
 
 00:08:26,840 --> 00:08:33,000
 Eine so große Website zu führen
-und ein so riesigen Tracker.
+und einen so riesigen Tracker.
 
 77
 00:08:33,160 --> 00:08:41,680
 Mit Computern zu spielen,
-die ich mir selbst niemals leisten konnte.
+die ich mir selbst niemals leisten könnte.
 
 78
 00:08:41,840 --> 00:08:45,040
-Als erstes möchte ich sie fragen...
+Als erstes möchte ich Sie fragen ...
 
 79
 00:08:45,200 --> 00:08:51,000
-Die Medien beschreiben sie als 
+Die Medien beschreiben Sie als 
 ein Computergenie.
 
 80
 00:08:51,160 --> 00:08:54,920
-Wie würden sie ihr Fähigkeiten
+Wie würden Sie Ihre Fähigkeiten
 selbst beschreiben?
 
 81
@@ -387,7 +387,7 @@ meinen Lebenslauf zu präsentieren.
 
 84
 00:09:11,439 --> 00:09:15,800
-Aber ich frage sie.
+Aber ich frage Sie.
 Bitte antworten Sie höflicherweise.
 
 85
@@ -452,7 +452,7 @@ So sieht unser Büro aus.
 
 98
 00:10:14,280 --> 00:10:18,600
-Ist das innerhalb von The Pirate Bay?
+Ist das innerhalb von „The Pirate Bay“?
 
 99
 00:10:18,760 --> 00:10:25,680
@@ -483,7 +483,7 @@ The Pirate Bay.
 
 105
 00:11:03,320 --> 00:11:08,200
-Das ist unser Web Server.
+Das ist unser Web-Server.
 Datenbank und Such-Funktion.
 
 106
@@ -498,7 +498,7 @@ Es ist der größte Tracker der Welt.
 108
 00:11:17,920 --> 00:11:21,720
 Er koordiniert 50%
-des weltweiten BitTorrent Traffic.
+des weltweiten BitTorrent-Traffics.
 
 109
 00:11:21,879 --> 00:11:26,160
@@ -566,7 +566,7 @@ Megabit und Megabyte durcheinander bringen.
 122
 00:12:49,320 --> 00:12:55,600
 Im Allgemeinen benutzt man für Speicherplatz Byte und
-für Übertragungseschwindigkeit Bit.
+für Übertragungsgeschwindigkeit Bit.
 
 123
 00:13:12,560 --> 00:13:18,200
@@ -620,7 +620,7 @@ wo ich in Schweden arbeite, angerufen.
 
 133
 00:13:57,439 --> 00:14:01,640
-Die US Regierung hat uns befohlen,
+Die US-Regierung hat uns befohlen,
 die Seite zu entfernen.
 
 134
@@ -646,7 +646,7 @@ mehr Bandbreite für The Pirate Bay.
 138
 00:14:20,760 --> 00:14:24,920
 Ich hatte die Leitung noch verfügbar.
-Also haben wir sie für The Pirate Bay benutzt.
+Also haben wir sie für „The Pirate Bay“ benutzt.
 
 139
 00:14:32,360 --> 00:14:38,479
@@ -656,11 +656,11 @@ Die Staatsanwaltschaft kann beginnen.
 140
 00:14:41,040 --> 00:14:45,439
 Ist es war, dass zwischen den
-Computern von The Pirate Bay-
+Computern von „The Pirate Bay“-
 
 141
 00:14:45,600 --> 00:14:47,800
--auch einer war der ihnen gehörte?
+-auch einer war der Ihnen gehörte?
 
 142
 00:14:47,959 --> 00:14:51,560
@@ -709,7 +709,7 @@ Ich denke es ist problematisch.
 
 152
 00:15:29,280 --> 00:15:32,320
-In welcher Weiße?
+In welcher Weise?
 
 153
 00:15:32,479 --> 00:15:36,879
@@ -718,12 +718,12 @@ zeigt, dass es ein Problem gibt.
 
 154
 00:15:44,400 --> 00:15:47,760
-Erstmal glaube ich nicht-
+Erst einmal glaube ich nicht, -
 
 155
 00:15:47,920 --> 00:15:55,400
--dass junge Menschen denke,
-dass Copyright falsch ist.
+-dass junge Menschen denken,
+Copyright sei falsch.
 
 156
 00:15:55,560 --> 00:15:58,400
@@ -731,7 +731,7 @@ Ich denke das ist ein Mythos.
 
 157
 00:15:58,560 --> 00:16:04,000
-Diese Kopimi Sekte-
+Diese Kopimi-Sekte-
 
 158
 00:16:04,160 --> 00:16:07,160
@@ -748,12 +748,12 @@ Wir haben es ein bisschen verändert.
 
 161
 00:16:25,360 --> 00:16:28,439
-Also die Frage
+Als die Frage
 in der Zeitung war:
 
 162
 00:16:28,600 --> 00:16:33,119
-"Wenn The Pirate Bay verurteilt wird,
+"Wenn „The Pirate Bay“ verurteilt wird,
 würden sie dann nicht Märtyrer werden?"
 
 163
@@ -764,7 +764,7 @@ Monique sagte:
 164
 00:16:37,200 --> 00:16:42,000
 "Sie haben nur eine kleine
-Kopimi Sekte, die ihnen folgt".
+Kopimi-Sekte, die ihnen folgt".
 
 165
 00:16:44,920 --> 00:16:47,520
@@ -806,7 +806,7 @@ Wir haben das noch nie gemocht.
 
 173
 00:17:21,479 --> 00:17:23,640
-Das Anti-Piraterie Büro
+Das Anti-Piraterie-Büro
 gab es schon-
 
 174
@@ -816,18 +816,18 @@ aktive Fraktion in diesem Konflikt waren.
 
 175
 00:17:30,119 --> 00:17:33,439
-Das Anti-Piraterie Büro
+Das Anti-Piraterie-Büro
 war die reaktive Partei.
 
 176
 00:17:33,600 --> 00:17:35,560
 Das ist Henrik Pontén
-vom Anti-Piraterie Büro.
+vom Anti-Piraterie-Büro.
 
 177
 00:17:35,720 --> 00:17:40,040
 Uns wurde mitgeteilt,
-das sie Raubkopien verkaufen.
+dass Sie Raubkopien verkaufen.
 
 178
 00:17:40,200 --> 00:17:44,920
@@ -874,11 +874,11 @@ Sie tun es, weil es einfach und umsonst ist.
 187
 00:18:19,680 --> 00:18:23,320
 Dann ist da noch eine kleine Gruppe
-von Leuten...
+von Leuten ...
 
 188
 00:18:23,479 --> 00:18:29,280
-...die es aus Gründen der
+... die es aus Gründen der
 Redefreiheit machen, wie sie behaupten.
 
 189
@@ -917,7 +917,7 @@ so eine große Seite zu betreiben.
 
 196
 00:19:05,560 --> 00:19:07,560
-Beschreiben sie die Wichtigkeit von The Pirate Bay.
+Beschreiben Sie die Wichtigkeit von „The Pirate Bay“.
 
 197
 00:19:07,720 --> 00:19:13,680
@@ -926,11 +926,11 @@ Bedingungen für die Redefreiheit.
 
 198
 00:19:13,840 --> 00:19:17,080
-Was hat das mit Copyright Material zu tun?
+Was hat das mit Copyright-Material zu tun?
 
 199
 00:19:17,239 --> 00:19:22,239
-The Pirate Bay macht es für jedermann
+„The Pirate Bay“ macht es für jedermann
 möglich seine Sachen zu teilen.
 
 200
@@ -957,7 +957,7 @@ Das ist das größte Problem im Moment.
 
 205
 00:19:42,360 --> 00:19:45,520
-Die Copyright Industrie gräbt
+Die Copyright-Industrie gräbt
 das Grab für das Internet.
 
 206
@@ -972,7 +972,7 @@ die Unternehmen führen.
 
 208
 00:19:54,360 --> 00:19:59,320
-Sie wissen wie man damals Geld gemacht hat
+Sie wissen wie man früher Geld gemacht hat
 und wollen nicht, dass sich das ändert.
 
 209
@@ -983,11 +983,11 @@ Sie wissen wie man auch ohne Elektrizität leben kann.
 210
 00:20:07,160 --> 00:20:10,600
 Roger Wallis,
-bitte kommen sie in Gerichtssaal 9.
+bitte kommen Sie in Gerichtssaal 9.
 
 211
 00:20:10,760 --> 00:20:15,280
-Denken sie, dass Leute die Filme downloaden,
+Denken Sie, dass Leute die Filme downloaden,
 sich diese auch kaufen?
 
 212
@@ -1027,16 +1027,16 @@ zusammentragen konnten.
 219
 00:20:47,479 --> 00:20:51,239
 Sie sagten vor Gericht, dass
-sie ein Professor sind-
+Sie ein Professor sind-
 
 220
 00:20:51,400 --> 00:20:56,080
--aber ihr Institut nennt sie
+-aber Ihr Institut nennt Sie
 einen vorrübergehenden Gast-Dozenten
 
 221
 00:20:56,239 --> 00:20:59,920
--Wissen sie wie man Google benutzt?
+-Wissen Sie wie man Google benutzt?
 -Ja.
 
 222
@@ -1056,7 +1056,7 @@ Dankeschön, euer Ehren.
 
 225
 00:21:11,879 --> 00:21:16,479
-Als sie eingestellt wurden,
+Als Sie eingestellt wurden,
 gab es da irgendwelche Konkurrenten?
 
 226
@@ -1067,7 +1067,7 @@ Euer Ehren?
 227
 00:21:20,560 --> 00:21:24,600
 -Ich hätte gerne eine Antwort.
--Bitte, beantworten sie die Frage.
+-Bitte, beantworten Sie die Frage.
 
 228
 00:21:24,760 --> 00:21:26,800
@@ -1076,11 +1076,11 @@ Ich habe keine Ahnung!
 229
 00:21:26,959 --> 00:21:31,360
 Ich wurde gebeten zu kommen, das haben wir doch schon 
-durchgesprochen... und sind schon wieder bei diesem Thema.
+durchgesprochen ... und sind schon wieder bei diesem Thema.
 
 230
 00:21:31,520 --> 00:21:36,439
-...das Standard-Auswahl-Verfahren beim
+... das Standard-Auswahl-Verfahren beim
 Royal Institute of Technology.
 
 231
@@ -1100,11 +1100,11 @@ für diesen Posten.
 234
 00:21:48,920 --> 00:21:52,040
 Dankeschön.
-Bitte beantworten sie nur die Frage.
+Bitte beantworten Sie nur die Frage.
 
 235
 00:21:53,600 --> 00:21:56,720
-Wie tief kan man sinken.
+Wie tief kann man sinken.
 
 236
 00:21:56,879 --> 00:22:00,640
@@ -1113,8 +1113,8 @@ dem Ergebnis ihrer Untersuchung.
 
 237
 00:22:00,800 --> 00:22:05,640
-Sie konnten sie darüber nicht angreifen,
-also haben sie sie auf persönlicher Ebene angegriffen.
+Sie konnten Sie darüber nicht angreifen,
+also haben sie Sie auf persönlicher Ebene angegriffen.
 
 238
 00:22:05,800 --> 00:22:11,800
@@ -1147,12 +1147,12 @@ nun auch nach Schweden kommen.
 
 244
 00:22:38,640 --> 00:22:43,439
-Hätten sie gerne eine Entschädigung
+Hätten Sie gerne eine Entschädigung
 für ihre Beteiligung heute?
 
 245
 00:22:43,600 --> 00:22:48,520
-Bitte schicken sie meiner Frau Blumen
+Bitte schicken Sie meiner Frau Blumen
 für die schlaflose Nacht.
 
 246
@@ -1176,7 +1176,7 @@ Ich gucke hier gerade auf "TorrentFreak":
 
 250
 00:23:05,520 --> 00:23:08,400
-"Pirate Bay Zeuge
+"Pirate-Bay-Zeuge
 mit Blumen überhäuft."
 
 251
@@ -1186,16 +1186,16 @@ Leute schreibt:
 
 252
 00:23:11,479 --> 00:23:14,840
-"Wenigstens einer aus der älteren Gernation"... Ich bin ein alter Mann.
+"Wenigstens einer aus der älteren Generation" ... Ich bin ein alter Mann.
 
 253
 00:23:15,000 --> 00:23:16,959
-..."scheint zu verstehen wie wir denken"
+... "scheint zu verstehen wie wir denken"
 
 254
 00:23:17,119 --> 00:23:20,520
-Ausserdem argumentiere
-ich hier als Komponist...
+Außerdem argumentiere
+ich hier als Komponist ...
 
 255
 00:23:20,680 --> 00:23:23,720
@@ -1224,13 +1224,13 @@ Haufen von Rechten sitzen.
 
 260
 00:23:49,160 --> 00:23:53,640
-Ein Polizeibeamter, welcher bei der
-Pirate Bay Untersuchen beteiligt war-
+Ein Polizeibeamter, welcher bei den
+Pirate-Bay-Untersuchen beteiligt war-
 
 261
 00:23:53,800 --> 00:24:00,280
 -wurde kurz nach der Untersuchung 
-von einem Film-Studio angestellt
+von einem Film-Studio angestellt.
 
 262
 00:24:00,439 --> 00:24:05,520
@@ -1268,7 +1268,7 @@ Das habe ich, aber sie haben den Fall fallen gelassen.
 
 269
 00:24:30,680 --> 00:24:34,439
-Also...in dem Fall 
+Also ... in dem Fall 
 kann ich da nichts machen.
 
 270
@@ -1283,13 +1283,13 @@ er ein Vermögen von 120 000 Dollar erhalten hat.
 
 272
 00:24:45,280 --> 00:24:49,680
-Das verdammte Verfahren wir von
+Das verdammte Verfahren wird von
 Tag zu Tag bizarrer.
 
 273
 00:24:55,680 --> 00:24:59,280
 Ich glaube es gab schon wieder einen
-Stromausfall bei The Pirate Bay.
+Stromausfall bei „The Pirate Bay“.
 
 274
 00:24:59,439 --> 00:25:04,360
@@ -1339,16 +1339,16 @@ den ganzen Tag nicht im Internet.
 283
 00:25:49,800 --> 00:25:55,280
 Auf Seite 24
-sie haben eine E-Mail erhalten-
+Sie haben eine E-Mail erhalten-
 
 284
 00:25:55,439 --> 00:26:00,800
--welche sie an Gottfrid und Peter Sunde
+-welche Sie an Gottfrid und Peter Sunde
 weitergeleitet haben.
 
 285
 00:26:02,280 --> 00:26:04,600
-Wieso haben sie die Mail weitergeleitet?
+Wieso haben Sie die Mail weitergeleitet?
 
 286
 00:26:04,760 --> 00:26:08,479
@@ -1376,7 +1376,7 @@ in meinem Filter.
 
 291
 00:26:23,439 --> 00:26:28,200
-Wieso würde sie eine E-Mail-
+Wieso würden Sie eine E-Mail-
 
 292
 00:26:28,360 --> 00:26:31,640
@@ -1389,12 +1389,12 @@ welche ich nicht erbeten habe.
 
 294
 00:26:37,000 --> 00:26:42,400
-Fredrik Neij sagte,
-dass sobald er die E-Mails erhalten hat-
+Fredrik Neij sagte
+dass, sobald er die E-Mails erhalten hat-
 
 295
 00:26:42,560 --> 00:26:47,160
--welche von einem Copyright Besitzer kamen-
+-welche von einem Copyright-Besitzer kamen, -
 
 296
 00:26:47,320 --> 00:26:53,000
@@ -1422,7 +1422,7 @@ Weise beantwortet.
 
 301
 00:27:13,439 --> 00:27:16,920
-Wieso wurde es zu ihnen gesendet?
+Wieso wurde es zu Ihnen gesendet?
 
 302
 00:27:17,080 --> 00:27:20,920
@@ -1446,21 +1446,21 @@ Die ersten 100 Male sagten wir noch:
 
 306
 00:27:50,360 --> 00:27:53,680
-Die Firma PRQ...
+Die Firma PRQ ...
 
 307
 00:27:53,840 --> 00:27:59,680
--Was das ein Web-Hotel?
+-War das ein Web-Hotel?
 -Ja, es wurde gerade gegründet.
 
 308
 00:28:00,959 --> 00:28:06,040
 Stimmt es, dass die Staatsanwaltschaft
-195 Server beschlagnamt hat-
+195 Server beschlagnahmt hat-
 
 309
 00:28:06,200 --> 00:28:09,479
--und das 11 davon zu The Pirate Bay gehörten?
+-und das 11 davon zu „The Pirate Bay“ gehörten?
 
 310
 00:28:09,640 --> 00:28:13,119
@@ -1474,12 +1474,12 @@ Das ist eine richtige Ungerechtigkeit.
 312
 00:28:17,040 --> 00:28:22,160
 Sie greifen eine Firma an, welche nichts
-mit The Pirate Bay zu tun hat.
+mit „The Pirate Bay“ zu tun hat.
 
 313
 00:28:22,320 --> 00:28:29,439
 Nur weil die Mitbegründer zum Spaß
-bei The Pirate Bay involviert sind.
+bei „The Pirate Bay“ involviert sind.
 
 314
 00:28:30,840 --> 00:28:35,200
@@ -1498,20 +1498,20 @@ Unsere Kunden-Datenbank war verschlüsselt.
 317
 00:28:42,200 --> 00:28:47,760
 Die Polizei hat unsere Server beschlagnamt,
-aber hat keine Inforamtionen über unsere Kunden bekommen.
+aber hat keine Informationen über unsere Kunden bekommen.
 
 318
 00:28:48,920 --> 00:28:52,879
-Als The Pirate Bay nach
+Als „The Pirate Bay“ nach
 der Razzia nicht erreichbar war-
 
 319
 00:28:53,040 --> 00:28:55,800
--hatte ihr keine Server mehr, richtig?
+-hattet ihr keine Server mehr, richtig?
 
 320
 00:28:55,959 --> 00:28:58,560
-Ihr wart nach drei Tage wieder online.
+Ihr wart nach drei Tagen wieder online.
 Wo habt ihr die Server herbekommen?
 
 321
@@ -1531,7 +1531,7 @@ Es ist eine Co-Location Firma.
 324
 00:29:09,400 --> 00:29:14,000
 Es ist mir ein Vergnügen zu verkünden,
-das The Pirate Bay wieder online ist!
+dass „The Pirate Bay“ wieder online ist!
 
 325
 00:29:14,160 --> 00:29:16,720
@@ -1545,13 +1545,13 @@ In your face, Hollywood!
 327
 00:29:30,400 --> 00:29:36,360
 Das ist so wie ihr mich behandelt habt.
-Ich habe ein Brief von euren Anwäten bekommen,
+Ich habe einen Brief von euren Anwälten bekommen,
 in dem steht:
 
 328
 00:29:36,520 --> 00:29:40,600
 "Schwedens Gesetze können dich nicht beschützen.
-Die US Gesetze werden dich kriegen."
+Die US-Gesetze werden dich kriegen."
 
 329
 00:29:40,760 --> 00:29:45,360
@@ -1561,7 +1561,7 @@ Ich hatte zwei vor meinem Haus.
 330
 00:29:45,520 --> 00:29:49,600
 -Davon weiß ich nichts.
--Aber es ist ihre Verantwortung.
+-Aber es ist Ihre Verantwortung.
 
 331
 00:29:49,760 --> 00:29:51,600
@@ -1599,11 +1599,11 @@ dass File Sharing gut ist.
 338
 00:30:14,439 --> 00:30:19,119
 Dann könnten wir uns auf Wege konzentrieren,
-druch die die Künstler Geld verdienen.
+durch die die Künstler Geld verdienen.
 
 339
 00:30:19,280 --> 00:30:23,959
--Wir denken das File Sharing gut ist.
+-Wir denken dass File Sharing gut ist.
 -Sicher. Aber ihr verklagt jeden.
 
 340
@@ -1617,7 +1617,7 @@ die Copyright Gesetze respektieren.
 
 342
 00:30:54,119 --> 00:30:59,800
-Was ist das Ziel von The Pirate Bay,
+Was ist das Ziel von „The Pirate Bay“,
 ihrer Meinung nach?
 
 343
@@ -1651,7 +1651,7 @@ Idee von der größten Webseite der Welt.
 
 349
 00:31:31,000 --> 00:31:36,479
--Wie wird The Pirate Bay finanziert?
+-Wie wird „The Pirate Bay“ finanziert?
 -Wie wird die Webseite finanziert?
 
 350
@@ -1681,16 +1681,16 @@ Carl Lundström ist eine interessante Person.
 355
 00:31:56,600 --> 00:32:00,600
 Er steht hinter vielen
-politisch-Rechten Organisationen
+politisch-rechten Organisationen
 
 356
 00:32:00,760 --> 00:32:04,959
 Carl Lundström
-hat offensichtlich Geld an...
+hat offensichtlich Geld an ...
 
 357
 00:32:05,119 --> 00:32:09,320
-Beantworten sie die Frage!
+Beantworten Sie die Frage!
 Repäsentiert er diese Organisationen?
 
 358
@@ -1713,13 +1713,13 @@ seine Ansichten zu verteidigen.
 
 362
 00:32:29,080 --> 00:32:32,119
-Wir waren bei schon auf Abschussliste
-von einer Neo-Nazi Organisation.
+Wir waren schon auf der Abschussliste
+einer Neo-Nazi-Organisation.
 
 363
 00:32:32,280 --> 00:32:37,000
 Es fühlt sich komisch an, beschuldigt zu
-werden, eine Neo-Nazi Organisation gegründet zu haben.
+werden, eine Neo-Nazi-Organisation gegründet zu haben.
 
 364
 00:32:37,160 --> 00:32:38,400
@@ -1737,17 +1737,17 @@ einem zuhören-
 
 367
 00:32:49,080 --> 00:32:54,280
--dann sollte man die Positonn ausnutzen,
+-dann sollte man die Positon ausnutzen,
 um Gutes zu tun.
 
 368
 00:32:57,640 --> 00:33:01,600
 Wann bist du der Sprecher für 
-The Pirate Bay geworden?
+„The Pirate Bay“ geworden?
 
 369
 00:33:01,760 --> 00:33:07,200
-Also, das ist kein offizieller Titel, aber
+Also, das ist kein offizieller Titel, sondern
 eine Funktion die mir gegeben wurde.
 
 370
@@ -1757,7 +1757,7 @@ aber es war wichtig zu zeigen-
 
 371
 00:33:11,720 --> 00:33:15,280
--dass The Pirate Bay 
+-dass „The Pirate Bay“
 etwas wichtiges macht.
 
 372
@@ -1778,7 +1778,7 @@ Er tauchte auf als wir ein
 375
 00:33:32,239 --> 00:33:37,320
 Denn weder Fredrik, noch ich fühlen
-sich in möbelierten Räumen wohl.
+uns in möbelierten Räumen wohl.
 
 376
 00:33:37,479 --> 00:33:40,959
@@ -1811,7 +1811,7 @@ Das ist wie IRCnet und EFnet.
 382
 00:34:00,879 --> 00:34:04,320
 -Komm schon.
--Das war das Museum of Modern Art...
+-Das war das Museum of Modern Art ...
 
 383
 00:34:04,479 --> 00:34:07,160
@@ -1851,7 +1851,7 @@ alten Zahlen.
 
 391
 00:34:39,840 --> 00:34:45,160
-Wenn sie mir einen Tag geben,
+Wenn Sie mir einen Tag geben,
 finde ich ein paar Beispiele.
 
 392
@@ -1867,11 +1867,11 @@ angemessen an?
 394
 00:34:54,080 --> 00:34:57,280
 Das hört sich ganz gut an.
-Es ist auf jeden Fall in der richtigen Größenordunung.
+Es ist auf jeden Fall in der richtigen Größenordnung.
 
 395
 00:34:57,439 --> 00:35:00,119
-In der richtigen Größenordnung, sagen sie.
+In der richtigen Größenordnung, sagen Sie.
 
 396
 00:35:00,280 --> 00:35:06,040
@@ -1881,7 +1881,7 @@ wie die Gewinne aufgeteilt werden?
 397
 00:35:06,200 --> 00:35:11,040
 -Ich habe keine Ahnung.
--Haben sie nicht. Gut.
+-Haben Sie nicht. Gut.
 
 398
 00:35:11,200 --> 00:35:15,800
@@ -1908,7 +1908,7 @@ und kann nicht zur Arbeit gehen-
 
 403
 00:35:30,280 --> 00:35:33,160
-Wann gehst du zurück nach Kambodia?
+Wann gehst du zurück nach Kambodscha?
 
 404
 00:35:33,320 --> 00:35:37,239
@@ -1922,7 +1922,7 @@ zu dem Fall?
 
 406
 00:35:55,360 --> 00:36:01,239
-Es ist schön, wenn er vorbei ist.
+Es ist schön, wenn es vorbei ist.
 Morgen ist es nur ein halber Tag.
 
 407
@@ -1952,7 +1952,7 @@ Büro ein IRC-Chatroom ist-
 
 412
 00:36:21,360 --> 00:36:24,400
--dass würden die nicht glauben.
+-das würden die nicht glauben.
 
 413
 00:36:24,560 --> 00:36:30,119
@@ -1962,7 +1962,7 @@ Sie stellen Fragen über Verträge und Unternehmen.
 414
 00:36:30,280 --> 00:36:34,280
 Ja, wir haben versucht uns zu organisieren,
-aber sind jedes Mal gescheiter.
+aber sind jedes Mal gescheitert.
 
 415
 00:36:34,439 --> 00:36:40,560
@@ -2050,12 +2050,12 @@ rechnet, 4 statt 64-
 
 434
 00:38:42,000 --> 00:38:44,160
--bekommt man eine sehr
-viel mehr realistischen Wert.
+-bekommt man einen
+wesentlich realistischeren Wert.
 
 435
 00:38:44,320 --> 00:38:46,800
-Aber die habe so viele Dinge
+Aber die haben so viele Dinge
 falsch berechnet.
 
 436
@@ -2108,11 +2108,11 @@ Es ist ihr Copyright.
 
 446
 00:39:38,720 --> 00:39:41,720
-Brauchen sie Hilfe.
+Brauchen Sie Hilfe.
 
 447
 00:39:41,879 --> 00:39:45,000
-Das ist die einzige Hilfe, die sie
+Das ist die einzige Hilfe, die Sie
 jemals von mir bekommen.
 
 448
@@ -2204,7 +2204,7 @@ Vor dem Gericht warten?
 
 467
 00:41:09,400 --> 00:41:12,040
-Gottfried, kannst du hier drüben sitzen?
+Gottfrid, kannst du hier drüben sitzen?
 
 468
 00:41:12,200 --> 00:41:16,920
@@ -2213,7 +2213,7 @@ teilnehmen. Ich hab es satt.
 
 469
 00:41:17,080 --> 00:41:23,360
--Es ist in Englisch.
+-Es ist auf Englisch.
 -Ich hab die verfickten Kameras satt.
 
 470
@@ -2232,7 +2232,7 @@ Hi alle zusammen.
 473
 00:41:34,800 --> 00:41:39,280
 Ich bin hier zusammen mit den
-Jungs von The Pirate Bay.
+Jungs von „The Pirate Bay“.
 
 474
 00:41:39,439 --> 00:41:43,239
@@ -2245,7 +2245,7 @@ Jungs etwas-
 
 476
 00:41:48,160 --> 00:41:51,040
--Ich wusste nicht das wir so langweilig sind.
+-Ich wusste nicht, dass wir so langweilig sind.
 -Du bist so langweilig.
 
 477
@@ -2255,12 +2255,12 @@ Film ihn.
 
 478
 00:41:57,439 --> 00:41:58,959
-Anakata! (Nickname von Gottfried)
+Anakata! (Nickname von Gottfrid)
 
 479
 00:42:10,280 --> 00:42:14,360
 Heute entscheidet das Gericht, ob
-die Männer hinter The Pirate Bay-
+die Männer hinter „The Pirate Bay“-
 
 480
 00:42:14,520 --> 00:42:17,119
@@ -2287,22 +2287,22 @@ Papa war nervöser als ich.
 
 485
 00:42:46,439 --> 00:42:51,800
-Das Urteil im Pirate Bay Fall ist gefallen.
+Das Urteil im Pirate-Bay-Fall ist gefallen.
 Es ist 11 Uhr.
 
 486
 00:42:51,959 --> 00:42:56,879
-Jeder von den vier Angeklagten wir zu
+Jeder von den vier Angeklagten wird zu
 einem Jahr Gefängnis verurteilt.
 
 487
 00:42:57,040 --> 00:43:01,879
 Des wird ihnen "Beihilfe bei der
-Copyright Verletzung" vorgeworfen.
+Copyright-Verletzung" vorgeworfen.
 
 488
 00:43:02,040 --> 00:43:07,439
--Also ein Jahr eingeserrt...
+-Also ein Jahr eingeserrt ...
 -Das ist so irrsinnig!
 
 489
@@ -2322,7 +2322,7 @@ Bleib ruhig.
 492
 00:43:28,520 --> 00:43:35,040
 Das Landgericht wird von Politikern
-kontrolliert. Wir nenne es das Würfelgericht.
+kontrolliert. Wir nennen es das Würfelgericht.
 
 493
 00:43:40,680 --> 00:43:44,479
@@ -2340,7 +2340,7 @@ Okay. Pass auf dich auf.
 496
 00:43:55,200 --> 00:43:59,680
 Das Landgericht hat das Urteil im
-Pirate Bay Fall gesprochen.
+Pirate-Bay-Fall gesprochen.
 
 497
 00:43:59,840 --> 00:44:05,840
@@ -2358,11 +2358,11 @@ Das ist so unglaublich!
 
 500
 00:44:24,800 --> 00:44:27,479
-Das abgekarteteste Spiel überhaupt.
+Das abgekartertste Spiel überhaupt.
 
 501
 00:44:27,640 --> 00:44:31,400
-Ich hab gerade keine Zeit.
+Ich habe gerade keine Zeit.
 Ich muss ablehnen.
 
 502
@@ -2378,15 +2378,15 @@ ins Gefängnis schicken.
 504
 00:44:40,840 --> 00:44:44,840
 In Schweden läuft das so,
-dass sie nichts tuen können...
+dass sie nichts tun können ...
 
 505
 00:44:45,000 --> 00:44:49,920
-...bis wir keine Berufung mehr einlegen können.
+... bis wir keine Berufung mehr einlegen können.
 
 506
 00:44:53,560 --> 00:44:58,160
--Wie nenn wir das?
+-Wie nennen wir das?
 -LOL?
 
 507
@@ -2414,7 +2414,7 @@ Und wir wurden auch gerade verprügelt.
 512
 00:45:14,119 --> 00:45:20,000
 Aber dank Hollywood wissen wir,
-das die Guten am Ende gewinnen.
+dass die Guten am Ende gewinnen.
 
 513
 00:45:20,160 --> 00:45:25,400
@@ -2430,11 +2430,11 @@ Und sie habe 30 Million zugesprochen bekommen.
 515
 00:45:28,680 --> 00:45:34,000
 Sie hätten auch 1 Billionen bekommen können,
-das spielt keine Rolle, weil...
+das spielt keine Rolle, weil ...
 
 516
 00:45:34,160 --> 00:45:37,800
-Wir sie nicht bezahlen könne und auch nicht wollen.
+... wir sie nicht bezahlen können und auch nicht wollen.
 
 517
 00:45:37,959 --> 00:45:41,800
@@ -2443,7 +2443,7 @@ bis auf die Knochen.
 
 518
 00:45:41,959 --> 00:45:46,560
-Es gibt keine Chance, das dass Urteil einer
+Es gibt keine Chance, dass das Urteil einer
 Berufung stand hält.
 
 519
@@ -2453,7 +2453,7 @@ den Atlantik für eine Wiedergutmachen überqueren.
 
 520
 00:45:52,800 --> 00:45:56,840
-Es bedeuten eine Menge,
+Es bedeutet eine Menge,
 Stellung zu beziehen.
 
 521
@@ -2463,7 +2463,7 @@ Staat regiert von Recht zu stärken.
 
 522
 00:46:02,320 --> 00:46:06,040
-Dem Richter im Pirate Bay Prozess wird
+Dem Richter im Pirate-Bay-Prozess wird
 ein Interessenkonflikt vorgeworfen.
 
 523
@@ -2477,12 +2477,12 @@ gehört die heute rausgekommen sind.
 
 525
 00:46:17,439 --> 00:46:19,800
-Der Richter im Pirate Bay Fall-
+Der Richter im Pirate-Bay-Fall-
 
 526
 00:46:19,959 --> 00:46:26,000
 -ist Mitglied in Organisationen, die
-mit Copyright Verstößen arbeitet.
+mit Copyright-Verstößen arbeitet.
 
 527
 00:46:26,160 --> 00:46:30,479
@@ -2497,7 +2497,7 @@ davon zu erfahren.
 529
 00:46:35,239 --> 00:46:39,720
 -Wieso haben sie das Gericht nicht informiert?
--Gute Frage. Ich hab es nicht.
+-Gute Frage. Ich habe es nicht.
 
 530
 00:46:39,879 --> 00:46:42,600
@@ -2506,7 +2506,7 @@ Ja, ich weiß was er gedacht hat.
 531
 00:46:42,760 --> 00:46:46,560
 "Meine Freunde sind glücklich,
-wenn ich in ihrem Sinne enscheide."
+wenn ich in ihrem Sinne entscheide."
 
 532
 00:46:46,720 --> 00:46:49,800
@@ -2583,13 +2583,13 @@ bei diesem Prozess-
 
 547
 00:48:15,800 --> 00:48:19,720
-Das Urteil ist fraglich, seit dem
-erkannt wurde, das es möglicheweiße eine Interessenkonflikt gibt.
+Das Urteil ist fraglich, seit dem erkannt wurde,
+dass es möglicherweise einen Interessenkonflikt gibt.
 
 548
 00:48:47,040 --> 00:48:52,439
 -Hier ist eine Raubkopie.
--Ich habe eine Parasiten.
+-Ich habe einen Parasiten.
 
 549
 00:49:25,600 --> 00:49:28,640
@@ -2649,12 +2649,12 @@ würde ich mich scheiden lassen.
 561
 00:50:45,400 --> 00:50:51,080
 Es war schon immer so mit
-The Pirate Bay. Chaos und Betrug.
+„The Pirate Bay“. Chaos und Betrug.
 
 562
 00:50:52,439 --> 00:50:56,320
 Letzten Montag kam ein Urteil
-von Stockholmer Landgericht-
+vom Stockholmer Landgericht-
 
 563
 00:50:56,479 --> 00:50:58,000
@@ -2662,8 +2662,8 @@ von Stockholmer Landgericht-
 
 564
 00:50:58,160 --> 00:51:05,080
-Black Internet, der Internetnabieter
-für Pirate Bay's Internetanbieter muss seine Arbeit einstellen-
+Black Internet, der Internet-Anbieter
+für Pirate Bay's Internet-Anbieter muss seine Arbeit einstellen-
 
 565
 00:51:05,239 --> 00:51:08,400
@@ -2706,11 +2706,11 @@ ihren eigenen Internetanbieter angemeldet hat.
 573
 00:51:47,840 --> 00:51:51,640
 Die Piratenpartei arbeitet für bessere
-Copyright Gesetzt und ein offenes Internet-
+Copyright-Gesetze und ein offenes Internet-
 
 574
 00:51:51,800 --> 00:51:54,400
--und für freien Zugang zu Kultur.
+-und für freien Zugang zu Kulturgut.
 
 575
 00:51:56,000 --> 00:51:58,959
@@ -2734,7 +2734,7 @@ in höchstem Maße.
 
 579
 00:52:17,080 --> 00:52:21,439
-Wenn wir als von der Piratenpartei gehosted
+Wenn wir also von der Piratenpartei gehosted
 werden, haben wir politischen Schutz.
 
 580
@@ -2744,12 +2744,12 @@ Man könnte sagen diplomatische Immunität.
 581
 00:52:28,160 --> 00:52:32,400
 Nach Tagen der Spekulation, kann "Rapport"
-nun enthüllen, das die Piratenpartei-
+nun enthüllen, dass die Piratenpartei-
 
 582
 00:52:32,560 --> 00:52:37,360
 -die Verantwortung, für die Sicherheit
-der Wikileaks Server übernommen hat.
+der Wikileaks-Server übernommen hat.
 
 583
 00:52:37,520 --> 00:52:42,479
@@ -2772,7 +2772,7 @@ da es doch keine Zensur gibt.
 587
 00:52:57,959 --> 00:53:01,400
 Gottfrid ist gut mit Technik-Sachen
-und Verschlüsselungen-
+und Verschlüsselung-
 
 588
 00:53:01,560 --> 00:53:04,600
@@ -2805,13 +2805,13 @@ weil sie angegriffen werden."
 
 594
 00:53:35,520 --> 00:53:40,439
-Das erste Mal als wir Kontakt hatte,
+Das erste Mal als wir Kontakt hatten,
 war als wir die Rechnung bezahlen mussten.
 
 595
 00:53:40,600 --> 00:53:43,560
-Weil niemand, und 
-das war ein andauerndes Problem...
+Weil niemand ..., und 
+das war ein andauerndes Problem ...
 
 596
 00:53:43,720 --> 00:53:46,360
@@ -2835,7 +2835,7 @@ kein Geld von WikiLeaks nehmen.
 600
 00:53:59,119 --> 00:54:04,040
 Ich bin dort hingeflogen und
-habe für ein Jahr ,und ein bisschen im Vorraus, gezahlt.
+habe für ein Jahr und ein bisschen im Voraus, gezahlt.
 
 601
 00:54:04,200 --> 00:54:08,040
@@ -2859,7 +2859,7 @@ der draußen im Auto auf ihn wartete.
 
 605
 00:54:23,080 --> 00:54:30,680
-Und sie hatte eine Vereinbarung,
+Und sie hatten eine Vereinbarung,
 dass Gottfrid immer in der Nähe des
 Fensters bleiben würde.
 
@@ -2869,8 +2869,8 @@ Also stand er da in der Lobby.
 
 607
 00:54:35,119 --> 00:54:39,920
-Mit seine lange Haaren.
-Er sah irgendwie...
+Mit seinen langen Haaren.
+Er sah irgendwie ...
 
 608
 00:54:40,080 --> 00:54:44,160
@@ -2889,7 +2889,7 @@ dachten eigentlich-
 
 611
 00:54:55,160 --> 00:54:59,239
--das wir einfach abhängen oder sowas.
+-dass wir einfach abhängen oder sowas.
 
 612
 00:54:59,400 --> 00:55:04,239
@@ -2913,7 +2913,7 @@ und der Typ ins Auto gesprungen ist-
 616
 00:55:16,119 --> 00:55:20,119
 -und abgehauen ist,
-dachten wir nur...
+dachten wir nur ...
 
 617
 00:55:20,280 --> 00:55:22,720
@@ -2931,7 +2931,7 @@ der die ganze Industrie zerstört hat?
 620
 00:55:35,959 --> 00:55:39,800
 Ich würde gerne die Anerkennung dafür bekommen,
-aber die habe ich nicht verdient. Sorry. Das waren die selber.
+aber die habe ich nicht verdient. Sorry. Das waren die selbst.
 
 621
 00:55:39,959 --> 00:55:44,080
@@ -2950,12 +2950,12 @@ Du hattest eine neue Idee: Flattr.
 624
 00:55:50,879 --> 00:55:55,239
 Es kommt von einer Dikussion,
-die wir während The Pirate Bay hatten.
+die wir während „The Pirate Bay“ hatten.
 
 625
 00:55:55,400 --> 00:56:00,800
 Es gab zwei Seiten. Eine Seite hat gesagt,
-es gibt kein Problem mit dem downloaden.
+es gibt kein Problem mit dem Downloaden.
 
 626
 00:56:00,959 --> 00:56:05,119
@@ -2974,13 +2974,13 @@ lädst Geld auf den Account.
 
 629
 00:56:16,720 --> 00:56:19,239
-Du kannst selber entscheiden,
+Du kannst selbst entscheiden,
 wieviel du jeden Monat ausgeben willst.
 
 630
 00:56:19,400 --> 00:56:24,680
-Dann findest du Flattr Buttons.
-Die sind wie Facebook Like Buttons.
+Dann findest du Flattr-Buttons.
+Die sind wie Facebook-Like-Buttons.
 
 631
 00:56:24,840 --> 00:56:27,600
@@ -3009,7 +3009,7 @@ Das ist das ganze Konzept.
 636
 00:56:49,400 --> 00:56:54,680
 Das Verfahren vor dem Berufungsgericht
-gegen The Pirate Bay ist heute gestartet.
+gegen „The Pirate Bay“ ist heute gestartet.
 
 637
 00:56:54,840 --> 00:56:57,640
@@ -3046,22 +3046,22 @@ Das Berufungsgericht bitte.
 644
 00:57:32,400 --> 00:57:36,119
 -Kommt Gottfrid?
--Ich bezweifel es.
+-Ich bezweifle es.
 
 645
 00:57:36,280 --> 00:57:39,239
--Ausser der teleportiert sich.
+-Außer der teleportiert sich.
 -Okay.
 
 646
 00:57:39,400 --> 00:57:45,000
-Er hat heute morgen geschrieben, das er im Kambodia
+Er hat heute morgen geschrieben, dass er im Kambodscha
 im Krankenhaus liegt, mit ein Parasiteninfektion.
 
 647
 00:57:47,320 --> 00:57:51,360
 Also ist es äußerst unwahrscheinlich
-das er kommen wird.
+dass er kommen wird.
 
 648
 00:57:54,040 --> 00:57:58,600
@@ -3075,7 +3075,7 @@ das er kommen wird.
 
 650
 00:58:02,520 --> 00:58:06,680
-Einer in Italien, einer in Holland...
+Einer in Italien, einer in Holland ...
 
 651
 00:58:06,840 --> 00:58:11,760
@@ -3131,11 +3131,11 @@ anhand dessen entscheiden.
 
 662
 00:59:04,600 --> 00:59:07,400
-Hey, danke fürs kommen!
+Hey, danke fürs Kommen!
 
 663
 00:59:08,479 --> 00:59:11,720
--Wie gehts ihnen?
+-Wie geht es Ihnen?
 -Ich bin wirklich krank.
 
 664
@@ -3160,7 +3160,7 @@ von Gottfrids Mutter bekommen.
 
 668
 00:59:30,119 --> 00:59:36,720
-Sie schreibt, er ist immernoch in Kambodia.
+Sie schreibt, er ist immernoch in Kambodscha.
 
 669
 00:59:36,879 --> 00:59:42,840
@@ -3172,7 +3172,7 @@ Er hatte vorher schon Probleme.
 
 671
 00:59:46,720 --> 00:59:52,320
-Wenn man ihn angucken, ist Gesundheit
+Wenn man ihn anguckt, ist Gesundheit
 nicht das erste was einem in den Sinn kommt.
 
 672
@@ -3182,7 +3182,7 @@ nicht das erste was einem in den Sinn kommt.
 
 673
 01:00:00,920 --> 01:00:03,920
-In Kambodia oder Thailand?
+In Kambodscha oder Thailand?
 
 674
 01:00:04,080 --> 01:00:09,239
@@ -3215,7 +3215,7 @@ Pionen ist eine Angeberei im Apple-Stil.
 680
 01:01:22,160 --> 01:01:26,760
 Der Tunnel-Computer ist der Eingang 
-vom Internet zu The Pirate Bay.
+vom Internet zu „The Pirate Bay“.
 
 681
 01:01:26,920 --> 01:01:30,360
@@ -3247,7 +3247,7 @@ Das ist ein teurer Tisch.
 
 687
 01:02:45,920 --> 01:02:50,959
-Hier. The Pirate Bay.
+Hier. „The Pirate Bay“.
 Und das ist alles.
 
 688
@@ -3257,11 +3257,11 @@ Wir leiten ein effizientes Schiff.
 689
 01:03:02,400 --> 01:03:06,520
 Wo wohnen die Leute die
-The Pirate Bay momentan leiten?
+„The Pirate Bay“ momentan leiten?
 
 690
 01:03:06,680 --> 01:03:11,720
-Weiß ich nicht. Fragen sie die Piratenpartei,
+Weiß ich nicht. Fragen Sie die Piratenpartei,
 die hosten die Bandbreite.
 
 691
@@ -3318,18 +3318,18 @@ Was heißt das?
 
 702
 01:04:12,600 --> 01:04:16,959
--Ich kann sie nicht zwingen zu unterschreiben.
--Nein, könne sie nicht.
+-Ich kann Sie nicht zwingen zu unterschreiben.
+-Nein, können Sie nicht.
 
 703
 01:04:17,119 --> 01:04:20,080
--Aber sie wurden informiert.
--Wer sind sie?
+-Aber Sie wurden informiert.
+-Wer sind Sie?
 
 704
 01:04:20,239 --> 01:04:23,879
 -Ich bin der Gerichtsdiener.
--Kann ich ihren Ausweis sehen?
+-Kann ich Ihren Ausweis sehen?
 
 705
 01:04:29,920 --> 01:04:36,119
@@ -3356,13 +3356,13 @@ Das ist auch für mich stressig.
 
 710
 01:04:51,119 --> 01:04:52,840
--Warum tun sie es dann?
+-Warum tun Sie es dann?
 -Es ist mein Job.
 
 711
 01:04:53,000 --> 01:04:56,800
-Haben sie Kinder? Dann 
-würde ich es verstehen, aber suchen sie sich eine besseren Job.
+Haben Sie Kinder? Dann 
+würde ich es verstehen, aber suchen Sie sich einen besseren Job.
 
 712
 01:04:56,879 --> 01:04:58,560
@@ -3375,7 +3375,7 @@ Ich habe schon darüber nachgedacht.
 
 714
 01:05:05,320 --> 01:05:08,439
--Also wissen sie nicht woher es ist?
+-Also wissen Sie nicht woher es ist?
 -Holland.
 
 715
@@ -3408,7 +3408,7 @@ die Verbechen begehen wollen."
 721
 01:05:35,959 --> 01:05:41,200
 "Sie wollen die Filme und Alben
-nur auf diese Weiße konsumieren."
+nur auf diese Weise konsumieren."
 
 722
 01:05:41,360 --> 01:05:46,680
@@ -3476,13 +3476,13 @@ Man könnte sagen er ist ein Taliban.
 
 736
 01:07:11,439 --> 01:07:18,760
-Ich bin zurück aus Kambodia.
+Ich bin zurück aus Kambodscha.
 Ich war dort für einen Monat.
 
 737
 01:07:18,920 --> 01:07:23,200
 Ich bin sehr beunruhigt
-über Gottfrid's Gesundheit.
+über Gottfrids Gesundheit.
 
 738
 01:07:25,200 --> 01:07:27,920
@@ -3518,7 +3518,7 @@ gesehen die Drogenprobleme hatten.
 
 745
 01:07:53,320 --> 01:07:59,720
-Und das ist... Wie soll ich sagen.
+Und das ist ... Wie soll ich sagen.
 Es ist hart.
 
 746
@@ -3553,7 +3553,7 @@ vegetarischer linkspolitischer Bastard.
 752
 01:08:43,239 --> 01:08:45,879
 Aber er hat Eier, weil
-er bei The Pirate Bay dabei ist?
+er bei „The Pirate Bay“ dabei ist?
 
 753
 01:08:46,040 --> 01:08:49,439
@@ -3606,7 +3606,7 @@ Er hat vier Kinder.
 
 763
 01:09:32,439 --> 01:09:39,439
-Ihn eine rechts-politischen Extremist zu nennen,
+Ihn einen rechts-politischen Extremisten zu nennen,
 war vor 10-20 Jahren korrekt.
 
 764
@@ -3653,7 +3653,7 @@ Er ist ein rassistisches Alkoholiker-Arschloch.
 
 773
 01:10:17,439 --> 01:10:23,040
-Alle E-Mail im The Pirate Bay
+Alle E-Mails im „The Pirate Bay“-
 Fall kommen von Anakata.
 
 774
@@ -3673,7 +3673,7 @@ in der gesamten IT-Geschichte.
 
 777
 01:10:43,360 --> 01:10:45,959
-Yeah, The Pirate Bay ist wirklich eng.
+Yeah, „The Pirate Bay“ ist wirklich eng.
 
 778
 01:10:50,879 --> 01:10:53,760
@@ -3690,7 +3690,7 @@ Ich bin überrascht, dass hier keine Kameras sind.
 
 781
 01:11:14,360 --> 01:11:19,320
--Die können sie wegwerfen.
+-Die können Sie wegwerfen.
 -Sie wurden hiermit rechtskräftig informiert.
 
 782
@@ -3699,7 +3699,7 @@ Kommt das auf YouTube?
 
 783
 01:11:22,439 --> 01:11:25,280
--Sie können sie wegwerfen.
+-Sie können Sie wegwerfen.
 -Sie können das machen.
 
 784
@@ -3725,7 +3725,7 @@ Sabaidee!
 
 789
 01:12:16,720 --> 01:12:20,280
-Wenn ich mir freigesprochen werde,
+Wenn ich freigesprochen werde,
 verklage ich sie auf Millionen.
 
 790
@@ -3739,7 +3739,7 @@ Fantasienzahlen. Ich bin Samstag in Schweden gelandet.
 
 792
 01:12:29,280 --> 01:12:35,360
-Ich helfe bei ein paar neuen Leaks Projektservern 
+Ich helfe bei ein paar neuen Leaks-Projektservern 
 in der Serverhalle aus.
 
 793
@@ -3812,7 +3812,7 @@ aber warum sollte ich, wenn ich nicht müsste?
 807
 01:14:02,439 --> 01:14:05,520
 Es gibt wirklich keinen Grund 
-für dich das zu tun.
+für dich, das zu tun.
 
 808
 01:14:05,680 --> 01:14:09,439
@@ -3886,7 +3886,7 @@ Gottfrid Svartholm war "krank".
 
 824
 01:15:44,680 --> 01:15:49,320
-"...wurde verkürzt, aber die Schadensersatzzahlungen
+"... wurde verkürzt, aber die Schadensersatzzahlungen
 wurden erhöht." Wir wurden verurteilt.
 
 825
@@ -3906,7 +3906,7 @@ den Verurteilten eine Verbindung nachgewiesen werden konnte."
 828
 01:16:08,760 --> 01:16:12,360
 "Fredrik Neij wurde zu
-zehn Monate Haft verurteilt, Peter Sunde zu acht"-
+zehn Monaten Haft verurteilt, Peter Sunde zu acht"-
 
 829
 01:16:12,520 --> 01:16:14,720
@@ -3969,11 +3969,11 @@ Verfickte Idioten.
 
 842
 01:17:17,680 --> 01:17:20,680
-Verfickte Windows Scheiße!
+Verfickte Windows-Scheiße!
 
 843
 01:17:20,840 --> 01:17:23,600
-Die Gesetzesbestimmung für Verjährungs sind fünf Jahre.
+Die Gesetzesbestimmung für Verjährung sind fünf Jahre.
 
 844
 01:17:23,760 --> 01:17:26,200
@@ -4046,7 +4046,7 @@ und nach Schweden abgeschoben.
 
 859
 01:19:10,000 --> 01:19:14,000
-Er wurde direkt mit mehreren anderen hacker-bezogenen Verbrechen belastet.
+Er wurde direkt mit mehreren anderen Hacker-bezogenen Verbrechen belastet.
 
 860
 01:19:15,160 --> 01:19:18,119
@@ -4054,7 +4054,7 @@ Meine Damen und Herren, liebe Freunde.
 
 861
 01:19:18,280 --> 01:19:22,439
-Wir treffen uns heute um eines-
+Wir treffen uns heute, um eines-
 
 862
 01:19:22,600 --> 01:19:26,920
@@ -4068,13 +4068,13 @@ Es ist sehr mutig von ihnen, mich heute hier zu haben.
 
 864
 01:19:31,879 --> 01:19:36,280
-Ich bin der Copyright Industrie jahrelang
+Ich bin der Copyright-Industrie jahrelang
 richtig auf den Sack gegangen.
 
 865
 01:19:36,439 --> 01:19:40,520
 Ich bin einer der Sprecher
-für The Priate Bay.
+für „The Pirate Bay“.
 
 866
 01:19:40,680 --> 01:19:45,720
@@ -4088,3 +4088,4 @@ zu seiner größten Zeit, und es wächst immer weiter.
 868
 01:19:52,000 --> 01:22:05,000
 Subs by *moogle19* and *dreck*
+Proofreading by *icwiener*
