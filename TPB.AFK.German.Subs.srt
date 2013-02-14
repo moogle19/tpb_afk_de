@@ -1,4092 +1,4110 @@
 1
+00:00:14,700 --> 00:00:21,000
+Anfang des 21.Jahrhunderts wuchs "The Pirate Bay" 
+zu der größten Filesharing Seite der Welt heran.
+
+2
+00:00:21,700 --> 00:00:28,000
+Im Jahr 2008 reichten Hollywood und die Medienindustrie
+Klage gegen die Männer, die hinter der Seite stecken, ein.
+
+3
+00:00:29,000 --> 00:00:35,000
+Dieser Film folgt den "The Pirate Bay"-Gründern
+Gottfrid Svartholm Warg, Fredrik Neij & Peter Sunde
+
+4
 00:01:47,959 --> 00:01:51,400
 Drei Schweden wurden heute festgenommen.
 Sie stehen unter dem Verdacht, eine der größten-
 
-2
+5
 00:01:51,560 --> 00:01:57,400
--Websites der Welt für illegales Downloading ...
+- Websites der Welt für illegales Downloading ...
 
-3
+6
 00:01:57,560 --> 00:02:02,040
 Guten Abend. Die US-Regierung droht
 mit Handelssanktionen-
 
-4
+7
 00:02:02,200 --> 00:02:05,560
-wenn File-Sharing-Seiten, wie
+wenn Filesharing-Seiten, wie
 „The Pirate Bay“ nicht geschlossen werden.
 
-5
+8
 00:02:05,720 --> 00:02:10,800
 Illegales Downloading hat die
 großen Hollywood-Organisationen verärgert ...
 
-6
+9
 00:02:10,959 --> 00:02:16,160
-Die Filmstudios haben verloren.
+Die Filmstudios haben 2005 geschätzte 6,1 Milliarden Dollar durch Online-Piraterie verloren
 
-7
+10
 00:02:16,320 --> 00:02:20,080
 Das Weiße Haus zwingt die
 Schwedische Regierung einzugreifen.
 
-8
-00:02:20,239 --> 00:02:24,239
-Wir loben die schwedischen Behörden.
-Es war eine wichtige Seite, die gestoppt werden musste.
-
-9
-00:02:24,400 --> 00:02:27,040
-Die Website der Polizei wurde am
-Freitag attackiert-
-
-10
-00:02:27,200 --> 00:02:30,200
-und letzte Nacht
-die Regierungs-Website.
-
 11
-00:03:00,160 --> 00:03:04,640
-Das Verfahren gegen die Gründer von
-„The Pirate Bay“ beginnt morgen.
+00:02:20,239 --> 00:02:24,239
+Wir loben die schwedischen Behörden für ihr Handeln.
+Es war uns wichtig, das diese Seite gestoppt wird.
 
 12
-00:03:04,800 --> 00:03:07,280
-Heute treffen sie die Presse.
+00:02:24,400 --> 00:02:27,040
+Die Webseite der Polizei wurde am
+Freitag attackiert-
 
 13
+00:02:27,200 --> 00:02:30,200
+und letzte Nacht
+die Webseite der Regierung.
+
+14
+00:03:00,160 --> 00:03:04,640
+Morgen beginnt das Verfahren gegen 
+die Gründer von „The Pirate Bay“.
+
+15
+00:03:04,800 --> 00:03:07,280
+Heute geben sie eine Pressekonferenz.
+
+16
 00:03:12,879 --> 00:03:17,640
 Was passiert mit „The Pirate Bay“
 wenn ihr für schuldig befunden werdet?
 
-14
+17
 00:03:17,800 --> 00:03:20,280
 Nichts.
 
-15
+18
 00:03:20,439 --> 00:03:24,360
 Was wollen Sie dagegen tun?
-Sie sind schon einmal gescheitert die Seite abzuschalten.
+Sie sind schon einmal daran gescheitert, die Seite abzuschalten.
 
-16
+19
 00:03:24,520 --> 00:03:28,680
-Sie sind eingeladen es zu versuchen
-und wieder zu scheitern.
+Sie sind eingeladen, es zu versuchen
+und nochmals daran zu scheitern.
 
-17
+20
 00:03:29,800 --> 00:03:33,040
 Es ist nicht „The Pirate Bay“,
 was morgen vor Gericht steht
 
-18
+21
 00:03:33,200 --> 00:03:38,840
 Es geht darum, uns,
 die in Verbindung mit „The Pirate Bay“ stehen, -
 
-19
+22
 00:03:39,000 --> 00:03:42,840
--in einen politischen Gerichtsprozess zu bringen.
+-in einen politischen Gerichtsprozess zu ziehen.
 
-20
+23
 00:03:43,000 --> 00:03:46,959
 In dem Gerichtsprozess morgen geht es nicht
-um das Recht, es geht um Politik.
+um das Gesetz, es geht um Politik.
 
-21
+24
 00:03:49,439 --> 00:03:53,879
 Die Hälfte des BitTorrent-Traffics
 wird von „The Pirate Bay“ koordiniert.
 
-22
+25
 00:03:54,040 --> 00:03:57,080
 Es ist eine extreme Menge an Traffic.
 
-23
+26
 00:03:57,239 --> 00:04:00,680
-Es gibt im Moment zwischen
-22-25 Millionen User.
+Es gibt im diesem Moment zwischen
+22-25 Millionen Nutzer.
 
-24
+27
 00:04:00,840 --> 00:04:05,200
-Ein User ist definiert als
-jemand der uploaded oder downloaded.
+Ein Nutzer ist definiert als
+jemand, der hochläd oder der runterläd.
 
-25
+28
 00:04:05,360 --> 00:04:06,640
 Irgendwelche Fragen?
 Bitte.
 
-26
+29
 00:04:06,800 --> 00:04:08,320
 Wo ist Fredrik?
 
-27
+30
 00:04:08,479 --> 00:04:10,320
 Wo ist Fredrik?
 
-28
+31
 00:04:10,479 --> 00:04:11,760
 Wir wissen es nicht.
 
-29
+32
 00:04:11,920 --> 00:04:16,320
-Er sollte hier sein
+Er sollte hier sein,
 aber wahrscheinlich hat er einen Kater.
 
-30
+33
 00:04:16,479 --> 00:04:19,520
 Erste Frage: Wo ist Fredrik?
 
-31
+34
 00:04:19,680 --> 00:04:23,879
 Ich habe gesagt, Fredrik feiert gerne.
 
-32
+35
 00:04:24,040 --> 00:04:28,800
 Ich wollte nicht lügen und ihnen sagen
 dass ich weiß, wo er war.
 
-33
+36
 00:04:28,959 --> 00:04:32,720
 Ich habe gestern den ganzen Tag probiert
 Fredrik zu erreichen.
 
-34
+37
 00:04:32,879 --> 00:04:39,879
 Ich habe ihn ein paar Mal angerufen
 und dann ist er endlich ran gegangen.
 
-35
+38
 00:04:40,040 --> 00:04:43,040
 Er sagt: "Weißt du wo ich bin?"
 
-36
+39
 00:04:43,200 --> 00:04:46,920
 Ich: "Nein."
 "Ich bin am Arlanda Flughafen."
 
-37
+40
 00:04:47,080 --> 00:04:51,280
 "Wieso das?"
 "Ich verschwinde."
 
-38
+41
 00:04:51,439 --> 00:04:53,879
 Was?
 
-39
+42
 00:04:54,040 --> 00:04:57,439
 Er sagte er hat ein Ticket gekauft-
 
-40
+43
 00:04:57,600 --> 00:05:04,600
--nach Kuala Lumpur, Malaysia. Was für
+- nach Kuala Lumpur, Malaysia. Was für
 ein großartiger Name für einen Fluchtplan.
 
-41
+44
 00:05:04,760 --> 00:05:12,239
 Sein Plan war es, nach Hause zu seiner
-Freundin nach Laos, zu fliegen
+Freundin, nach Laos, zu fliegen
 
-42
+45
 00:05:12,400 --> 00:05:18,520
 Er wollte mit ihr zusammenleben
-und sich eine Dreck um alles scheren.
+und sich eine Dreck um alles hier scheren.
 
-43
+46
 00:05:19,560 --> 00:05:25,000
 Dann hat er mir auf einmal geschrieben:
 
-44
+47
 00:05:25,160 --> 00:05:28,600
 "Ich glaube es ist die Sicherheitsbehörde.
 Das Flugzeug ist defekt."
 
-45
+48
 00:05:28,760 --> 00:05:33,320
 "Wo bist du denn jetzt?"
 "Auf dem Weg zurück ins Hotel."
 
-46
+49
 00:05:33,479 --> 00:05:35,720
 Puuuh!
 
-47
+50
 00:05:39,520 --> 00:05:44,080
-Das Interesse an der File-Sharing-
+Das Interesse an der Filesharing-
 Verhandlung in Stockholm ist riesig.
 
-48
+51
 00:05:47,720 --> 00:05:52,600
 Ihr könnt nicht ernsthaft glauben,
 das ihr unsere Welt stoppen könnt.
 
-49
+52
 00:05:52,760 --> 00:05:56,000
 -unsere Tagtäglichkeit, unsere Realität.
 
-50
+53
 00:06:05,720 --> 00:06:07,600
 Das ist so schwul.
 
-51
+54
 00:06:28,080 --> 00:06:30,640
 Monique Wadsted.
 
-52
+55
 00:06:30,800 --> 00:06:36,720
 Ich repräsentiere auch
 die Spieleindustrie. Aber nicht Musik.
 
-53
+56
 00:06:36,879 --> 00:06:40,160
 Wir haben die größte Schadensersatzforderung.
 
-54
+57
 00:06:40,320 --> 00:06:44,920
 Ich repräsentiere einige der
 großen Hollywood-Filmstudios.
 
-55
+58
 00:06:45,080 --> 00:06:51,000
 Warner Bros., Columbia,
 20th Century Fox and MGM.
 
-56
+59
 00:06:51,160 --> 00:06:55,040
 Wir fordern Entschädigungen
 in Höhe von 13 Millionen Dollar.
 
-57
+60
 00:06:55,200 --> 00:06:59,200
 Es mag sich verdammt hoch anhören.
 
-58
+61
 00:06:59,360 --> 00:07:06,479
 Das sollte eine Kennziffer dafür sein,
 wie groß das Geschäft ist.
 
-59
+62
 00:07:06,640 --> 00:07:10,280
 Es geht um
 5 Filme in 6 Monaten.
 
-60
+63
 00:07:10,439 --> 00:07:14,920
 "Der rosarote Panther", "Syriana",
 ein "Harry Potter"-
 
-61
+64
 00:07:15,080 --> 00:07:18,320
 -"Prison Break" und "Walk The Line".
 
-62
+65
 00:07:18,479 --> 00:07:21,119
-Es gibt keine Zweifel daran
+Es gibt keine Zweifel daran,
 was sie getan haben.
 
-63
+66
 00:07:21,280 --> 00:07:24,879
-Sie haben ein kommerzielles
+Sie betreiben ein kommerzielles
 Geschäft und machen Profit.
 
-64
+67
 00:07:25,040 --> 00:07:29,239
 Die Strafe für diese Art
 von Geschäft ist Gefängnis.
 
-65
+68
 00:07:29,400 --> 00:07:31,520
 Keine Geldstrafen.
 
-66
+69
 00:07:31,680 --> 00:07:37,239
 Fredrik möchte gerne sein Version
 erzählen bevor der Staatsanwalt beginnt.
 
-67
+70
 00:07:37,400 --> 00:07:42,160
 Wird das vom Staatsanwalt akzeptiert?
 Sie können beginnen, Fredrik Neij.
 
-68
+71
 00:07:42,320 --> 00:07:49,280
 Ich möchte damit beginnen, zu sagen,
 dass ich ein großes Interesse an Computern und IT habe.
 
-69
+72
 00:07:49,439 --> 00:07:53,400
-Und speziell am Internet und an Netzwerken
+Und speziell am Internet und an Netzwerken.
 
-70
+73
 00:07:53,560 --> 00:07:59,600
 Und dass ich ... Ähmm ...
 
-71
+74
 00:07:59,760 --> 00:08:04,160
 ... ich habe den Faden verloren.
 
-72
+75
 00:08:04,320 --> 00:08:10,200
 Sie haben vergessen, was sie sagen wollten.
 Sie haben ein großes Interesse an IT.
 
-73
+76
 00:08:10,360 --> 00:08:16,520
 Ich beteiligte mich an „The Pirate Bay“,
 wegen meines großes Interesses an IT.
 
-74
+77
 00:08:16,680 --> 00:08:21,800
 Ich denke, es macht sehr viel Spaß
 mit Technik zu arbeiten.
 
-75
+78
 00:08:23,439 --> 00:08:26,680
 Für mich ist „The Pirate Bay“
 eine technische Herauforderung.
 
+79
 00:08:26,840 --> 00:08:33,000
 Eine so große Website zu führen
 und einen so riesigen Tracker.
 
-77
+80
 00:08:33,160 --> 00:08:41,680
 Mit Computern zu spielen,
 die ich mir selbst niemals leisten könnte.
 
-78
+81
 00:08:41,840 --> 00:08:45,040
 Als erstes möchte ich Sie fragen ...
 
-79
+82
 00:08:45,200 --> 00:08:51,000
-Die Medien beschreiben Sie als
-ein Computergenie.
+Die Medien beschreiben Sie oft
+als ein Computergenie.
 
-80
+83
 00:08:51,160 --> 00:08:54,920
-Wie würden Sie Ihre Fähigkeiten
-selbst beschreiben?
+Wie würden Sie selbst 
+Ihre Fähigkeiten beschreiben?
 
-81
+84
 00:08:55,080 --> 00:08:57,760
 Ich habe einige technische Fähigkeiten, ja.
 
-82
+85
 00:08:57,920 --> 00:09:03,680
 Was heißt "einige"?
-im Vergleich zu Anderen?
+Im Vergleich zu Anderen?
 
-83
+86
 00:09:03,840 --> 00:09:11,280
 Ich bin nicht sicher, ob es die richtige Zeit,
 der richtige Ort oder das richtige Medium ist um
 meinen Lebenslauf zu präsentieren.
 
-84
+87
 00:09:11,439 --> 00:09:15,800
 Aber ich frage Sie.
 Bitte antworten Sie höflicherweise.
 
-85
+88
 00:09:15,959 --> 00:09:21,200
 Ich lehne es ab diese Frage zu beantworten.
 Es ist zu schwer zu beurteilen.
 
-86
+89
 00:09:21,360 --> 00:09:24,239
--Es ist was?
--Zu schwer zu beurteilen.
+- Es ist was?
+- Zu schwer zu beurteilen.
 
-87
+90
 00:09:24,400 --> 00:09:28,560
 -Zu schwer zu beurteilen?
 -Es ist eine schwerige Frage.
 
-88
+91
 00:09:28,720 --> 00:09:32,560
 Wie haben Sie Fredrik und Gottfrid kennengelernt?
 
-89
+92
 00:09:32,720 --> 00:09:39,360
 Ich kann mich nicht erinnern, aber
 ich glaube es war in einem Chatroom.
 
-90
+93
 00:09:39,520 --> 00:09:42,840
 Wann habt ihr euch das
 erste Mal IRL getroffen?
 
-91
+94
 00:09:43,000 --> 00:09:48,520
 Wir benutzen den Ausdruck IRL nicht.
 Wir sagen AFK. Aber das ist ein anderes Thema.
 
-92
+95
 00:09:48,680 --> 00:09:51,360
 Daran erinnere ich mich auch nicht.
 
-93
+96
 00:09:51,520 --> 00:09:54,600
 Sich im IRL treffen?
 Was ist das?
 
-94
+97
 00:09:54,760 --> 00:09:57,680
 In Real Life. (Im echten Leben)
 
-95
+98
 00:09:57,840 --> 00:10:01,520
 Wir mögen diesen Ausdruck nicht.
 Wir sagen AFK - Away From Keyboard.
 
-96
+99
 00:10:01,680 --> 00:10:04,119
 Wir denken das Internet ist real.
 
-97
+100
 00:10:11,720 --> 00:10:14,119
 So sieht unser Büro aus.
 
-98
+101
 00:10:14,280 --> 00:10:18,600
 Ist das innerhalb von „The Pirate Bay“?
 
-99
+102
 00:10:18,760 --> 00:10:25,680
 Ja. Hier sind einige Leute,
 die daran arbeiten.
 
-100
+103
 00:10:25,840 --> 00:10:28,439
--Arbeiten sie jetzt gerade daran?
--Ja, genau.
+- Sie arbeiten jetzt gerade daran?
+- Ja, genau.
 
-101
+104
 00:10:28,600 --> 00:10:32,280
 Wo kommen sie her? Aus Schweden?
 
-102
+105
 00:10:32,439 --> 00:10:37,920
 Gucken wir mal. USA, USA,
 USA oder England, England.
 
-103
+106
 00:10:38,080 --> 00:10:40,680
 Finnland, denke ich.
 
-104
+107
 00:11:00,439 --> 00:11:02,720
-The Pirate Bay.
+"The Pirate Bay".
 
-105
+108
 00:11:03,320 --> 00:11:08,200
-Das ist unser Web-Server.
+Das ist der Web-Server.
 Datenbank und Such-Funktion.
 
-106
+109
 00:11:08,360 --> 00:11:12,239
 Die Tracker sind hier drüben.
 
-107
+110
 00:11:13,280 --> 00:11:17,760
 Das kleine Ding ist der Tracker.
-Es ist der größte Tracker der Welt.
+Es ist der weltgrößte Tracker.
 
-108
+111
 00:11:17,920 --> 00:11:21,720
 Er koordiniert 50%
 des weltweiten BitTorrent-Traffics.
 
-109
+112
 00:11:21,879 --> 00:11:26,160
 Nicht so viele Computer,
 aber leistungsstark und gut konfiguriert.
 
-110
+113
 00:11:47,680 --> 00:11:50,479
 Der halbe Tag ist um.
 Wie lief es im Gerichtsaal?
 
-111
+114
 00:11:50,640 --> 00:11:52,680
 Bisher war es langweilig.
 
-112
+115
 00:11:52,840 --> 00:11:58,080
 Die Strategie des Staatsanwalt ist es
 so viel wie möglich zu lügen.
 Und das in der langweiligsten Art und Weise, -
 
-113
+116
 00:11:58,239 --> 00:12:02,200
 so dass man im Gerichtssaal einschläft
-und es einem physisch unmöglich wird sich selbst zu verteidigen.
+und es einem physisch unmöglich wird, sich selbst zu verteidigen.
 
-114
+117
 00:12:02,360 --> 00:12:08,640
 Manche sagen, ihr habt viel Geld
 mit der Verbreitung illegalen Materials gemacht.
 
-115
+118
 00:12:08,800 --> 00:12:13,520
-Wir haben wahrscheinlich eine viel gemacht,
-aber die Seite kostet auch viel.
+Wahrscheinlich haben wir eine Menge Geld gemacht,
+aber die Seite kostet auch viel Geld.
 
-116
+119
 00:12:14,720 --> 00:12:20,239
 Hi. Okay, wir kommen runter. Tschüss.
 
-117
+120
 00:12:20,400 --> 00:12:25,239
--Lass uns essen.
--Okay. Aber nichts vegetarisches.
+- Lass uns essen.
+- Okay. Aber nichts vegetarisches.
 
-118
+121
 00:12:25,400 --> 00:12:31,040
 Hast du nicht gerade, während des Verfahrens,
 an der Seite gearbeitet,
 für die wir vor Gericht stehen?
 
-119
+122
 00:12:31,200 --> 00:12:38,080
 Die Raubkopie der Depeche Mode CD
 in meinem Laptop ist viel lustiger.
 
-120
+123
 00:12:42,040 --> 00:12:43,959
 Er macht in 5 Minuten auf.
 
+124
 00:12:44,119 --> 00:12:49,160
 Wie zur Hölle kann Staatsanwalt Roswall
 Megabit und Megabyte durcheinander bringen.
 
-122
+125
 00:12:49,320 --> 00:12:55,600
 Im Allgemeinen benutzt man für Speicherplatz Byte und
 für Übertragungsgeschwindigkeit Bit.
 
-123
+126
 00:13:12,560 --> 00:13:18,200
 Es hat alles mit Gottfrids Seite
 "America's Dumbest Soldiers" angefangen.
 
-124
+127
 00:13:18,360 --> 00:13:21,520
 Es war eine Seite, auf der man
 Bewertungen von 1 bis 10 abgeben konnte.
 
-125
+128
 00:13:21,680 --> 00:13:26,239
 Es ging um amerikanische Soldaten,
 die während des ersten Irakkriegs starben.
 
-126
+129
 00:13:26,400 --> 00:13:30,360
 Dann konnte man bewerten,
-wie dumm sie waren-
+wie dumm sie waren -
 
-127
+130
 00:13:30,520 --> 00:13:33,879
--basierend darauf
+- basierend darauf,
 wie albern ihre Tode waren.
 
-128
+131
 00:13:34,040 --> 00:13:39,320
 Weder die amerikanische Regierung, noch
-irgendjemand sonst hat die Seite geschätzt.
+irgendjemand sonst schätzte diese Seite.
 
-129
+132
 00:13:39,479 --> 00:13:42,840
 Ich hatte eine freie Leitung,
 welche ich ihm für die Seite zur
 Verfügung gestellt habe.
 
-130
+133
 00:13:43,000 --> 00:13:45,479
 Sie war von der British Telecom.
 
-131
+134
 00:13:45,640 --> 00:13:51,280
 Jemand vom US State Department hat
 den Chef von der British Telecom angerufen.
 
-132
+135
 00:13:51,439 --> 00:13:57,280
 Er hat den Chef des Betreibers,
 wo ich in Schweden arbeite, angerufen.
 
-133
+136
 00:13:57,439 --> 00:14:01,640
 Die US-Regierung hat uns befohlen,
 die Seite zu entfernen.
 
-134
+137
 00:14:01,800 --> 00:14:04,840
-Wir haben lange gegen sie gekämpft,
+Wir haben lange gegen sie angekämpft,
 bevor wir sie entfernt haben.
 
-135
+138
 00:14:05,000 --> 00:14:09,239
-Wir haben argumentiert, das es um
-Redefreiheit und Parodie geht.
+Wir haben mit Redefreiheit und 
+das Recht auf Parodie argumentiert.
 
-136
+139
 00:14:09,400 --> 00:14:14,400
-Nach einer Weile haben wir es geschlossen,
-als es zu viel Theater gab.
+Aber nach einer Weile, als uns das Theater
+zu viel wurde, haben wir die Seite geschlossen.
 
-137
+140
 00:14:14,560 --> 00:14:20,600
 Zwei Monate später brauchte Gottfrid
 mehr Bandbreite für „The Pirate Bay“.
 
-138
+141
 00:14:20,760 --> 00:14:24,920
 Ich hatte die Leitung noch verfügbar.
 Also haben wir sie für „The Pirate Bay“ benutzt.
 
-139
+142
 00:14:32,360 --> 00:14:38,479
 Hörung mit dem Angeklagten Peter Sunde.
-Die Staatsanwaltschaft kann beginnen.
+Die Staatsanwaltschaft möge beginnen.
 
-140
+143
 00:14:41,040 --> 00:14:45,439
-Ist es war, dass zwischen den
-Computern von „The Pirate Bay“-
+Ist es wahr, dass zwischen den
+Computern von „The Pirate Bay“ -
 
-141
+144
 00:14:45,600 --> 00:14:47,800
--auch einer war der Ihnen gehörte?
+- auch ein Computer gelagert war, der Ihnen gehörte?
 
-142
+145
 00:14:47,959 --> 00:14:51,560
 Ich habe einen Computer gekauft,
 den ich dem Piratenbüro gegeben habe.
 
-143
+146
 00:14:51,720 --> 00:14:54,520
 Was ist das Piratenbüro?
 
-144
+147
 00:14:54,680 --> 00:15:00,479
 Es ist eine Organisation,
 welche das Internet diskutiert.
 
-145
+148
 00:15:00,640 --> 00:15:06,239
-Wird auch Copyright und File Sharing
-auf der Website diskutiert?
+Wird auch Copyright und Filesharing
+auf deren Webseite diskutiert?
 
-146
+149
 00:15:06,400 --> 00:15:07,760
 Warscheinlich.
 
-147
+150
 00:15:07,920 --> 00:15:12,040
 Und sie sind kritisch gegenüber
-der Art wie Copyright heutzutage funktioniert?
+der Art und Weise, wie das Copyright heutzutage funktioniert?
 
-148
+151
 00:15:12,200 --> 00:15:17,680
 Ich bin nicht sicher.
 Die Leute haben verschiedene Ansichten.
 
-149
+152
 00:15:19,080 --> 00:15:21,760
 Wie ist ihre Meinung dazu?
 
-150
+153
 00:15:21,920 --> 00:15:25,160
 Es ist schwer zu sagen.
 
-151
+154
 00:15:25,320 --> 00:15:29,119
 Ich denke es ist problematisch.
 
-152
+155
 00:15:29,280 --> 00:15:32,320
 In welcher Weise?
 
-153
+156
 00:15:32,479 --> 00:15:36,879
-Die Tatsache, dass wir heute hier sind
+Die Tatsache, dass wir heute hier sind,
 zeigt, dass es ein Problem gibt.
 
-154
+157
 00:15:44,400 --> 00:15:47,760
 Erst einmal glaube ich nicht, -
 
-155
+158
 00:15:47,920 --> 00:15:55,400
--dass junge Menschen denken,
+- dass junge Menschen denken,
 Copyright sei falsch.
 
-156
+159
 00:15:55,560 --> 00:15:58,400
 Ich denke das ist ein Mythos.
 
-157
+160
 00:15:58,560 --> 00:16:04,000
-Diese Kopimi-Sekte-
+Diese Kopimi-Sekte -
 
-158
+161
 00:16:04,160 --> 00:16:07,160
--war ziemlich gut darin
+- war ziemlich gut darin,
 das voranzutreiben.
 
-159
+162
 00:16:13,600 --> 00:16:15,800
-Es ist verdammt schön!
+Es ist so verdammt schön!
 
-160
+163
 00:16:22,239 --> 00:16:25,200
 Wir haben es ein bisschen verändert.
 
-161
+164
 00:16:25,360 --> 00:16:28,439
-Als die Frage
+Also, die Frage
 in der Zeitung war:
 
-162
+165
 00:16:28,600 --> 00:16:33,119
 "Wenn „The Pirate Bay“ verurteilt wird,
-würden sie dann nicht Märtyrer werden?"
+würden Sie dann nicht zu Märtyrer werden?"
 
-163
+166
 00:16:33,280 --> 00:16:37,040
 Monique sagte:
-"Nein, sie haben keine Unterstützer."
+"Nein, sie haben gar keine Anhängerschaft."
 
-164
+167
 00:16:37,200 --> 00:16:42,000
 "Sie haben nur eine kleine
 Kopimi-Sekte, die ihnen folgt".
 
-165
+168
 00:16:44,920 --> 00:16:47,520
 So süß. Das sind wir!
 
-166
+169
 00:16:49,720 --> 00:16:53,680
 Das Piratenbüro wurde
 im Sommer 2003 gegründet.
 
-167
+170
 00:16:53,840 --> 00:16:56,320
-Das war zur gleichen Zeit-
+Das war zur gleichen Zeit -
 
-168
+171
 00:16:56,479 --> 00:17:01,479
--zu der die Musikindustire
+- zu der die Musikindustire
 Napster verklagt hat-
 
-169
+172
 00:17:01,640 --> 00:17:07,920
 -und die Medizinindustrie Südafrika dafür,
 dass es HIV-Medikament kopiert hat.
 
-170
+173
 00:17:08,080 --> 00:17:11,520
 Der Name Piratenbüro war
 eine einfache Wahl.
 
-171
-00:17:11,680 --> 00:17:17,239
-Es ging nicht darum
-für Piratenkram zu schwärmen-
-
-172
-00:17:17,400 --> 00:17:21,320
--mit Augenklappen und dem Kram.
-Wir haben das noch nie gemocht.
-
-173
-00:17:21,479 --> 00:17:23,640
-Das Anti-Piraterie-Büro
-gab es schon-
-
 174
-00:17:23,800 --> 00:17:29,959
--wir wollten zeigen, das wir die
-aktive Fraktion in diesem Konflikt waren.
+00:17:11,680 --> 00:17:17,239
+Es ging nicht darum,
+für Piratenkram zu schwärmen -
 
 175
-00:17:30,119 --> 00:17:33,439
-Das Anti-Piraterie-Büro
-war die reaktive Partei.
+00:17:17,400 --> 00:17:21,320
+- mit Augenklappen und dem Kram.
+Das haben wir noch nie gemocht.
 
 176
+00:17:21,479 --> 00:17:23,640
+Das Anti-Piraterie-Büro
+gab es schon -
+
+177
+00:17:23,800 --> 00:17:29,959
+- wir wollten zeigen, dass wir die
+aktive Fraktion in diesem Konflikt sind.
+
+178
+00:17:30,119 --> 00:17:33,439
+Das Anti-Piraterie-Büro
+ist die reaktive Partei.
+
+179
 00:17:33,600 --> 00:17:35,560
 Das ist Henrik Pontén
 vom Anti-Piraterie-Büro.
 
-177
+180
 00:17:35,720 --> 00:17:40,040
 Uns wurde mitgeteilt,
 dass Sie Raubkopien verkaufen.
 
-178
+181
 00:17:40,200 --> 00:17:44,920
-Warte, schließ nicht die Tür.
+Warte, nicht die Tür schließen.
 Die Polizei wird mit einem Gerichtsbeschluss kommen.
 
-179
+182
 00:17:45,080 --> 00:17:51,680
 Sie habe ein Geschäft aufgebaut,
-basierend auf Menschen, die Verbrechen begehen.
+basierend darauf, dass andere Menschen Verbrechen begehen.
 
-180
+183
 00:17:51,840 --> 00:17:58,200
-Sie haben eine Industrie errichtet mit
-Bannern und Porno-Werbung um Gewinn zu erzielen.
+Sie haben eine Industrie mit Bannern
+und Porno-Werbung errichtet, um Gewinne zu erzielen.
 
-181
+184
 00:17:58,360 --> 00:17:59,720
 Es war sehr profitabel.
 
-182
+185
 00:17:59,879 --> 00:18:03,800
 Du machst deine Situation nur schlimmer.
 
-183
+186
 00:18:03,959 --> 00:18:08,040
--Mir muss es doch erlaubt sein, die Tür zu schließen.
--Dann komm vor die Tür.
+- Mir muss es doch erlaubt sein, die Tür zu schließen.
+- Dann kommen Sie vor die Tür.
 
-184
+187
 00:18:08,200 --> 00:18:11,160
 Wenn man sich Studien über
-File Sharing anguckt-
+Filesharing anguckt -
 
-185
+188
 00:18:11,320 --> 00:18:15,959
--tun die Leute es nicht aus Kameradschaft
+- tun die Leute es nicht aus Verbundenheit
 oder um die Ideologie dahinter zu unterstützen.
 
-186
+189
 00:18:16,119 --> 00:18:19,520
 Sie tun es, weil es einfach und umsonst ist.
 
-187
+190
 00:18:19,680 --> 00:18:23,320
 Dann ist da noch eine kleine Gruppe
 von Leuten ...
 
-188
+191
 00:18:23,479 --> 00:18:29,280
-... die es aus Gründen der
-Redefreiheit machen, wie sie behaupten.
+... die es aus, wie sie behaupten, "Gründen der
+Redefreiheit" machen.
 
-189
+192
 00:18:29,439 --> 00:18:33,439
 Unser Grundsatz war es immer,
 dass unsere Seite eine leere Seite ist-
 
-190
+193
 00:18:33,600 --> 00:18:38,720
 -welche von den Nutzern geschaffen wird.
 Wir greifen nicht in den Inhalt ein.
 
-191
+194
 00:18:38,879 --> 00:18:42,520
 Redefreiheit?
 
-192
+195
 00:18:42,680 --> 00:18:49,000
 Ich bevorzuge den technischen
 Standpunkt, ein Kontaktservice.
 
-193
+196
 00:18:49,160 --> 00:18:52,479
--Zur Kommunikation?
--Ja.
+- Zur Kommunikation?
+- Ja.
 
-194
+197
 00:18:54,280 --> 00:19:01,280
 Ich interessiere mich nicht für
 die Piraterie-Idiologie, Copyright oder Politik.
 
-195
+198
 00:19:01,439 --> 00:19:05,400
 Ich tue es, weil es sehr viel Spaß macht,
 so eine große Seite zu betreiben.
 
-196
+199
 00:19:05,560 --> 00:19:07,560
-Beschreiben Sie die Wichtigkeit von „The Pirate Bay“.
+Beschreiben Sie die Bedeutung von „The Pirate Bay“.
 
-197
+200
 00:19:07,720 --> 00:19:13,680
 Es demokratisiert und erzeugt beste
 Bedingungen für die Redefreiheit.
 
-198
+201
 00:19:13,840 --> 00:19:17,080
-Was hat das mit Copyright-Material zu tun?
+Was hat das mit dem Copyright-Material zu tun?
 
-199
+202
 00:19:17,239 --> 00:19:22,239
 „The Pirate Bay“ macht es für jedermann
-möglich seine Sachen zu teilen.
+möglich, seine Sachen zu teilen.
 
-200
+203
 00:19:22,400 --> 00:19:24,320
 Auch wenn es kopiergeschützt ist?
 
-201
+204
 00:19:24,479 --> 00:19:28,280
 Das ist eine komplizierte Konsequenz,
 welche wir, wie ich denke, diskutieren müssen.
 
-202
+205
 00:19:34,040 --> 00:19:35,479
 Worauf hoffst du?
 
-203
+206
 00:19:35,640 --> 00:19:39,800
 Ich hoffe, dass wir kein überwachtes, eingeschränktes
 Internet bekommen.
 
-204
+207
 00:19:39,959 --> 00:19:42,200
 Das ist das größte Problem im Moment.
 
-205
+208
 00:19:42,360 --> 00:19:45,520
 Die Copyright-Industrie gräbt
 das Grab für das Internet.
 
-206
+209
 00:19:45,680 --> 00:19:50,280
-Sie berücksichtigen nicht die Vorteile
-eines freien Internets.
+Sie berücksichtigen die Vorteile
+eines freien Internets nicht.
 
-207
+210
 00:19:50,439 --> 00:19:54,200
 Das Problem ist, dass alte Menschen
 die Unternehmen führen.
 
-208
+211
 00:19:54,360 --> 00:19:59,320
-Sie wissen wie man früher Geld gemacht hat
+Sie wissen, wie man früher Geld gemacht hat
 und wollen nicht, dass sich das ändert.
 
-209
+212
 00:19:59,479 --> 00:20:05,760
 Sie sind wie die Amish. Sie wollen keine Elektrizität.
-Sie wissen wie man auch ohne Elektrizität leben kann.
+Sie wissen, wie man auch ohne Elektrizität leben kann.
 
-210
+213
 00:20:07,160 --> 00:20:10,600
 Roger Wallis,
 bitte kommen Sie in Gerichtssaal 9.
 
-211
+214
 00:20:10,760 --> 00:20:15,280
 Denken Sie, dass Leute die Filme downloaden,
 sich diese auch kaufen?
 
-212
+215
 00:20:15,439 --> 00:20:19,200
--Ob sie die Filme auch kaufen würden?
--Ja, legal kaufen.
+- Ob sie die Filme auch kaufen würden?
+- Ja, legal kaufen.
 
-213
+216
 00:20:19,360 --> 00:20:24,720
 Ja, aber das hängt von der Qualität ab.
 Wenn Leute bessere Qualität wollen.
 
-214
+217
 00:20:24,879 --> 00:20:28,360
 Oder wenn die DVD spezielle Extras hat.
 
-215
+218
 00:20:28,520 --> 00:20:34,479
 Sie müssen den Wert des Produkts erhöhen,
 um es zu verkaufen.
 
-216
+219
 00:20:34,640 --> 00:20:38,280
 Wenn sie ihr Business-Modell der
 neuen Welt anpassen wollen.
 
-217
+220
 00:20:38,439 --> 00:20:42,720
 Dankeschön. Ich habe ihr Institut angerufen
-und ein paar Fragen gestellt-
+und ein paar Fragen gestellt -
 
-218
+221
 00:20:42,879 --> 00:20:47,320
--weil wir ihren Lebenslauf nicht
+- weil wir ihren Lebenslauf nicht
 zusammentragen konnten.
 
-219
+222
 00:20:47,479 --> 00:20:51,239
 Sie sagten vor Gericht, dass
 Sie ein Professor sind-
 
-220
+223
 00:20:51,400 --> 00:20:56,080
 -aber Ihr Institut nennt Sie
 einen vorrübergehenden Gast-Dozenten
 
-221
+224
 00:20:56,239 --> 00:20:59,920
--Wissen Sie wie man Google benutzt?
--Ja.
+- Wissen Sie wie man Google benutzt?
+- Ja.
 
-222
+225
 00:21:00,080 --> 00:21:02,520
 Dann ist es wirklich einfach
 meinen Lebenslauf zu finden.
 
-223
+226
 00:21:02,680 --> 00:21:06,560
 -Wir sind schon fertig mit dieser Frage.
 -Das habe ich auch gedacht.
 
-224
+227
 00:21:06,720 --> 00:21:11,720
 Machen wir weiter.
 Dankeschön, euer Ehren.
 
-225
+228
 00:21:11,879 --> 00:21:16,479
 Als Sie eingestellt wurden,
 gab es da irgendwelche Konkurrenten?
 
-226
+229
 00:21:16,640 --> 00:21:20,400
 Ich dachten wir wären damit fertig,
 Euer Ehren?
 
-227
+230
 00:21:20,560 --> 00:21:24,600
--Ich hätte gerne eine Antwort.
--Bitte, beantworten Sie die Frage.
+- Ich hätte gerne eine Antwort.
+- Bitte, beantworten Sie die Frage.
 
-228
+231
 00:21:24,760 --> 00:21:26,800
 Ich habe keine Ahnung!
 
-229
+232
 00:21:26,959 --> 00:21:31,360
 Ich wurde gebeten zu kommen, das haben wir doch schon
 durchgesprochen ... und sind schon wieder bei diesem Thema.
 
-230
+233
 00:21:31,520 --> 00:21:36,439
 ... das Standard-Auswahl-Verfahren beim
 Royal Institute of Technology.
 
-231
+234
 00:21:36,600 --> 00:21:38,720
 Alle meine Publikationen wurden eingereicht.
 
-232
+235
 00:21:38,879 --> 00:21:42,800
 Drei Professoren und
 zwei internationale Experten-
 
-233
+236
 00:21:42,959 --> 00:21:46,959
 erachteten mich als qualifiziert
 für diesen Posten.
 
-234
+237
 00:21:48,920 --> 00:21:52,040
 Dankeschön.
 Bitte beantworten Sie nur die Frage.
 
-235
+238
 00:21:53,600 --> 00:21:56,720
 Wie tief kann man sinken.
 
-236
+239
 00:21:56,879 --> 00:22:00,640
 Sie waren so verängstigt von
 dem Ergebnis ihrer Untersuchung.
 
-237
+240
 00:22:00,800 --> 00:22:05,640
 Sie konnten Sie darüber nicht angreifen,
 also haben sie Sie auf persönlicher Ebene angegriffen.
 
-238
+241
 00:22:05,800 --> 00:22:11,800
 The Royal Institute of Technology.
 Professor Roger Wallis.
 
-239
+242
 00:22:11,959 --> 00:22:17,720
-Ich denke es ist krank, die
+Ich denke, es ist krank die
 akademische Welt so anzugreifen.
 
-240
+243
 00:22:17,879 --> 00:22:22,879
 Es ist nicht das erste Mal. Ich habe
 schon von Professoren aus den USA gehört-
 
-241
+244
 00:22:23,040 --> 00:22:29,400
--die gezeigt haben, dass File Sharing
+-die gezeigt haben, dass Filesharing
 gut für die Industrie sein kann-
 
-242
+245
 00:22:29,560 --> 00:22:33,040
 -die wurden mit der Peitsche zur Strecke gebracht.
 
-243
+246
 00:22:33,200 --> 00:22:36,600
 Es ist traurig, dass diese amerikanischen Methoden
 nun auch nach Schweden kommen.
 
-244
+247
 00:22:38,640 --> 00:22:43,439
 Hätten Sie gerne eine Entschädigung
 für ihre Beteiligung heute?
 
-245
+248
 00:22:43,600 --> 00:22:48,520
 Bitte schicken Sie meiner Frau Blumen
 für die schlaflose Nacht.
 
-246
+249
 00:22:48,680 --> 00:22:51,600
 Das Gerichtsbudget
 wird das nicht erlauben.
 
-247
+250
 00:22:54,119 --> 00:22:59,040
 Es ist nun zwei oder drei Tage
-her seit dem Auftritt vor Gericht.
+her seit meinem Auftritt vor Gericht.
 
-248
+251
 00:22:59,200 --> 00:23:02,600
 Ich habe angefangen durch die Blogs
 der Welt zu gucken.
 
-249
+252
 00:23:02,760 --> 00:23:05,360
 Ich gucke hier gerade auf "TorrentFreak":
 
-250
+253
 00:23:05,520 --> 00:23:08,400
 "Pirate-Bay-Zeuge
 mit Blumen überhäuft."
 
-251
+254
 00:23:08,560 --> 00:23:11,320
 Und eine Menge sehr netter
 Leute schreibt:
 
-252
+255
 00:23:11,479 --> 00:23:14,840
 "Wenigstens einer aus der älteren Generation" ... Ich bin ein alter Mann.
 
-253
+256
 00:23:15,000 --> 00:23:16,959
 ... "scheint zu verstehen wie wir denken"
 
-254
+257
 00:23:17,119 --> 00:23:20,520
 Außerdem argumentiere
-ich hier als Komponist ...
-
-255
-00:23:20,680 --> 00:23:23,720
-Ein Song den ich geschrieben habe,
-hat unser erstes Haus finanziert.
-
-256
-00:23:23,879 --> 00:23:31,080
-Ich unstütze die Copyright-Gesetze, aber
-nur wenn es die Kreativität fördert-
-
-257
-00:23:31,239 --> 00:23:36,119
--oder als ökonomischen Antrieb
-oder wenn es ein Ansporn ist, etwas zu schaffen.
+ich hier als Komponist, welcher ich bin ...
 
 258
-00:23:36,280 --> 00:23:40,720
-Aber nicht das Copyright
-als ein großer Kontrollmechanismus-
+00:23:20,680 --> 00:23:23,720
+... ein Song den ich geschrieben habe,
+hat unser erstes Haus finanziert.
 
 259
+00:23:23,879 --> 00:23:31,080
+Ich unstütze die Copyright-Gesetze, aber
+nur, wenn es die Funktion hat Kreativität fördert -
+
+260
+00:23:31,239 --> 00:23:36,119
+- oder als ökonomischen Antrieb
+oder wenn es ein Ansporn ist, etwas zu erschaffen.
+
+261
+00:23:36,280 --> 00:23:40,720
+Aber nicht das Copyright, wie es heute ist,
+als ein großer Kontrollmechanismus-
+
+262
 00:23:40,879 --> 00:23:44,800
 -für Menschen, welche auf einem
 Haufen von Rechten sitzen.
 
-260
+263
 00:23:49,160 --> 00:23:53,640
 Ein Polizeibeamter, welcher bei den
-Pirate-Bay-Untersuchen beteiligt war-
-
-261
-00:23:53,800 --> 00:24:00,280
--wurde kurz nach der Untersuchung
-von einem Film-Studio angestellt.
-
-262
-00:24:00,439 --> 00:24:05,520
-In einer E-Mail sagt Warner Bros.,
-dass die Informationen in den Medien-
-
-263
-00:24:05,680 --> 00:24:09,720
--über einen Interessenkonflikt
-reine Spekulation seien.
+Pirate-Bay-Untersuchen beteiligt war -
 
 264
+00:23:53,800 --> 00:24:00,280
+- wurde kurz nach der Untersuchung
+von einem Film-Studio angestellt.
+
+265
+00:24:00,439 --> 00:24:05,520
+In einer E-Mail sagt Warner Bros.,
+dass die Informationen in den Medien -
+
+266
+00:24:05,680 --> 00:24:09,720
+- über einen Interessenkonflikt
+reine Spekulation seien.
+
+267
 00:24:09,879 --> 00:24:15,520
 Er hat seine Wohnung verkauft und sich dafür
 ein Haus gekauft. Kurz nachdem er den Job angenommen hat.
 
-265
+268
 00:24:15,680 --> 00:24:19,000
 Ich war enttäuscht,
 als das nicht weiter untersucht wurde.
 
-266
+269
 00:24:19,160 --> 00:24:21,800
-Du forderst etwas
-wovon ich keine Ahnung habe.
+Du forderst etwas,
+von dem ich keine Ahnung habe.
 
-267
+270
 00:24:21,959 --> 00:24:26,879
 Du solltest Material sammeln
 und es der Polizei übergeben.
 
-268
+271
 00:24:27,040 --> 00:24:30,520
 Das habe ich, aber sie haben den Fall fallen gelassen.
 
-269
+272
 00:24:30,680 --> 00:24:34,439
 Also ... in dem Fall
 kann ich da nichts machen.
 
-270
+273
 00:24:36,680 --> 00:24:40,680
 Sein Einkommen in diesem Jahr
 ist höher als sein Polizeigehalt.
 
-271
+274
 00:24:40,840 --> 00:24:45,119
 Er hat angegeben, dass
 er ein Vermögen von 120 000 Dollar erhalten hat.
 
-272
+275
 00:24:45,280 --> 00:24:49,680
 Das verdammte Verfahren wird von
 Tag zu Tag bizarrer.
 
-273
+276
 00:24:55,680 --> 00:24:59,280
 Ich glaube es gab schon wieder einen
 Stromausfall bei „The Pirate Bay“.
 
-274
+277
 00:24:59,439 --> 00:25:04,360
--Wieso benutzt du automatische Sicherungen?
--Sie sind mit den Kabelhüllen verbunden.
+- Wieso benutzt du automatische Sicherungen?
+- Sie sind mit den Kabelhüllen verbunden.
 
-275
+278
 00:25:04,520 --> 00:25:10,080
 Wenn eine automatische Sicherung 5 mal
 krepiert, dann musst du sie ersetzen.
 
-276
+279
 00:25:10,239 --> 00:25:15,640
 Mein Laptop geht andauernd kaputt,
 also habe ich keine Zeit, Sticker aufzukleben.
 
-277
+280
 00:25:15,800 --> 00:25:20,360
 Auf einen habe ich Gin and Tonic geschüttet.
 Auf den anderen habe ich Bier geschüttet.
 
-278
+281
 00:25:20,520 --> 00:25:24,560
 Und auf einen bin ich drauf gefallen
 und habe den Bildschirm zertrümmert.
 
-279
-00:25:24,720 --> 00:25:28,239
--Hast du WLAN hier?
--Ja, es heißt "bambuser".
-
-280
-00:25:28,400 --> 00:25:33,879
--Funktioniert es nicht?
--Key... Bambuser...
-
-281
-00:25:34,040 --> 00:25:36,959
--WTF!
--Hör auf zu schreien.
-
 282
+00:25:24,720 --> 00:25:28,239
+- Hast du WLAN hier?
+- Ja, es heißt "bambuser".
+
+283
+00:25:28,400 --> 00:25:33,879
+- Funktioniert es nicht?
+- Key... Bambuser...
+
+284
+00:25:34,040 --> 00:25:36,959
+- WTF!
+- Hör auf zu schreien.
+
+285
 00:25:37,119 --> 00:25:40,520
 Ich bin auf Entzug. Ich war
 den ganzen Tag nicht im Internet.
 
-283
+286
 00:25:49,800 --> 00:25:55,280
-Auf Seite 24
+Auf Seite 24.
 Sie haben eine E-Mail erhalten-
 
-284
+287
 00:25:55,439 --> 00:26:00,800
 -welche Sie an Gottfrid und Peter Sunde
 weitergeleitet haben.
 
-285
+288
 00:26:02,280 --> 00:26:04,600
 Wieso haben Sie die Mail weitergeleitet?
 
-286
+289
 00:26:04,760 --> 00:26:08,479
-Habe ich nicht. Jede Mail
-die DMCA (Digital Millennium Copyright Act) enthält-
+Habe ich nicht. Jede Mail,
+die DMCA (Digital Millennium Copyright Act) enthält -
 
-287
+290
 00:26:08,640 --> 00:26:12,000
--wird automatisch zu Gottfrid und Peter weitergeleitet.
+- wird automatisch an Gottfrid und Peter weitergeleitet.
 
-288
+291
 00:26:12,160 --> 00:26:15,520
 Ich habe viele Abkürzungen
 in meinem Filter.
 
-289
-00:26:15,680 --> 00:26:19,640
--Wer hat diese Abkürzungen programmiert?
--Ich war das.
-
-290
-00:26:19,800 --> 00:26:23,280
--Wieso?
--Weil ich viel Spam bekomme.
-
-291
-00:26:23,439 --> 00:26:28,200
-Wieso würden Sie eine E-Mail-
-
 292
-00:26:28,360 --> 00:26:31,640
--mit dem Betreff "Copyright Verletzung" als Spam ansehen?
+00:26:15,680 --> 00:26:19,640
+- Wer hat diese Abkürzungen programmiert?
+- Ich war das.
 
 293
-00:26:31,800 --> 00:26:36,840
-Spam sind E-Mails,
-welche ich nicht erbeten habe.
+00:26:19,800 --> 00:26:23,280
+- Wieso?
+- Weil ich viel Spam bekomme.
 
 294
-00:26:37,000 --> 00:26:42,400
-Fredrik Neij sagte
-dass, sobald er die E-Mails erhalten hat-
+00:26:23,439 --> 00:26:28,200
+Wieso würden Sie eine E-Mail -
 
 295
-00:26:42,560 --> 00:26:47,160
--welche von einem Copyright-Besitzer kamen, -
+00:26:28,360 --> 00:26:31,640
+- mit dem Betreff "Copyright Verletzung" als Spam ansehen?
 
 296
-00:26:47,320 --> 00:26:53,000
--sie zu ihnen weitergeleitet hat.
-Ist das korrekt?
+00:26:31,800 --> 00:26:36,840
+Spam sind E-Mails,
+welche ich nicht angefordert habe.
 
 297
-00:26:53,160 --> 00:26:56,160
-Da niemand in der Lage war,
-zu tun was wir ihnen gesagt haben-
+00:26:37,000 --> 00:26:42,400
+Fredrik Neij sagte,
+dass, sobald er die E-Mails erhalten hat-
 
 298
-00:26:56,320 --> 00:26:59,720
--nämlich den User zu kontaktieren,
-der das Material hochgeladen hat-
+00:26:42,560 --> 00:26:47,160
+- welche von einem Copyright-Besitzer kamen, -
 
 299
-00:26:59,879 --> 00:27:04,920
--wurden diese Anfragen endweder ignoriert-
+00:26:47,320 --> 00:26:53,000
+- sie zu ihnen weitergeleitet wurden.
+Ist das korrekt?
 
 300
-00:27:05,080 --> 00:27:10,360
--oder in mehr oder weniger höflicher
-Weise beantwortet.
+00:26:53,160 --> 00:26:56,160
+Da niemand in der Lage war,
+zu tun, was wir ihnen gesagt haben-
 
 301
+00:26:56,320 --> 00:26:59,720
+- nämlich den User zu kontaktieren,
+der das Material hochgeladen hat-
+
+302
+00:26:59,879 --> 00:27:04,920
+- wurden diese Anfragen endweder ignoriert-
+
+303
+00:27:05,080 --> 00:27:10,360
+- oder, in mehr oder weniger höflicher
+Weise, beantwortet.
+
+304
 00:27:13,439 --> 00:27:16,920
 Wieso wurde es zu Ihnen gesendet?
 
-302
+305
 00:27:17,080 --> 00:27:20,920
-Ich drücke mich in Schreiben nett aus,
-im Gegensatz zu Fredrik.
+Ich drücke mich, im Gegensatz zu Fredrik,
+in Schreiben nett aus.
 
-303
+306
 00:27:21,080 --> 00:27:25,760
 Aber aus so einer Forderung wurde nichts,
 außer Spot und Hohn?
 
-304
+307
 00:27:25,920 --> 00:27:33,760
 Die ersten 100 Male sagten wir noch:
 "Kontaktiere den Uploader."
 
-305
+308
 00:27:33,920 --> 00:27:37,920
--Und die nächsten 100 Male?
--Da haben wir dann unsere Gedult verloren.
+- Und die nächsten 100 Male?
+- Da haben wir dann unsere Geduld verloren.
 
-306
+309
 00:27:50,360 --> 00:27:53,680
 Die Firma PRQ ...
 
-307
+310
 00:27:53,840 --> 00:27:59,680
--War das ein Web-Hotel?
--Ja, es wurde gerade gegründet.
+- War das ein Web-Hotel?
+- Ja, es wurde gerade gegründet.
 
-308
+311
 00:28:00,959 --> 00:28:06,040
 Stimmt es, dass die Staatsanwaltschaft
 195 Server beschlagnahmt hat-
 
-309
+312
 00:28:06,200 --> 00:28:09,479
--und dass 11 davon zu „The Pirate Bay“ gehörten?
+- und dass davon 11 Stück zu „The Pirate Bay“ gehörten?
 
-310
+313
 00:28:09,640 --> 00:28:13,119
-11 oder 13, ich kann mich nicht mehr genau erinnern.
+11 oder 13. Ich kann mich nicht mehr genau erinnern.
 
-311
+314
 00:28:13,280 --> 00:28:16,879
 Das ist unglaublich.
 Das ist eine richtige Ungerechtigkeit.
 
-312
+315
 00:28:17,040 --> 00:28:22,160
 Sie greifen eine Firma an, welche nichts
 mit „The Pirate Bay“ zu tun hat.
 
-313
+316
 00:28:22,320 --> 00:28:29,439
 Nur weil die Mitbegründer zum Spaß
 bei „The Pirate Bay“ involviert sind.
 
-314
+317
 00:28:30,840 --> 00:28:35,200
 Dank der Razzia hat PRQ
 sehr viel Aufmerksamkeit bekommen.
 
-315
+318
 00:28:35,360 --> 00:28:39,520
-Jeder wusste das wir der Polizei niemals
+Jeder wusste, dass wir der Polizei niemals
 irgendwelche Informationen geben würden.
 
-316
+319
 00:28:39,680 --> 00:28:42,040
 Unsere Kunden-Datenbank war verschlüsselt.
 
-317
+320
 00:28:42,200 --> 00:28:47,760
 Die Polizei hat unsere Server beschlagnamt,
 aber hat keine Informationen über unsere Kunden bekommen.
 
-318
+321
 00:28:48,920 --> 00:28:52,879
 Als „The Pirate Bay“ nach
 der Razzia nicht erreichbar war-
 
-319
+322
 00:28:53,040 --> 00:28:55,800
 -hattet ihr keine Server mehr, richtig?
 
-320
+323
 00:28:55,959 --> 00:28:58,560
-Ihr wart nach drei Tagen wieder online.
-Wo habt ihr die Server herbekommen?
+Die Seite war nach drei Tagen wieder online.
+Wo habt Sie die Server herbekommen?
 
-321
+324
 00:28:58,720 --> 00:29:02,840
 Wir haben sie von einer Firma mit dem
-Namen NFOrce aus Holland gemietet.
+Namen NFOrce, aus Holland, gemietet.
 
-322
+325
 00:29:03,000 --> 00:29:05,040
 Es ist eine Co-Location Firma.
 
-323
+326
 00:29:05,200 --> 00:29:08,280
--Wie wurde das angenommen?
--Mit tosendem Applaus.
+- Wie wurde das angenommen?
+- Mit tosendem Applaus.
 
-324
+327
 00:29:09,400 --> 00:29:14,000
 Es ist mir ein Vergnügen zu verkünden,
 dass „The Pirate Bay“ wieder online ist!
 
-325
+328
 00:29:14,160 --> 00:29:16,720
 In your face, Hollywood!
 
-326
+329
 00:29:25,640 --> 00:29:30,239
--Peter!
--Ja? Ich bin gleich da!
+- Peter!
+- Ja? Ich bin gleich da!
 
-327
+330
 00:29:30,400 --> 00:29:36,360
 Das ist so wie ihr mich behandelt habt.
 Ich habe einen Brief von euren Anwälten bekommen,
 in dem steht:
 
-328
+331
 00:29:36,520 --> 00:29:40,600
 "Schwedens Gesetze können dich nicht beschützen.
 Die US-Gesetze werden dich kriegen."
 
-329
+332
 00:29:40,760 --> 00:29:45,360
 Ich habt Privatdetektive auf uns angesetzt.
 Ich hatte zwei vor meinem Haus.
 
-330
+333
 00:29:45,520 --> 00:29:49,600
 -Davon weiß ich nichts.
 -Aber es ist Ihre Verantwortung.
 
-331
+334
 00:29:49,760 --> 00:29:51,600
 Es könnte die Filmindustrie gewesen sein.
 
-332
+335
 00:29:51,760 --> 00:29:53,280
--Nein, es war die Musikindustrie.
--Ok.
+- Nein, es war die Musikindustrie.
+- Ok.
 
-333
+336
 00:29:53,439 --> 00:29:55,560
 TPB ist nicht an Musik oder Filmen interessiert.
 
-334
+337
 00:29:55,720 --> 00:30:00,520
 TPB ist ein generelles Medium für
-die Verteilung von allen Arten von Dateien.
+die Verteilung aller Arten von Dateien.
 
-335
+338
 00:30:00,680 --> 00:30:07,080
 Leute sollten nicht sagen, dass es bei TPB
 nur um illegale Filme und Musik geht.
 
-336
+339
 00:30:07,239 --> 00:30:11,000
 Dann ist deine Welt wirklich klein.
-Dann ist es dein Verlust.
+Dann ist es ihr Verlust.
 
-337
+340
 00:30:11,160 --> 00:30:14,280
 Stattdessen sollten wir sagen,
-dass File Sharing gut ist.
+dass Filesharing gut ist.
 
-338
+341
 00:30:14,439 --> 00:30:19,119
 Dann könnten wir uns auf Wege konzentrieren,
 durch die die Künstler Geld verdienen.
 
-339
+342
 00:30:19,280 --> 00:30:23,959
--Wir denken dass File Sharing gut ist.
--Sicher. Aber ihr verklagt jeden.
+- Wir denken dass Filesharing gut ist.
+- Sicher. Aber ihr verklagt jeden.
 
-340
+343
 00:30:24,119 --> 00:30:27,000
 Nein. Wir wollen niemanden bestrafen.
 
-341
+344
 00:30:27,160 --> 00:30:32,439
 Wir wollen nur, dass die Menschen in Schweden
 die Copyright Gesetze respektieren.
 
-342
+345
 00:30:54,119 --> 00:30:59,800
 Was ist das Ziel von „The Pirate Bay“,
 ihrer Meinung nach?
 
-343
+346
 00:30:59,959 --> 00:31:04,239
 Wir haben nie über die Ziele gesprochen.
 
-344
+347
 00:31:04,400 --> 00:31:08,760
 Ob es um die Reform von Gesetzen ging
 oder um-
 
-345
+348
 00:31:08,920 --> 00:31:14,720
--Hass gegen einige Amerikaner.
+- Hass gegen einige Amerikaner.
 Ich kannte ihre Ziele nicht.
 
-346
+349
 00:31:14,879 --> 00:31:20,239
 Aber für Fredrik, und es war
-Fredrik mit dem ich gearbeitet habe-
+Fredrik mit dem ich gearbeitet habe -
 
-347
+350
 00:31:20,400 --> 00:31:25,640
--ging es darum eine große
+- ging es darum, eine große
 Webseite zu erstellen. Die größte der Welt.
 
-348
+351
 00:31:25,800 --> 00:31:30,840
 Ich, für meinen Teil, mochte die
 Idee von der größten Webseite der Welt.
 
-349
+352
 00:31:31,000 --> 00:31:36,479
--Wie wird „The Pirate Bay“ finanziert?
--Wie wird die Webseite finanziert?
+- Wie wird „The Pirate Bay“ finanziert?
+- Wie wird die Webseite finanziert?
 
-350
+353
 00:31:36,640 --> 00:31:40,479
 Wir haben Anzeigen mit
 denen wir Einnahmen generieren.
 
-351
+354
 00:31:40,640 --> 00:31:45,479
 Ein Mann namens Lundström hat
 euch finanziell geholfen, oder nicht?
 
-352
+355
 00:31:45,640 --> 00:31:49,280
 Ja, wir wurden von einer Firma
 namens Rix Telecom gesponsort.
 
-353
+356
 00:31:49,439 --> 00:31:53,720
--Was waren seine Absichten?
--Kostenlose Werbung für seine Firma.
+- Was waren seine Absichten?
+- Kostenlose Werbung für seine Firma.
 
-354
+357
 00:31:53,879 --> 00:31:56,439
 Carl Lundström ist eine interessante Person.
 
-355
+358
 00:31:56,600 --> 00:32:00,600
 Er steht hinter vielen
 rechtspolitischen Organisationen
 
-356
+359
 00:32:00,760 --> 00:32:04,959
 Carl Lundström
 hat offensichtlich Geld an ...
 
-357
+360
 00:32:05,119 --> 00:32:09,320
 Beantworten Sie die Frage!
 Repäsentiert er diese Organisationen?
 
-358
+361
 00:32:09,479 --> 00:32:13,479
 Es nervt mich wirklich, -
 
-359
+362
 00:32:13,640 --> 00:32:17,720
--dass jeder uns als rechtspolitsche Extremisten wahrnimmt.
+- dass jeder uns als rechtspolitsche Extremisten wahrnimmt.
 
-360
+363
 00:32:17,879 --> 00:32:22,720
 Das verletzt mich und macht mich wütend.
 Mein Bruder ist überzeugter Anarchist.
 
-361
+364
 00:32:22,879 --> 00:32:28,920
 Er war vor Gericht, um
 seine Ansichten zu verteidigen.
 
-362
+365
 00:32:29,080 --> 00:32:32,119
 Wir waren schon auf der Abschussliste
 einer Neo-Nazi-Organisation.
 
-363
+366
 00:32:32,280 --> 00:32:37,000
 Es fühlt sich komisch an, beschuldigt zu
 werden, eine Neo-Nazi-Organisation gegründet zu haben.
 
-364
+367
 00:32:37,160 --> 00:32:38,400
 Es ist wirklich hart.
 
-365
+368
 00:32:38,560 --> 00:32:42,239
 Ich kann nur hinter meiner eigenen
 politischen Meinung stehen.
 
-366
+369
 00:32:45,680 --> 00:32:48,920
 Wenn man Einfluss hat und Leute
 einem zuhören-
 
-367
+370
 00:32:49,080 --> 00:32:54,280
--dann sollte man die Positon ausnutzen,
+-dann sollte man seine Positon nutzen,
 um Gutes zu tun.
 
-368
+371
 00:32:57,640 --> 00:33:01,600
 Wann bist du der Sprecher für
 „The Pirate Bay“ geworden?
 
-369
+372
 00:33:01,760 --> 00:33:07,200
 Also, das ist kein offizieller Titel, sondern
-eine Funktion die mir gegeben wurde.
+eine Funktion, die mir gegeben wurde.
 
-370
+373
 00:33:07,360 --> 00:33:11,560
-Niemand wollte das machen,
+Niemand wollte es machen,
 aber es war wichtig zu zeigen-
 
-371
+374
 00:33:11,720 --> 00:33:15,280
 -dass „The Pirate Bay“
 etwas wichtiges macht.
 
-372
+375
 00:33:15,439 --> 00:33:19,360
 Und weil niemand anderes es tun wollte,
 habe ich es gemacht.
 
-373
+376
 00:33:19,520 --> 00:33:26,560
 Was war Peter Sundes Rolle
 zu der Zeit?
 
-374
+377
 00:33:26,720 --> 00:33:32,080
-Er tauchte auf als wir ein
+Er tauchte auf, als wir ein
 öffentliches Gesicht brauchten.
 
-375
+378
 00:33:32,239 --> 00:33:37,320
 Denn weder Fredrik, noch ich fühlen
 uns in möbelierten Räumen wohl.
 
-376
+379
 00:33:37,479 --> 00:33:40,959
-Also hatte er nichts, mit dem
+Also hatte er nichts mit dem
 Betrieb der Seite zu tun.
 
-377
+380
 00:33:41,119 --> 00:33:44,080
--Oder mit dem Entwurf?
--Nein.
+- Oder mit dem Entwurf?
+- Nein.
 
-378
+381
 00:33:44,239 --> 00:33:46,400
--Finanzierung?
--Nein.
+- Finanzierung?
+- Nein.
 
-379
+382
 00:33:51,320 --> 00:33:54,680
 Es ist AIM. Du hast mir gesagt es ist MSN.
 
-380
+383
 00:33:54,840 --> 00:33:56,400
 Wo ist der verfickte Unterschied.
 
-381
+384
 00:33:56,560 --> 00:34:00,720
 Das sind zwei verschieden Netzwerke.
 Das ist wie IRCnet und EFnet.
 
-382
+385
 00:34:00,879 --> 00:34:04,320
--Komm schon.
--Das war das Museum of Modern Art ...
+- Komm schon.
+- Das war das Museum of Modern Art ...
 
-383
+386
 00:34:04,479 --> 00:34:07,160
 Du bist so laut.
 Du bereitest mir Kopfschmerzen.
 
-384
+387
 00:34:07,320 --> 00:34:13,280
 -Ich bin halb taub, natürlich schreie ich.
 -Du machst mich taub.
 
-385
+388
 00:34:13,439 --> 00:34:16,200
 Er will sein Leid teilen.
 
-386
+389
 00:34:16,360 --> 00:34:22,160
--Wieso kannst du nichts mehr hören?
--Sex, Drogen und die Industrie!
+- Wieso kannst du nichts mehr hören?
+- Sex, Drogen und die Industrie!
 
-387
+390
 00:34:22,320 --> 00:34:24,640
 Sex?
 
-388
+391
 00:34:26,320 --> 00:34:30,119
 Ich habe deine Sex-Geschichten gehört.
 
-389
+392
 00:34:33,080 --> 00:34:35,400
 Wieviel kostet ein Banner?
 
-390
+393
 00:34:35,560 --> 00:34:39,680
 Sie fragen mich nach fünf Jahre
 alten Zahlen.
 
-391
+394
 00:34:39,840 --> 00:34:45,160
 Wenn Sie mir einen Tag geben,
 finde ich ein paar Beispiele.
 
-392
+395
 00:34:45,320 --> 00:34:48,879
 Aber ich kann ihnen keine
-genauen Zahlen geben.
+genauen Zahlen nennen.
 
-393
+396
 00:34:49,040 --> 00:34:53,920
 Hört sich 500 Dollar pro Woche
 angemessen an?
 
-394
+397
 00:34:54,080 --> 00:34:57,280
 Das hört sich ganz gut an.
 Es ist auf jeden Fall in der richtigen Größenordnung.
 
-395
+398
 00:34:57,439 --> 00:35:00,119
 In der richtigen Größenordnung, sagen Sie.
 
-396
+399
 00:35:00,280 --> 00:35:06,040
 Gab es eine Übereinkunft darüber,
 wie die Gewinne aufgeteilt werden?
 
-397
+400
 00:35:06,200 --> 00:35:11,040
--Ich habe keine Ahnung.
--Haben Sie nicht. Gut.
+- Ich habe keine Ahnung.
+- Haben Sie nicht. Gut.
 
-398
+401
 00:35:11,200 --> 00:35:15,800
 -Ich bin so scheiß-müde.
 -Das wird dein Leben sein für die nächsten fünf Jahre.
 
-399
+402
 00:35:15,959 --> 00:35:18,920
 Bist du Kafka oder was?
 
-400
+403
 00:35:19,080 --> 00:35:21,760
-Es fühlt sich an wie "Der Prozess"
+Es fühlt sich an wie "Der Prozess",
 immer und immer wieder.
 
-401
+404
 00:35:21,920 --> 00:35:25,040
 Vielleicht wache ich als Gregor Samsa auf
 und kann nicht zur Arbeit gehen-
 
-402
+405
 00:35:25,200 --> 00:35:28,959
 -weil ich mich in einen Käfer verwandelt habe.
 
-403
+406
 00:35:30,280 --> 00:35:33,160
 Wann gehst du zurück nach Kambodscha?
 
-404
+407
 00:35:33,320 --> 00:35:37,239
--Sobald die Scheiße hier vorbei ist.
--Leise. Das ist ein Geheimnis.
+- Sobald die Scheiße hier vorbei ist.
+- Leise. Das ist ein Geheimnis.
 
-405
+408
 00:35:50,959 --> 00:35:55,200
-Was ist deine Meinung im Allgemeinen
+Was ist im Allgemeinen deine Meinung
 zu dem Fall?
 
-406
+409
 00:35:55,360 --> 00:36:01,239
 Es ist schön, wenn es vorbei ist.
-Morgen ist es nur ein halber Tag.
+Morgen ist es nurnoch ein halber Tag.
 
-407
+410
 00:36:01,400 --> 00:36:05,239
 Nach dem Schlussplädoyer
 sind wir fertig.
 
-408
+411
 00:36:05,400 --> 00:36:07,200
 Wie viel Geld
 wollen sie haben?
 
-409
+412
 00:36:07,360 --> 00:36:11,400
 Sie wollen um die
 20 Millionen Euro Schadenersatz.
 
-410
+413
 00:36:11,560 --> 00:36:16,479
 Viel Glück beim Finden des Geldes.
 Ich habe nicht so viel Geld.
 
-411
+414
 00:36:16,640 --> 00:36:21,200
 Wenn die wüssten, dass unser komplettes
-Büro ein IRC-Chatroom ist-
+Büro ein IRC-Chatroom ist -
 
-412
+415
 00:36:21,360 --> 00:36:24,400
--das würden die nicht glauben.
+- das würden die nicht glauben.
 
-413
+416
 00:36:24,560 --> 00:36:30,119
 Und das tun sie auch nicht.
 Sie stellen Fragen über Verträge und Unternehmen.
 
-414
+417
 00:36:30,280 --> 00:36:34,280
 Ja, wir haben versucht uns zu organisieren,
-aber sind jedes Mal gescheitert.
+aber wir sind jedes Mal gescheitert.
 
-415
+418
 00:36:34,439 --> 00:36:40,560
 Ich glaube, sie verstehen die Idee
 von einer Organisation ohne Boss nicht.
 
-416
+419
 00:36:40,720 --> 00:36:45,680
 Die Leute wissen garnicht wie klein wir sind.
 Wir sind nur ein paar Leute in einem Chatroom
 
-417
+420
 00:37:05,680 --> 00:37:12,320
 Ich habe argumentiert, dass der Profit mindestens
 bei 170,000 Dollar liegt.
 
-418
+421
 00:37:12,479 --> 00:37:15,439
 Und das ist das Minimum.
 
-419
-00:37:16,479 --> 00:37:19,640
-Gottfrid Svartholm Warg sagte-
-
-420
-00:37:19,800 --> 00:37:26,239
--das der Preis für eine Anzeige auf
-TPB bei 500 Dollar pro Woche liegt.
-
-421
-00:37:26,400 --> 00:37:30,479
-Laut dem Bericht des Forensik-Labors-
-
 422
-00:37:30,640 --> 00:37:36,040
--heißt es
-das zu der Zeit der Razzia-
+00:37:16,479 --> 00:37:19,640
+Gottfrid Svartholm Warg sagte -
 
 423
+00:37:19,800 --> 00:37:26,239
+- das der Preis für eine Anzeige auf
+TPB bei 500 Dollar pro Woche liegt.
+
+424
+00:37:26,400 --> 00:37:30,479
+Laut dem Bericht des Forensik-Labors -
+
+425
+00:37:30,640 --> 00:37:36,040
+- heißt es,
+dass zu der Zeit der Razzia-
+
+426
 00:37:36,200 --> 00:37:40,320
 - 64 Anzeigen auf TPB geschaltet wurden.
 
-424
+427
 00:37:40,479 --> 00:37:46,160
 Das ergibt hochgerechnet...
 
-425
+428
 00:37:46,320 --> 00:37:51,520
-$500 mal 64-
+$500 mal 64 -
 
-426
+429
 00:37:51,680 --> 00:37:55,439
 - Das sind 34,000 Dollar pro Woche.
 
-427
+430
 00:37:55,600 --> 00:38:02,119
-Und das mal 52 Woche für ein Jahr-
+Und das mal 52 Woche für ein Jahr -
 
-428
+431
 00:38:02,280 --> 00:38:08,840
--macht jährliche Einnahmen
+- macht jährliche Einnahmen
 von 1,700,000 Dollar.
 
-429
+432
 00:38:09,000 --> 00:38:12,760
 Folglich ist „The Pirate Bay“ nicht idealistisch.
 
-430
+433
 00:38:12,920 --> 00:38:16,879
-Es ist ein rein geschäftliches Unternehmen.
+Es ist ein rein geschäftsorientiertes Unternehmen.
 
-431
+434
 00:38:27,239 --> 00:38:31,280
 Okay. 4 mal 52.
 
-432
+435
 00:38:33,760 --> 00:38:37,959
 110,000 Dollar. Das ist eine riesen Summe.
 Wir hatten niemals so viel Geld damals.
 
-433
+436
 00:38:38,119 --> 00:38:41,840
 Wenn man es mit der richtigen Anzahl Anzeigen
-rechnet, 4 statt 64-
+rechnet, 4 statt 64 -
 
-434
+437
 00:38:42,000 --> 00:38:44,160
--bekommt man einen
+- bekommt man einen
 wesentlich realistischeren Wert.
 
-435
+438
 00:38:44,320 --> 00:38:46,800
 Aber die haben so viele Dinge
 falsch berechnet.
 
-436
+439
 00:38:46,959 --> 00:38:52,560
-Meinte Roswall 64 verschiedene Anzeigen,
-oder 4 Anzeigen mal ein Haufen Seiten?
+Meinte Roswall 64 verschiedene Anzeigen
+oder 4 Anzeigen mal ein Haufen von Seiten?
 
-437
+440
 00:38:52,720 --> 00:38:56,600
--Ja.
--Was zur Hölle? Ist der verrückt?
+- Ja.
+- Was zur Hölle? Ist der verrückt?
 
-438
+441
 00:38:56,760 --> 00:38:58,720
 Er ist genau hinter dir.
 
-439
+442
 00:39:02,479 --> 00:39:05,760
 Wir denken darüber nach eine
 Bambuser Pressekonferenz zu halten.
 
-440
+443
 00:39:05,920 --> 00:39:09,560
 Auf keinen Fall! Nein! Nein!
 Die nennen uns weiterhin organisiert.
 
-441
+444
 00:39:09,720 --> 00:39:12,680
 Sie verstehen garnicht,
 was für ein Witz das ist.
 
-442
+445
 00:39:12,840 --> 00:39:17,560
 Es ist unorganisiertes Verbrechen.
 
-443
+446
 00:39:19,280 --> 00:39:23,600
 Du meinst für euch alle? Ich denke ihr
 werdet verurteilt.
 
-444
+447
 00:39:29,360 --> 00:39:32,640
 Mach ein Bild von Monique.
 Es ist ihr Copyright.
 
-445
+448
 00:39:34,040 --> 00:39:36,959
--Ich gehe.
--Auf Wiedersehen.
+- Ich gehe.
+- Auf Wiedersehen.
 
-446
+449
 00:39:38,720 --> 00:39:41,720
 Brauchen Sie Hilfe.
 
-447
+450
 00:39:41,879 --> 00:39:45,000
 Das ist die einzige Hilfe, die Sie
 jemals von mir bekommen.
 
-448
+451
 00:39:45,160 --> 00:39:48,400
--Das ist sehr nett.
--Ich bin nett.
+- Das ist sehr nett.
+- Ich bin nett.
 
-449
+452
 00:39:48,560 --> 00:39:51,560
 Und ich habe auch noch meine Seele.
 
-450
+453
 00:39:51,720 --> 00:39:54,680
 Hier ist Fredrik,
 lass uns hier verschwinden.
 
-451
+454
 00:39:59,119 --> 00:40:03,600
 Lass uns berechnen,
 wieviel Geld wir verdient haben.
 
-452
+455
 00:40:03,760 --> 00:40:08,160
 Lasst uns mit einer Exponential-Funktion starten.
 
-453
+456
 00:40:11,040 --> 00:40:13,879
--Nun fügen wir noch 64 hinzu.
--Genau.
+- Nun fügen wir noch 64 hinzu.
+- Genau.
 
-454
+457
 00:40:14,040 --> 00:40:17,600
 Und für das N suchen wir
 uns eine Zufallszahl.
 
-455
+458
 00:40:17,760 --> 00:40:21,680
 Zwische 10 und 5200.
 Schreibst du den Code in Schwedisch?
 
-456
+459
 00:40:21,840 --> 00:40:26,280
-Jetzt nehmen wir noch die Quadratwurzel
+Jetzt nehmen wir noch die Quadratwurzel,
 um zu sehen wieviel Moniques Seele kostet.
 
-457
+460
 00:40:28,119 --> 00:40:30,560
-Die Antwort.
+Die Antwort?
 
-458
+461
 00:40:32,920 --> 00:40:35,520
 Mach es mathematisch korrekt.
 
-459
+462
 00:40:36,119 --> 00:40:39,239
 Komm schon, nicht Pi.
 
-460
+463
 00:40:42,600 --> 00:40:47,720
 Er ist sauer.
 Los, guck nach, ob das richtig ist.
 
-461
+464
 00:40:47,879 --> 00:40:51,080
 Okay. Das verdient Respekt.
 
-462
+465
 00:40:51,239 --> 00:40:55,760
 Es ist in meinem Muskelgedächtnis.
 Ich kann mit nicht erinnern, wie ich es mit einem Stift schreibe.
 
-463
+466
 00:40:55,920 --> 00:40:58,119
 Ich muss eine Tastatur emulieren.
 
-464
+467
 00:40:58,280 --> 00:41:01,479
-Also was machst du um 11:00 am
-17ten April?
+Also was machst du am
+17ten April um 11:00?
 
-465
+468
 00:41:01,640 --> 00:41:03,800
 Vor dem Gericht warten?
 
-466
+469
 00:41:03,959 --> 00:41:09,239
 -11:00 heißt 17:00 lokaler Zeit.
 -Ich habe das gleiche gedacht.
 
-467
+470
 00:41:09,400 --> 00:41:12,040
 Gottfrid, kannst du hier drüben sitzen?
 
-468
+471
 00:41:12,200 --> 00:41:16,920
 Ich werde an keiner scheiß Pressekonferenz
 teilnehmen. Ich habe es satt.
 
-469
+472
 00:41:17,080 --> 00:41:23,360
--Es ist auf Englisch.
--Ich habe die verfickten Kameras satt.
+- Es ist auf Englisch.
+- Ich habe die verfickten Kameras satt.
 
-470
+473
 00:41:23,520 --> 00:41:27,160
--und verfickte Scheiße!
--Setzt dich trotzdem hier hin. Es ist das letzte Mal.
+- und verfickte Scheiße!
+- Setzt dich trotzdem hier hin. Es ist das letzte Mal.
 
-471
+474
 00:41:27,320 --> 00:41:30,040
 Nein.
 
-472
+475
 00:41:32,600 --> 00:41:34,640
 Hi alle zusammen.
 
-473
+476
 00:41:34,800 --> 00:41:39,280
 Ich bin hier zusammen mit den
 Jungs von „The Pirate Bay“.
 
-474
+477
 00:41:39,439 --> 00:41:43,239
 Nehmt euch Zeit und fragt die
 Jungs etwas-
 
-475
+478
 00:41:43,400 --> 00:41:46,720
--und hört euch an was sie zu sagen haben.
+- und hört euch an, was sie zu sagen haben.
 
-476
+479
 00:41:48,160 --> 00:41:51,040
--Ich wusste nicht, dass wir so langweilig sind.
--Du bist so langweilig.
+- Ich wusste nicht, dass wir so langweilig sind.
+- Du bist so langweilig.
 
-477
+480
 00:41:51,200 --> 00:41:56,400
 Weil du kein Teil von dem hier bist.
 Film ihn.
 
-478
+481
 00:41:57,439 --> 00:41:58,959
 Anakata! (Nickname von Gottfrid)
 
-479
+482
 00:42:10,280 --> 00:42:14,360
 Heute entscheidet das Gericht, ob
 die Männer hinter „The Pirate Bay“-
 
-480
+483
 00:42:14,520 --> 00:42:17,119
 -sich für die Copyright
 Verstöße verantworten müssen.
 
-481
+484
 00:42:17,280 --> 00:42:22,400
-Folgt dem Urteilsspruch live auf svt.se
-ab 11:00.
+Folgt dem Urteilsspruch ab 11:00 live auf svt.se.
 
-482
+485
 00:42:24,879 --> 00:42:30,600
-Nein, aber... Sich, aber mach dir keine Sorgen.
+Nein, aber... Sicher, aber mach dir keine Sorgen.
 
-483
+486
 00:42:30,760 --> 00:42:35,640
 Weil ich mir auch keine Sorgen mache.
 Wir reden später. Tschüss.
 
-484
+487
 00:42:38,239 --> 00:42:41,600
 Papa war nervöser als ich.
 
-485
+488
 00:42:46,439 --> 00:42:51,800
-Das Urteil im Pirate-Bay-Fall ist gefallen.
+Das Urteil im "The Pirate Bay"-Fall ist gefallen.
 Es ist 11 Uhr.
 
-486
+489
 00:42:51,959 --> 00:42:56,879
-Jeder von den vier Angeklagten wird zu
+Jeder der vier Angeklagten wird zu
 einem Jahr Gefängnis verurteilt.
 
-487
+490
 00:42:57,040 --> 00:43:01,879
-Des wird ihnen "Beihilfe bei der
+Es wird ihnen "Beihilfe bei der
 Copyright-Verletzung" vorgeworfen.
 
-488
+491
 00:43:02,040 --> 00:43:07,439
--Also ein Jahr eingeserrt ...
--Das ist so irrsinnig!
+- Also ein Jahr eingeserrt ...
+- Das ist so irrsinnig!
 
-489
+492
 00:43:13,520 --> 00:43:16,879
 Das ist doch ein Witz.
 
-490
+493
 00:43:21,800 --> 00:43:25,640
 Beruhig dich Mama.
 Nichts wird passieren.
 
-491
+494
 00:43:25,800 --> 00:43:28,360
 Das wird sich noch fünf Jahre hinziehen.
 Bleib ruhig.
 
-492
+495
 00:43:28,520 --> 00:43:35,040
 Das Landgericht wird von Politikern
 kontrolliert. Wir nennen es das Würfelgericht.
 
-493
+496
 00:43:40,680 --> 00:43:44,479
 Bleib einfach ruhig.
 
-494
+497
 00:43:44,640 --> 00:43:51,200
 Ich kann gerade nicht reden. Ich muss
 die Pressekonferenz gucken.
 
-495
+498
 00:43:51,360 --> 00:43:55,040
 Okay. Pass auf dich auf.
 
-496
+499
 00:43:55,200 --> 00:43:59,680
 Das Landgericht hat das Urteil im
-Pirate-Bay-Fall gesprochen.
+"The PirateBay"-Fall gesprochen.
 
-497
+500
 00:43:59,840 --> 00:44:05,840
 Wir habe den Schaden auf etwa
 4,5 Millionen Dollar angesetzt.
 
-498
+501
 00:44:06,000 --> 00:44:10,280
 Fickt euch. Er bekommt hiernach
 einen Job in Hollywood.
 
-499
+502
 00:44:14,920 --> 00:44:18,439
 Das ist so unglaublich!
 
-500
+503
 00:44:24,800 --> 00:44:27,479
 Das abgekartertste Spiel überhaupt.
 
-501
+504
 00:44:27,640 --> 00:44:31,400
 Ich habe gerade keine Zeit.
 Ich muss ablehnen.
 
-502
+505
 00:44:31,560 --> 00:44:36,320
 Nein, ich bin der einzige in Schweden.
 Die anderen sind in der Wüste oder im Dschungel.
 
-503
+506
 00:44:36,479 --> 00:44:40,680
 Nein, sie werden uns nicht
 ins Gefängnis schicken.
 
-504
+507
 00:44:40,840 --> 00:44:44,840
 In Schweden läuft das so,
 dass sie nichts tun können ...
 
-505
+508
 00:44:45,000 --> 00:44:49,920
 ... bis wir keine Berufung mehr einlegen können.
 
-506
+509
 00:44:53,560 --> 00:44:58,160
--Wie nennen wir das?
--LOL?
+- Wie nennen wir das?
+- LOL?
 
-507
+510
 00:44:58,320 --> 00:45:00,720
 For the lulz.
 
-508
+511
 00:45:00,879 --> 00:45:04,239
 Wenn das ein Film wäre,
-dann wäre jetzt der Zeitpunkt-
+dann wäre jetzt der Zeitpunkt -
 
-509
+512
 00:45:04,400 --> 00:45:06,959
--an dem der Held sein erstes Problem bekommt.
+- an dem der Held sein erstes Problem bekommt.
 
-510
+513
 00:45:07,119 --> 00:45:10,879
 Karate Kid wurde am Anfang
 schikaniert und verprügelt.
 
-511
+514
 00:45:11,040 --> 00:45:13,959
 Und wir wurden auch gerade verprügelt.
 
-512
+515
 00:45:14,119 --> 00:45:20,000
 Aber dank Hollywood wissen wir,
 dass die Guten am Ende gewinnen.
 
-513
+516
 00:45:20,160 --> 00:45:25,400
 Insgesamt wollen sie etwa
 100 Millionen Schwedische Kronen, oder?
 (~11,6 Millionen Euro)
 
-514
+517
 00:45:25,560 --> 00:45:28,520
 Und sie habe 30 Million zugesprochen bekommen.
 (~3,5 Millionen Euro)
 
-515
+518
 00:45:28,680 --> 00:45:34,000
-Sie hätten auch 1 Billionen bekommen können,
+Sie hätten auch 1 Milliarde bekommen können,
 das spielt keine Rolle, weil ...
 
-516
+519
 00:45:34,160 --> 00:45:37,800
-... wir sie nicht bezahlen können und auch nicht wollen.
+... wir sie nicht bezahlen können und auch nicht würden.
 
-517
+520
 00:45:37,959 --> 00:45:41,800
 Das Urteil macht mich wirklich traurig
 bis auf die Knochen.
 
-518
+521
 00:45:41,959 --> 00:45:46,560
 Es gibt keine Chance, dass das Urteil einer
 Berufung standhält.
 
-519
+522
 00:45:46,720 --> 00:45:52,640
 Ich würde den Bach, den Fluss und
 den Atlantik für eine Wiedergutmachung überqueren.
 
-520
+523
 00:45:52,800 --> 00:45:56,840
 Es bedeutet viel,
 Stellung zu beziehen.
 
-521
+524
 00:45:57,000 --> 00:46:02,160
-Es ist wichtig Schweden als einen
-Staat regiert von Recht zu stärken.
+Es ist wichtig Schweden, als einen
+Staat der vom Recht regiert wird, zu stärken.
 
-522
+525
 00:46:02,320 --> 00:46:06,040
 Dem Richter im Pirate-Bay-Prozess wird
 ein Interessenkonflikt vorgeworfen.
 
-523
+526
 00:46:06,200 --> 00:46:09,600
 Die Leute fordern eine neuen Prozess.
 
-524
+527
 00:46:09,760 --> 00:46:17,280
 Letzte Nacht habe ich von den Neuigkeiten
-gehört die heute rausgekommen sind.
+gehört, die heute rausgekommen sind.
 
-525
+528
 00:46:17,439 --> 00:46:19,800
-Der Richter im Pirate-Bay-Fall-
+Der Richter im "The Pirate Bay"-Fall -
 
-526
+529
 00:46:19,959 --> 00:46:26,000
--ist Mitglied in Organisationen, die
+- ist Mitglied in Organisationen, die
 mit Copyright-Verstößen arbeitet.
 
-527
+530
 00:46:26,160 --> 00:46:30,479
 Organisationen, mit denen die Anwälte
 der Gegenseite arbeiten.
 
-528
+531
 00:46:30,640 --> 00:46:35,080
 Es war wirklich erschreckend,
 davon zu erfahren.
 
-529
+532
 00:46:35,239 --> 00:46:39,720
--Wieso haben Sie das Gericht nicht informiert?
--Gute Frage. Ich habe es nicht.
+- Wieso haben Sie das Gericht nicht informiert?
+- Gute Frage. Ich habe es nicht.
 
-530
+533
 00:46:39,879 --> 00:46:42,600
 Ja, ich weiß was er gedacht hat.
 
-531
+534
 00:46:42,760 --> 00:46:46,560
 "Meine Freunde sind glücklich,
 wenn ich in ihrem Sinne entscheide."
 
-532
+535
 00:46:46,720 --> 00:46:49,800
 Es ist verrückt. Ich hätte nicht gedacht,
 dass das Rechtssystem so kaputt ist.
 
-533
+536
 00:46:49,959 --> 00:46:54,840
--War das eine richtige Entscheidung?
--Das müssen die anderen entscheiden.
+- War das eine richtige Entscheidung?
+- Das müssen die anderen entscheiden.
 
-534
+537
 00:47:11,160 --> 00:47:18,320
 Das ist Tomas, der Richter.
-Er ist der Richter im Landgericht.
+Er ist der Richter im Amtsgericht.
 
-535
+538
 00:47:18,479 --> 00:47:23,640
 Er ist ein Mitglied der
 Schwedischen Gesellschaft für Copyright.
 
-536
+539
 00:47:23,800 --> 00:47:26,879
 Das ist der Punkt.
 
-537
+540
 00:47:27,040 --> 00:47:31,800
 Er sitzt im Vorstand der Schwedischen
 Gesellschaft für industrielles Recht.
 
-538
+541
 00:47:31,959 --> 00:47:37,720
 Diese zwei Organisationen,
 haben öffentliche Publikationen, NIR.
 
-539
+542
 00:47:37,879 --> 00:47:42,680
 Und alle Anwälte,
 die die Anklage unterstützt haben:
 
-540
+543
 00:47:42,840 --> 00:47:45,879
 Peter Danowsky, Henrik Pontén
 und Monique Wadsted.
 
-541
+544
 00:47:46,040 --> 00:47:49,840
 Sind alles Mitglieder
 der gleichen Organisation.
 
-542
+545
 00:47:53,920 --> 00:48:00,239
 Er sieht also ziemlich zwielichtig
-aus, in diesem Netz aus Organisationen.
+aus in diesem Netz aus Organisationen.
 
-543
+546
 00:48:00,400 --> 00:48:04,600
 Von einem grafischen Standpunkt aus,
 ist es sehr eindeutig.
 
-544
+547
 00:48:04,760 --> 00:48:06,760
-Ich kann nicht sagen, ob er beeinflusst wurde-
+Ich kann nicht sagen, ob er beeinflusst wurde -
 
-545
+548
 00:48:06,920 --> 00:48:11,119
--aber der Fakt, dass er diese
-Information vorenthalten hat-
+- aber der Fakt, dass er diese
+Information vorenthalten hat -
 
-546
+549
 00:48:11,280 --> 00:48:15,640
--macht ihn untragbar als Richter
+- macht ihn untragbar als Richter
 in diesem Prozess.
 
-547
+550
 00:48:15,800 --> 00:48:19,720
 Das Urteil ist fraglich, seitdem erkannt wurde,
 dass es möglicherweise einen Interessenkonflikt gibt.
 
-548
-00:48:47,040 --> 00:48:52,439
--Hier ist eine Raubkopie.
--Ich habe einen Parasiten.
-
-549
-00:49:25,600 --> 00:49:28,640
--Bist du das Fredrik?
--Ja.
-
-550
-00:49:28,800 --> 00:49:34,800
--Was ist dein Beruf?
-- IT. Internet.
-
 551
-00:49:34,959 --> 00:49:39,560
-Nach unserer Tradition
-und dem Regelwerk unseres Dorfes-
+00:48:47,040 --> 00:48:52,439
+- Hier ist meine Raubkopie.
+- Ich habe einen Parasiten.
 
 552
-00:49:39,720 --> 00:49:43,080
--musst du für die Ehe bezahlen.
+00:49:25,600 --> 00:49:28,640
+- Bist du das Fredrik?
+- Ja.
 
 553
+00:49:28,800 --> 00:49:34,800
+- Was ist dein Beruf?
+- IT. Internet.
+
+554
+00:49:34,959 --> 00:49:39,560
+Nach unserer Tradition
+und dem Regelwerk unseres Dorfes -
+
+555
+00:49:39,720 --> 00:49:43,080
+- musst du für die Ehe bezahlen.
+
+556
 00:49:43,239 --> 00:49:48,360
 Wieviel möchtest du für die
 Ehe bezahlen?
 
-554
+557
 00:49:48,520 --> 00:49:54,000
-$6.000?
+6.000 Dollar?
 
-555
+558
 00:49:57,600 --> 00:50:04,040
 Wenn du sie verlässt, musst du das doppelte
 der Aussteuer bezahlen.
 
-556
+559
 00:50:04,200 --> 00:50:07,840
 Das heißt 12.000 Dollar. Einverstanden?
 
-557
+560
 00:50:08,000 --> 00:50:12,600
 Bitte hier deinen Namen hinschreiben und unterschreiben.
 
-558
+561
 00:50:18,560 --> 00:50:22,239
 Gefällt es dir? Gut.
 
-559
+562
 00:50:28,439 --> 00:50:32,560
 -Yummy! Yummy!
 -Hallo!
 
-560
+563
 00:50:32,720 --> 00:50:36,760
 Wenn es mich nicht 12.000 Dollar kosten würde,
 würde ich mich scheiden lassen.
 
-561
+564
 00:50:45,400 --> 00:50:51,080
 Es war schon immer so mit
 „The Pirate Bay“. Chaos und Betrug.
 
-562
+565
 00:50:52,439 --> 00:50:56,320
 Letzten Montag kam ein Urteil
-vom Stockholmer Landgericht-
-
-563
-00:50:56,479 --> 00:50:58,000
--wo Richter Norström Vorsitzender ist.
-
-564
-00:50:58,160 --> 00:51:05,080
-Black Internet, der Internet-Anbieter
-für Pirate Bay's Internet-Anbieter muss seine Arbeit einstellen-
-
-565
-00:51:05,239 --> 00:51:08,400
--und wenn sie Pirate Bay weiterhin
-Zugriff gestatten-
+vom Stockholmer Amtsgericht -
 
 566
-00:51:08,560 --> 00:51:11,879
--werden Strafzahlungen in Höhe von 75.000$ pro Tag fällig.
+00:50:56,479 --> 00:50:58,000
+- wo Richter Norström Vorsitzender ist.
 
 567
+00:50:58,160 --> 00:51:05,080
+Black Internet, der Internet-Anbieter
+für "The Pirate Bay"'s Internet-Anbieter muss seine Arbeit einstellen -
+
+568
+00:51:05,239 --> 00:51:08,400
+- und wenn sie Pirate Bay weiterhin
+Zugriff gestatten -
+
+569
+00:51:08,560 --> 00:51:11,879
+- werden Strafzahlungen in Höhe von 75.000 Dollar pro Tag fällig.
+
+570
 00:51:12,040 --> 00:51:16,400
 Dann brach der Sturm los.
 
-568
+571
 00:51:19,360 --> 00:51:23,200
 Also versuchten sie rechtliche Tricks,
 und wir probierten technische Tricks.
 
-569
+572
 00:51:23,360 --> 00:51:29,200
 Es war wie ein andauerndes taktisches Spiel
 mit verschiedenen Waffen.
 
-570
+573
 00:51:33,360 --> 00:51:36,680
 Als wir gemerkt haben, dass „The Pirate Bay“
-nicht erreichbar war-
+nicht erreichbar war -
 
-571
+574
 00:51:36,840 --> 00:51:40,600
--haben wir uns umgeschaut,
+- haben wir uns umgeschaut,
 weil wir immer eine Sicherung der Daten haben.
 
-572
+575
 00:51:40,760 --> 00:51:47,680
 Dann haben wir bemerkt, dass die Piratenpartei
 ihren eigenen Internetanbieter angemeldet hat.
 
-573
+576
 00:51:47,840 --> 00:51:51,640
 Die Piratenpartei arbeitet für bessere
-Copyright-Gesetze und ein offenes Internet-
-
-574
-00:51:51,800 --> 00:51:54,400
--und für freien Zugang zu Kulturgut.
-
-575
-00:51:56,000 --> 00:51:58,959
-Ich habe dann realisiert, dass wenn wir von
-der Piratenpartei gehosted werden-
-
-576
-00:51:59,119 --> 00:52:06,239
--wenn sie uns aus dem Internet ausschließen,
-sie auch die Piratenpartei aus dem Internet ausschließen.
+Copyright-Gesetze und ein offenes Internet -
 
 577
+00:51:51,800 --> 00:51:54,400
+- und für freien Zugang zu Kulturgut.
+
+578
+00:51:56,000 --> 00:51:58,959
+Ich habe dann realisiert, dass wenn wir von
+der Piratenpartei gehosted werden -
+
+579
+00:51:59,119 --> 00:52:06,239
+- und sie uns aus dem Internet ausschließen,
+sie auch die Piratenpartei aus dem Internet ausschließen.
+
+580
 00:52:06,400 --> 00:52:11,119
 Und das heißt, sie schließen eine Partei aus,
 die Schweden in der EU repäsentiert.
 
-578
+581
 00:52:11,280 --> 00:52:14,600
 Das wäre politische Zensur
 in höchstem Maße.
 
-579
+582
 00:52:17,080 --> 00:52:21,439
 Wenn wir also von der Piratenpartei gehosted
 werden, haben wir politischen Schutz.
 
-580
+583
 00:52:21,600 --> 00:52:25,080
 Man könnte sagen diplomatische Immunität.
 
-581
+584
 00:52:28,160 --> 00:52:32,400
 Nach Tagen der Spekulation, kann "Rapport"
-nun enthüllen, dass die Piratenpartei-
+nun enthüllen, dass die Piratenpartei -
 
-582
+585
 00:52:32,560 --> 00:52:37,360
--die Verantwortung, für die Sicherheit
+- die Verantwortung, für die Sicherheit
 der Wikileaks-Server übernommen hat.
 
-583
+586
 00:52:37,520 --> 00:52:42,479
 WikiLeaks oder die Piratenpartei haben das
 kopiert, was sie schon mit TPB gemacht haben.
 
-584
-00:52:42,640 --> 00:52:46,840
-Sie geben WikiLeaks Schutz von einer politischen Partei-
-
-585
-00:52:47,000 --> 00:52:50,920
--indem sie die gleich Internetverbindung teilen.
-
-586
-00:52:51,080 --> 00:52:55,600
-Jeder Leak auf WikiLeaks wurde auch auf TPB veröffentlich,
-da es doch keine Zensur gibt.
-
 587
-00:52:57,959 --> 00:53:01,400
-Gottfrid ist gut mit Technik-Sachen
-und Verschlüsselung-
+00:52:42,640 --> 00:52:46,840
+Sie geben WikiLeaks den Schutz einer politischen Partei -
 
 588
-00:53:01,560 --> 00:53:04,600
--und er hat an vielen
-wichtigen Projekten gearbeitet.
+00:52:47,000 --> 00:52:50,920
+- indem sie die gleich Internetverbindung teilen.
 
 589
-00:53:04,760 --> 00:53:08,360
-Wie z.B. "Collateral Murder"
-was WikiLeaks berühmt gemacht hat.
+00:52:51,080 --> 00:52:55,600
+Jeder Leak auf WikiLeaks wurde auch auf TPB veröffentlich,
+da es dort keine Zensur gibt.
 
 590
+00:52:57,959 --> 00:53:01,400
+Gottfrid ist gut mit Technik-Sachen
+und Verschlüsselungen -
+
+591
+00:53:01,560 --> 00:53:04,600
+- und er hat an vielen
+wichtigen Projekten gearbeitet.
+
+592
+00:53:04,760 --> 00:53:08,360
+Wie z.B. "Collateral Murder",
+was WikiLeaks berühmt gemacht hat.
+
+593
 00:53:15,479 --> 00:53:16,560
 "Look at those dead bastards"
 
-591
+594
 00:53:23,360 --> 00:53:27,320
 Julian hat großen Respekt
 vor Gottfrid.
 
-592
+595
 00:53:27,479 --> 00:53:31,959
 Ich erinnere mich noch als Gottfrid gesagt hat:
 "Wir haben einen neuen Kunden. WikiLeaks."
 
-593
+596
 00:53:32,119 --> 00:53:35,360
 "Die brauchen Hilfe,
 weil sie angegriffen werden."
 
-594
+597
 00:53:35,520 --> 00:53:40,439
 Das erste Mal als wir Kontakt hatten,
 war als wir die Rechnung bezahlen mussten.
 
-595
+598
 00:53:40,600 --> 00:53:43,560
 Weil niemand ..., und
 das war ein andauerndes Problem ...
 
-596
+599
 00:53:43,720 --> 00:53:46,360
 Niemand konnte sich an die dumme Kundennummer erinnern.
 
-597
+600
 00:53:46,520 --> 00:53:50,000
 Und niemand wollte irgendwas
 am Telefon sagen.
 
-598
+601
 00:53:50,160 --> 00:53:55,760
 Im Jahr 2008 flog ich dann nach Schweden,
 um die Rechnung in bar zu bezahlen.
 
-599
+602
 00:53:55,920 --> 00:53:58,959
 Gottfrid hat immer gesagt, er würde
 kein Geld von WikiLeaks nehmen.
 
-600
+603
 00:53:59,119 --> 00:54:04,040
 Ich bin dort hingeflogen und
 habe für ein Jahr und ein bisschen im Voraus, gezahlt.
 
-601
+604
 00:54:04,200 --> 00:54:08,040
 Julian war auch mit dabei.
 Er ist mit mir geflogen.
 
-602
+605
 00:54:08,200 --> 00:54:13,000
 Und dann haben wir ein Treffen
 mit Gottfrid vereinbart um das Geld zu übergeben.
 
-603
+606
 00:54:13,160 --> 00:54:16,920
 Und es war einer der verrücktesten
 Zwischenfälle in meinem Leben.
 
-604
+607
 00:54:17,080 --> 00:54:22,920
 Er kam ins Hotel und hatte jemanden,
 der draußen im Auto auf ihn wartete.
 
-605
+608
 00:54:23,080 --> 00:54:30,680
 Und sie hatten eine Vereinbarung,
 dass Gottfrid immer in der Nähe eines
 Fensters bleiben würde.
 
-606
+609
 00:54:30,840 --> 00:54:34,959
 Also stand er da in der Lobby.
 
-607
+610
 00:54:35,119 --> 00:54:39,920
 Mit seinen langen Haaren.
 Er sah irgendwie ...
 
-608
+611
 00:54:40,080 --> 00:54:44,160
--Komisch aus! Beschissen.
--Und er hat sich wirklich komisch verhalten.
+- Komisch aus! Beschissen.
+- Und er hat sich wirklich komisch verhalten.
 
-609
+612
 00:54:44,320 --> 00:54:50,680
 Und alle 30 Sekunden hat er sich umgedreht,
 um zu gucken, ob der Typ im Auto noch da war.
 
-610
+613
 00:54:50,840 --> 00:54:55,000
 Und Julian und ich standen da und
-dachten eigentlich-
+dachten eigentlich -
 
-611
+614
 00:54:55,160 --> 00:54:59,239
--dass wir einfach abhängen oder sowas.
+- dass wir einfach abhängen oder sowas.
 
-612
+615
 00:54:59,400 --> 00:55:04,239
 Also haben wir ihn gefragt,
 ob er mit aufs Zimmer kommen möchte.
 
-613
+616
 00:55:04,400 --> 00:55:09,760
 Und er sagte nur: "Nein, Nein, ich kann nicht."
 Und hat sich immer wieder umgedreht.
 
-614
+617
 00:55:09,920 --> 00:55:11,640
 Das habe ich noch nie vorher gehört.
 
-615
+618
 00:55:11,800 --> 00:55:15,959
 Und dann, nachdem wir das Geld übergeben haben,
-und der Typ ins Auto gesprungen ist-
+und der Typ ins Auto gesprungen ist -
 
-616
+619
 00:55:16,119 --> 00:55:20,119
--und abgehauen ist,
+- und abgehauen ist,
 dachten wir nur ...
 
-617
+620
 00:55:20,280 --> 00:55:22,720
 das war also unser Treffen mit PRQ.
 
-618
+621
 00:55:25,920 --> 00:55:28,840
 Ein herzliches Willkommen für Peter Sunde.
 
-619
+622
 00:55:30,879 --> 00:55:35,800
 Erste Frage: Sind sie der Killer
 der die ganze Industrie zerstört hat?
 
-620
+623
 00:55:35,959 --> 00:55:39,800
 Ich würde gerne die Anerkennung dafür bekommen,
 aber die habe ich nicht verdient. Sorry. Das waren die selbst.
 
-621
+624
 00:55:39,959 --> 00:55:44,080
--Da ist ein Gerichtsverfahren mit Ihnen im Moment.
--Nur eins?
+- Da ist ein Gerichtsverfahren mit Ihnen im Moment.
+- Nur eins?
 
-622
+625
 00:55:44,239 --> 00:55:47,479
 Ich weiß nicht genau wie viele,
 aber es gibt ein paar Diskussionen.
 
-623
+626
 00:55:47,640 --> 00:55:50,720
 Du hattest eine neue Idee: Flattr.
 
-624
+627
 00:55:50,879 --> 00:55:55,239
 Es kommt von einer Dikussion,
 die wir während „The Pirate Bay“ hatten.
 
-625
+628
 00:55:55,400 --> 00:56:00,800
 Es gab zwei Seiten. Eine Seite hat gesagt,
 es gibt kein Problem mit dem Downloaden.
 
-626
+629
 00:56:00,959 --> 00:56:05,119
 Die andere Seite hat gesagt,
 sie machen kein Geld mit dem Internet.
 
-627
+630
 00:56:05,280 --> 00:56:11,360
--Und da passiert absolut nichts.
--Kannst du Flattr kurz erklären?
+- Und da passiert absolut nichts.
+- Kannst du Flattr kurz erklären?
 
-628
+631
 00:56:11,520 --> 00:56:16,560
 Du erstellst dir einen Account und
 lädst Geld auf den Account.
 
-629
+632
 00:56:16,720 --> 00:56:19,239
 Du kannst selbst entscheiden,
 wieviel du jeden Monat ausgeben willst.
 
-630
+633
 00:56:19,400 --> 00:56:24,680
 Dann findest du Flattr-Buttons.
 Die sind wie Facebook-Like-Buttons.
 
-631
+634
 00:56:24,840 --> 00:56:27,600
 Wenn du sie klickst,
 werden sie bis Ende des Monats gespeichert.
 
-632
+635
 00:56:27,760 --> 00:56:30,360
-Und am Ende des Monats,
-zählen wir die Anzahl deiner Klicks-
+Und am Ende des Monats
+zählen wir die Anzahl deiner Klicks -
 
-633
+636
 00:56:30,520 --> 00:56:32,879
--und wir teilen das Geld gleichmäßig
+- und wir teilen das Geld gleichmäßig
 unter allen auf.
 
-634
+637
 00:56:33,040 --> 00:56:38,720
--Wo geht das Geld hin?
--Es geht an die Urheber.
+- Wo geht das Geld hin?
+- Es geht an die Urheber.
 
-635
+638
 00:56:38,879 --> 00:56:40,600
 Das ist das ganze Konzept.
 
-636
+639
 00:56:49,400 --> 00:56:54,680
 Das Verfahren vor dem Berufungsgericht
 gegen „The Pirate Bay“ ist heute gestartet.
 
-637
+640
 00:56:54,840 --> 00:56:57,640
 Lass uns heute die Hände schütteln.
 
-638
+641
 00:56:57,800 --> 00:57:02,160
--Es ist ein krankes Team, richtig?
--Ich bin richtig verschwitzt.
+- Es ist ein krankes Team, richtig?
+- Ich bin richtig verschwitzt.
 
-639
+642
 00:57:03,360 --> 00:57:07,040
 Ein Auto zu mieten kostet 400 Dollar die Woche.
 
-640
+643
 00:57:07,200 --> 00:57:09,920
 Ich habe eins für 600 Dollar gekauft.
 Ich benutze es für 6 Wochen.
 
-641
+644
 00:57:10,080 --> 00:57:14,479
--Ist das legal?
--Klar. Ich bezahle sogar Steuern.
+- Ist das legal?
+- Klar. Ich bezahle sogar Steuern.
 
-642
+645
 00:57:14,640 --> 00:57:21,640
 Ich kümmere mich nicht um Parktickets -
 Ich habe eine 7 Millionen Dollar Rechnung.
 
-643
+646
 00:57:25,239 --> 00:57:29,920
 Das Berufungsgericht bitte.
 
-644
-00:57:32,400 --> 00:57:36,119
--Kommt Gottfrid?
--Ich bezweifle es.
-
-645
-00:57:36,280 --> 00:57:39,239
--Außer der teleportiert sich.
--Okay.
-
-646
-00:57:39,400 --> 00:57:45,000
-Er hat heute morgen geschrieben, dass er im Kambodscha
-im Krankenhaus liegt, mit ein Parasiteninfektion.
-
 647
+00:57:32,400 --> 00:57:36,119
+- Kommt Gottfrid?
+- Ich bezweifle es.
+
+648
+00:57:36,280 --> 00:57:39,239
+- Außer der teleportiert sich.
+- Okay.
+
+649
+00:57:39,400 --> 00:57:45,000
+Er hat heute morgen geschrieben, dass er, mit einer
+Parasiteninfektion, in Kambodscha im Krankenhaus liegt.
+
+650
 00:57:47,320 --> 00:57:51,360
 Also ist es äußerst unwahrscheinlich
 dass er kommen wird.
 
-648
+651
 00:57:54,040 --> 00:57:58,600
--Habt ihr noch andere Verfahren?
--Die Zivilverfahren.
+- Habt ihr noch andere Verfahren?
+- Die Zivilverfahren.
 
-649
+652
 00:57:58,760 --> 00:58:02,360
--Die Sache mit der Geldstrafe
--Wie viele sind das?
+- Die Sache mit der Geldstrafe.
+- Wie viele sind das?
 
-650
+653
 00:58:02,520 --> 00:58:06,680
 Eins in Italien, eins in Holland ...
 
-651
+654
 00:58:06,840 --> 00:58:11,760
 Eins in Dänemark zu dem wir nicht
 berufen wurden, und eins in Norwegen.
 
-652
+655
 00:58:11,920 --> 00:58:15,600
 Kuwait, Irland. Sonst noch welche?
 
-653
+656
 00:58:27,439 --> 00:58:29,479
-Waren das die wichtigsten?
+Waren das die Wichtigsten?
 
-654
+657
 00:58:29,640 --> 00:58:35,800
 Ich denke es ist wichtig auf unsere Gesellschaft
-zu gucken, wie sie sein sollte.
+zu sehen, wie sie sein sollte.
 
-655
+658
 00:58:35,959 --> 00:58:39,439
-Nicht nur so entscheiden, damit die Firmen
+Nicht nur so entscheiden, dass die Firmen
 noch mehr Profit machen können.
 
-656
+659
 00:58:40,560 --> 00:58:43,600
 Wie fühlt es sich an? 8 Tage noch.
 
-657
+660
 00:58:43,760 --> 00:58:46,520
 Es ist langweilig, dass
 wir nur Videos gucken.
 
-658
+661
 00:58:46,680 --> 00:58:51,560
 Du willst für dich selbst sprechen,
 es wird dir aber nicht erlaubt, richtig?
 
-659
+662
 00:58:51,720 --> 00:58:54,840
 Ich denke das neue Rechtssystem
 ist wirklich schlecht.
 
-660
+663
 00:58:55,000 --> 00:59:00,000
 Man kann kein neues Material vorbringen.
 Wir müssen eigentlich nichtmal hier vor Gericht sein.
 
-661
+664
 00:59:00,160 --> 00:59:04,439
 Wir könnten altes Material nehmen und
 anhand dessen entscheiden.
 
-662
+665
 00:59:04,600 --> 00:59:07,400
 Hey, danke fürs Kommen!
 
-663
+666
 00:59:08,479 --> 00:59:11,720
 -Wie geht es Ihnen?
 -Ich bin wirklich krank.
 
-664
+667
 00:59:11,879 --> 00:59:16,160
 Warum zur Hölle schütteln sie
 dann meine Hand?
 
-665
+668
 00:59:16,320 --> 00:59:20,959
--Er ist auch krank.
--Was fehlt dir?
+- Er ist auch krank.
+- Was fehlt dir?
 
-666
+669
 00:59:21,119 --> 00:59:25,920
 Ich habe eine Erkältung und eine Augeninfektion.
 Ich konnte gestern die ganze Nacht nicht schlafen.
 
-667
+670
 00:59:26,080 --> 00:59:29,959
 Ich habe gerade eine SMS
 von Gottfrids Mutter bekommen.
 
-668
+671
 00:59:30,119 --> 00:59:36,720
 Sie schreibt, er ist immernoch in Kambodscha.
 
-669
+672
 00:59:36,879 --> 00:59:42,840
 Sie sagt, dass er wirklich krank ist.
 
-670
+673
 00:59:43,000 --> 00:59:46,560
 Er hatte vorher schon Probleme.
 
-671
+674
 00:59:46,720 --> 00:59:52,320
 Wenn man ihn anguckt, ist Gesundheit
-nicht das erste was einem in den Sinn kommt.
+nicht das Erste, was einem in den Sinn kommt.
 
-672
+675
 00:59:55,760 --> 01:00:00,760
--Woran arbeitest du heute?
--Ich betreibe Webseiten.
+- Woran arbeitest du heute?
+- Ich betreibe Webseiten.
 
-673
+676
 01:00:00,920 --> 01:00:03,920
 In Kambodscha oder Thailand?
 
-674
+677
 01:00:04,080 --> 01:00:09,239
 Mit dem Internet kannst du von überall arbeiten,
 solange du Internetzugang hast.
 
-675
+678
 01:00:13,680 --> 01:00:17,160
 Staatsanwalt Roswall beschuldigt
-die Angeklagten der Missachtung-
+die Angeklagten der Missachtung -
 
-676
+679
 01:00:17,320 --> 01:00:21,320
--des Urteils, da sie weiterhin
+- des Urteils, da sie weiterhin
 die Webseite betreiben.
 
-677
+680
 01:00:21,479 --> 01:00:25,000
-Er fordert ein Jahr Haft für alle vier.
+Er fordert ein Jahr Haft für jeden der Vier.
 
-678
+681
 01:01:07,800 --> 01:01:12,119
 Der Tunnel Computer ist in Pionen, bei der Piratenpartei.
 (Atombunker-Rechenzentrum in Stockholm)
 
-679
+682
 01:01:15,080 --> 01:01:19,400
 Pionen ist eine Angeberei im Apple-Stil.
 
-680
+683
 01:01:22,160 --> 01:01:26,760
 Der Tunnel-Computer ist der Eingang
 vom Internet zu „The Pirate Bay“.
 
-681
+684
 01:01:26,920 --> 01:01:30,360
 Dann passiert alles
 irgendwo im Hintergrund.
 
-682
+685
 01:01:30,520 --> 01:01:35,160
 Auf den echten Servern,
 welche alle versteckt sind.
 
-683
+686
 01:01:37,800 --> 01:01:41,000
 Jetzt gerade sind wir auf dem Weg
 zum echten Berg.
 
-684
+687
 01:02:34,320 --> 01:02:37,200
 Das ist ein teurer Tisch.
 
-685
+688
 01:02:39,320 --> 01:02:43,200
--6 Kerne?
--12 Kerne.
+- 6 Kerne?
+- 12 Kerne.
 
-686
+689
 01:02:43,360 --> 01:02:45,760
 4 CPUs mit 12 Kernen.
 
-687
+690
 01:02:45,920 --> 01:02:50,959
 Hier. „The Pirate Bay“.
 Und das ist alles.
 
-688
+691
 01:02:51,119 --> 01:02:53,200
 Wir leiten ein effizientes Schiff.
 
-689
+692
 01:03:02,400 --> 01:03:06,520
 Wo wohnen die Leute die
 „The Pirate Bay“ momentan leiten?
 
-690
+693
 01:03:06,680 --> 01:03:11,720
 Weiß ich nicht. Fragen Sie die Piratenpartei,
 die hosten die Bandbreite.
 
-691
+694
 01:03:11,879 --> 01:03:20,920
 Aber es hat die Besitzer gewechselt
 nachdem wir es abgegeben haben. Ein oder zweimal.
 
-692
+695
 01:03:21,080 --> 01:03:25,400
 Wir vermissen die Unterstützung der
-Piratenpartei vor dem Landgericht.
+Piratenpartei im Amtgericht.
 
-693
+696
 01:03:25,560 --> 01:03:29,080
--Mit Bussen und so.
--Die Busse waren im Piratenbüro.
+- Mit Bussen und so.
+- Die mit den Bussen waren das Piratenbüro.
 
-694
+697
 01:03:29,239 --> 01:03:34,119
-War es das Piratenbüro?
+Das war das Piratenbüro?
 Mit Trompeten und Flaggen und so.
 
-695
+698
 01:03:34,280 --> 01:03:37,600
 Es fühlt sich so an,
 als ob sie uns vergessen haben.
 
-696
+699
 01:03:41,200 --> 01:03:44,879
 Die Idee hinter der Piratenbewegung,
-für freies Filesharing zu kämpfen-
+für freies Filesharing zu kämpfen -
 
-697
+700
 01:03:45,040 --> 01:03:48,760
--wird einfach nicht mehr akzeptiert.
+- wird einfach nicht mehr akzeptiert.
 
-698
+701
 01:03:48,920 --> 01:03:55,320
 Es war nur ein kleine Modeerscheinung.
 Ich habe nie daran geglaubt, dass es überlebt.
 
-699
+702
 01:04:02,200 --> 01:04:05,320
--Ich will sie nicht.
--Sie müssen sie nicht unterzeichnen.
+- Ich will sie nicht.
+- Sie müssen sie nicht unterzeichnen.
 
-700
+703
 01:04:05,479 --> 01:04:08,239
 Aber sie wurden gemäß Gesetz informiert.
 
-701
+704
 01:04:08,400 --> 01:04:12,439
 Was heißt das?
 
-702
-01:04:12,600 --> 01:04:16,959
--Ich kann Sie nicht zwingen zu unterschreiben.
--Nein, können Sie nicht.
-
-703
-01:04:17,119 --> 01:04:20,080
--Aber Sie wurden informiert.
--Wer sind Sie?
-
-704
-01:04:20,239 --> 01:04:23,879
--Ich bin der Gerichtsdiener.
--Kann ich Ihren Ausweis sehen?
-
 705
+01:04:12,600 --> 01:04:16,959
+- Ich kann Sie nicht zwingen zu unterschreiben.
+- Nein, können Sie nicht.
+
+706
+01:04:17,119 --> 01:04:20,080
+- Aber Sie wurden informiert.
+- Wer sind Sie?
+
+707
+01:04:20,239 --> 01:04:23,879
+- Ich bin der Gerichtsdiener.
+- Kann ich Ihren Ausweis sehen?
+
+708
 01:04:29,920 --> 01:04:36,119
 Kann ich die letzten vier Zahlen sehen bitte?
 
-706
+709
 01:04:36,280 --> 01:04:40,640
--Sie sollten aufhören zu rauchen.
--Stinke ich?
+- Sie sollten aufhören zu rauchen.
+- Stinke ich?
 
-707
+710
 01:04:40,800 --> 01:04:46,200
 Das ist auch für mich stressig.
 
-708
-01:04:46,360 --> 01:04:48,879
--Fühlt es sich schlecht an, das zu tun?
--Irgendwie.
-
-709
-01:04:49,040 --> 01:04:50,959
--Aber sie bezahlen gut?
--Nein.
-
-710
-01:04:51,119 --> 01:04:52,840
--Warum tun Sie es dann?
--Es ist mein Job.
-
 711
+01:04:46,360 --> 01:04:48,879
+- Fühlt es sich schlecht an, das hier zu tun?
+- Irgendwie.
+
+712
+01:04:49,040 --> 01:04:50,959
+- Aber sie bezahlen gut?
+- Nein.
+
+713
+01:04:51,119 --> 01:04:52,840
+- Warum tun Sie es dann?
+- Es ist mein Job.
+
+714
 01:04:53,000 --> 01:04:56,800
 Haben Sie Kinder? Dann
 würde ich es verstehen, aber suchen Sie sich einen besseren Job.
 
-712
+715
 01:04:56,879 --> 01:04:58,560
 Ich habe schon darüber nachgedacht.
 
-713
-01:04:58,720 --> 01:05:05,160
--Ist das von Danowsky?
--Ich weiß nicht was das ist.
-
-714
-01:05:05,320 --> 01:05:08,439
--Also wissen Sie nicht woher es ist?
--Holland.
-
-715
-01:05:08,600 --> 01:05:13,000
--Okay. Viel Glück.
--Danke. Gleichfalls.
-
 716
-01:05:15,680 --> 01:05:19,200
--Er hat einen super Job.
--Ich habe Mitleid mit ihm.
+01:04:58,720 --> 01:05:05,160
+- Ist das von Danowsky?
+- Ich weiß nicht was das ist.
 
 717
+01:05:05,320 --> 01:05:08,439
+- Also wissen Sie nicht woher es ist?
+- Holland.
+
+718
+01:05:08,600 --> 01:05:13,000
+- Okay. Viel Glück.
+- Danke. Gleichfalls.
+
+719
+01:05:15,680 --> 01:05:19,200
+- Er hat einen super Job.
+- Ich habe Mitleid mit ihm.
+
+720
 01:05:19,360 --> 01:05:22,439
 Ich nicht. Er ist wie eine Politesse.
 
-718
+721
 01:05:23,520 --> 01:05:26,320
 Hast du die Debatte im Fernsehen gesehen?
 
-719
+722
 01:05:26,479 --> 01:05:32,439
 Ein junges Mädchen: "Es geht nicht um junge Menschen,
 die Verbechen begehen wollen."
 
-720
+723
 01:05:32,600 --> 01:05:35,800
 "Sie haben nur anderen Konsumgewohnheiten."
 
-721
+724
 01:05:35,959 --> 01:05:41,200
 "Sie wollen die Filme und Alben
 nur auf diese Weise konsumieren."
 
-722
+725
 01:05:41,360 --> 01:05:46,680
 "Es ist schrecklich sie so zu jagen.
 Der Markt sollte sich stattdessen lieber anpassen."
 
-723
+726
 01:06:08,119 --> 01:06:11,760
 Das Leben ist cooler
 als das Internet.
 
-724
+727
 01:06:11,920 --> 01:06:18,800
 Das ist sicher ein ziemlich radikale
 Einstellung hier.
 
-725
+728
 01:06:18,959 --> 01:06:23,439
 Nach dem Kalten Krieg,
-mussten sie Feinde erfinden-
+mussten sie Feinde erfinden -
 
-726
+729
 01:06:23,600 --> 01:06:27,600
--die sie nicht einfach töten können.
+- die sie nicht einfach töten können.
 
-727
+730
 01:06:27,760 --> 01:06:31,320
 Terror, Piraterie und Drogen.
 
-728
+731
 01:06:31,479 --> 01:06:35,080
 Es ist offensichtlich, dass PRQ
-Kunden hatte-
+Kunden hatte -
 
-729
+732
 01:06:35,239 --> 01:06:40,640
--von den Leute sagen, das sie Kontakt
+- von den Leute sagen, das sie Kontakt
 zu Terror, Piraterie und Drogen hatten.
 
-730
+733
 01:06:40,800 --> 01:06:43,520
 Das kann nicht verneint werden.
 
-731
+734
 01:06:43,680 --> 01:06:47,879
 Ich denke alle drei auf einmal
 bei einem einzelnen Kunden.
 
-732
+735
 01:06:48,040 --> 01:06:51,640
 Du meinst Gottfrid Svartholm Warg!
 
-733
+736
 01:06:51,800 --> 01:06:54,800
 Er ist ein Pirat und ein Junkie.
 
-734
+737
 01:06:54,959 --> 01:06:59,040
 Und wenn du mit ihm redest,
 dann bekommst du Angst.
 
-735
+738
 01:06:59,200 --> 01:07:02,439
-Man könnte sagen er ist ein Taliban.
+Man könnte sagen, dass er ist ein Taliban ist.
 
-736
+739
 01:07:11,439 --> 01:07:18,760
 Ich bin zurück aus Kambodscha.
-Ich war dort für einen Monat.
+Ich war für einen Monat dort.
 
-737
+740
 01:07:18,920 --> 01:07:23,200
 Ich bin sehr beunruhigt
-über Gottfrids Gesundheit.
+über Gottfrids Gesundheitszustand.
 
-738
+741
 01:07:25,200 --> 01:07:27,920
 Ich will nicht so viel
 darüber reden.
 
-739
+742
 01:07:28,080 --> 01:07:32,000
 Er hat das Zeug ständig genommen.
 
-740
+743
 01:07:32,160 --> 01:07:36,280
 Es war immer hin und wieder mal.
 Wenn er einen Abgabetermin hatte.
 
-741
+744
 01:07:36,439 --> 01:07:40,840
 Er war gestresst bei der Arbeit,
 wenn etwas fertig werden musste.
 
-742
+745
 01:07:41,000 --> 01:07:44,479
 Also hat er dann eine Menge Drogen genommen.
 
-743
+746
 01:07:44,640 --> 01:07:48,760
 Ich konnte nicht daneben stehen und zugucken.
 
-744
+747
 01:07:48,920 --> 01:07:53,160
 Ich habe schon öfters Freunde
-gesehen die Drogenprobleme hatten.
+gesehen, die Drogenprobleme hatten.
 
-745
+748
 01:07:53,320 --> 01:07:59,720
 Und das ist ... Wie soll ich sagen.
 Es ist hart.
 
-746
+749
 01:07:59,879 --> 01:08:05,000
 Das ist nicht das, was man sich für seine Freunde wünscht.
 
-747
-01:08:24,560 --> 01:08:27,600
--Was wollen wir?
--Rassismus zerstören!
-
-748
-01:08:27,760 --> 01:08:30,439
--Wann wollen wir das?
--Jetzt!
-
-749
-01:08:30,600 --> 01:08:33,239
--Wann, wann, wann?
--Jetzt, jetzt, jetzt!
-
 750
-01:08:33,400 --> 01:08:36,239
--Was wollen wir?
--Rassismus zerstören!
+01:08:24,560 --> 01:08:27,600
+- Was wollen wir?
+- Rassismus zerstören!
 
 751
-01:08:37,720 --> 01:08:43,080
-Brokep/Peter ist ein verfickter
-vegetarischer linkspolitischer Bastard.
+01:08:27,760 --> 01:08:30,439
+- Wann wollen wir das?
+- Jetzt!
 
 752
+01:08:30,600 --> 01:08:33,239
+- Wann, wann, wann?
+- Jetzt, jetzt, jetzt!
+
+753
+01:08:33,400 --> 01:08:36,239
+- Was wollen wir?
+- Rassismus zerstören!
+
+754
+01:08:37,720 --> 01:08:43,080
+Brokep (Peter) ist ein verfickter
+vegetarischer linkspolitischer Bastard.
+
+755
 01:08:43,239 --> 01:08:45,879
 Aber er hat Eier, weil
 er bei „The Pirate Bay“ dabei ist?
 
-753
+756
 01:08:46,040 --> 01:08:49,439
--Er gibt alle Interviews.
--Er ist trotzdem ne Schlampe.
+- Er gibt alle Interviews.
+- Er ist trotzdem ne Schlampe.
 
-754
+757
 01:08:49,600 --> 01:08:56,959
-Er macht das, wegen ideologischen
+Er macht das wegen ideologischen
 pussyverschuldeten Instinkten.
 
-755
+758
 01:08:57,119 --> 01:09:01,920
 Er muss sich selbst in den Arsch gucken
 und sein Leben in seine eigenen Hände nehmen.
 
-756
+759
 01:09:03,160 --> 01:09:08,119
 Wenn er ein oder zwei Bier hatte, dann
 wird er zur nervigsten Person auf der Welt.
 
-757
+760
 01:09:08,280 --> 01:09:11,439
-Das Problem ist, das er jeden Tag
+Das Problem ist, dass er jeden Tag
 ein paar Bier trinkt.
 
-758
+761
 01:09:11,600 --> 01:09:15,959
 Gibt es keine Verbindung zu den
 rechtspolitischen Parteien in Schweden?
 
-759
+762
 01:09:16,119 --> 01:09:19,840
 Carl Lundström,
-einer der Mitangeklagten-
-
-760
-01:09:20,000 --> 01:09:24,360
--war vorher ein rechtspolitischer Extremist.
-
-761
-01:09:24,520 --> 01:09:27,680
-Er hat ziemlich viel Scheiße finanziert.
-Aber am Ende-
-
-762
-01:09:27,840 --> 01:09:32,280
--hat er ein jüdisches Mädchen geheiratet.
-Er hat vier Kinder.
+einer der Mitangeklagten -
 
 763
+01:09:20,000 --> 01:09:24,360
+- war vorher ein rechtspolitischer Extremist.
+
+764
+01:09:24,520 --> 01:09:27,680
+Er hat ziemlich viel Scheiße finanziert.
+Aber am Ende -
+
+765
+01:09:27,840 --> 01:09:32,280
+- hat er ein jüdisches Mädchen geheiratet.
+Er hat vier Kinder.
+
+766
 01:09:32,439 --> 01:09:39,439
 Ihn einen rechtspolitischen Extremisten zu nennen,
 war vor 10-20 Jahren korrekt.
 
-764
+767
 01:09:39,600 --> 01:09:42,080
 Jetzt würde ich das nicht mehr sagen.
 
-765
+768
 01:09:42,239 --> 01:09:46,680
 Wenn Carl Lundström
 ausländerfeinlich ist, dann bin ich das auch.
 
-766
+769
 01:09:46,840 --> 01:09:52,360
 Jedes Mal wenn ich verprügelt oder
 ausgeraubt wurde, waren es Immigranten.
 
-767
+770
 01:09:52,520 --> 01:09:56,920
 Und ich meine keine finnischen Immigranten in der siebten Generation.
 
-768
+771
 01:09:57,080 --> 01:09:58,800
-Ich meine die verfickten
+Ich meine die verfickten,
 dreckigen Immigranten.
 
-769
+772
 01:09:58,959 --> 01:10:04,920
 Ich kann soviel sagen. Er ist dumm,
 wenn es um solche Sachen geht.
 
-770
+773
 01:10:05,080 --> 01:10:10,320
 Er hat noch nie für sich selbst gedacht.
 Er sagt nur das, was seine Eltern sagen.
 
-771
+774
 01:10:10,479 --> 01:10:14,320
 Er ist ein rassistisches Alkoholiker-Arschloch.
 
-772
+775
 01:10:14,479 --> 01:10:17,280
--Aber ich mag ihn trotzdem.
--Und weißt du was?
+- Aber ich mag ihn trotzdem.
+- Und weißt du was?
 
-773
+776
 01:10:17,439 --> 01:10:23,040
 Alle E-Mails im „The Pirate Bay“-
 Fall kommen von Anakata.
 
-774
+777
 01:10:23,200 --> 01:10:27,160
 Anakata, der ich-weiß-nicht-wie-ich-verfickt
-nochmal-meinen-computer-verschlüssel!
+nochmal-meinen-Computer-verschlüssel!
 
-775
+778
 01:10:27,320 --> 01:10:34,160
 Sogar Peter und ich verschlüsseln
 unsere E-Mails. Aber Gottfrid nicht!
 
-776
+779
 01:10:34,320 --> 01:10:38,720
 Gottfrid ist die dümmste Person
 in der gesamten IT-Geschichte.
 
-777
+780
 01:10:43,360 --> 01:10:45,959
 Yeah, „The Pirate Bay“ sind echte Kumpel.
 
-778
+781
 01:10:50,879 --> 01:10:53,760
 Mein Akku ist leer.
 
-779
+782
 01:11:01,680 --> 01:11:04,720
 Ich bin überrascht, dass hier keine Kameras sind.
 
-780
+783
 01:11:08,640 --> 01:11:12,400
--Ja, heute ist der letzte Tag.
--Endlich! Ich kann nach Hause.
+- Ja, heute ist der letzte Tag.
+- Endlich! Ich kann nach Hause.
 
-781
+784
 01:11:14,360 --> 01:11:19,320
--Die können Sie wegwerfen.
--Sie wurden hiermit rechtskräftig informiert.
+- Die können Sie wegwerfen.
+- Sie wurden hiermit rechtskräftig informiert.
 
-782
+785
 01:11:19,479 --> 01:11:22,280
 Kommt das auf YouTube?
 
-783
+786
 01:11:22,439 --> 01:11:25,280
--Sie können Sie wegwerfen.
--Sie können das machen.
+- Sie können Sie wegwerfen.
+- Sie können das machen.
 
-784
+787
 01:11:25,439 --> 01:11:29,800
--Sie können mich nicht zwingen sie zu nehmen.
--Sie wurden informiert.
+- Sie können mich nicht zwingen sie zu nehmen.
+- Sie wurden informiert.
 
-785
+788
 01:11:29,959 --> 01:11:33,280
 Sie waren es, die gerade die Papiere fallengelassen haben.
 
-786
+789
 01:11:51,160 --> 01:11:53,959
 Komm schon.
 
-787
+790
 01:11:54,119 --> 01:11:57,280
 Ich will schlafen.
 
-788
+791
 01:12:09,959 --> 01:12:12,040
 Sabaidee!
 
-789
+792
 01:12:16,720 --> 01:12:20,280
 Wenn ich freigesprochen werde,
 verklage ich sie auf Millionen.
 
-790
+793
 01:12:20,439 --> 01:12:22,520
 Millarden! Mindestens!
 
-791
+794
 01:12:22,680 --> 01:12:29,119
-Wir können nicht schlechter sein als die mit ihren
+Wir können nicht schlechter sein, als die mit ihren
 Fantasienzahlen. Ich bin Samstag in Schweden gelandet.
 
-792
+795
 01:12:29,280 --> 01:12:35,360
 Ich helfe bei ein paar neuen Leaks-Projektservern
 in der Serverhalle aus.
 
-793
+796
 01:12:35,520 --> 01:12:40,280
 Alle haben WikiLeaks verlassen,
 außer Julian und vielleicht Anakata.
 
-794
+797
 01:12:40,439 --> 01:12:43,080
-Weil er irgendwie
-verliebt ist in Julian.
+Weil er irgendwie in Julian
+verliebt ist.
 
-795
+798
 01:12:43,239 --> 01:12:47,920
 Fuck! Blink wenn du abbiegst,
 du verdammter Arsch!
 
-796
+799
 01:12:48,080 --> 01:12:50,879
 Verdammt nochmal!
 
-797
+800
 01:12:56,360 --> 01:12:59,000
--Wie gehts dir?
--Gut.
+- Wie gehts dir?
+- Gut.
 
-798
+801
 01:13:01,920 --> 01:13:05,080
 Schön dich wiederzusehen.
 Dir gehts gut?
 
-799
+802
 01:13:15,080 --> 01:13:19,800
 Wissen die Leute hier, was
 heute in deinem Leben passiert?
 
-800
+803
 01:13:19,959 --> 01:13:21,959
--Nein!
--Nicht einmal deine Frau?
+- Nein!
+- Nicht einmal deine Frau?
 
-801
+804
 01:13:22,119 --> 01:13:24,280
 Ja.
 
-802
+805
 01:13:40,439 --> 01:13:46,320
 Ich weiß nicht. Für Fredrik ist es einfach.
 Er kann es einfach vermeiden nach Hause zu gehen.
 
-803
+806
 01:13:46,479 --> 01:13:50,200
 Was soll das heißen? Ich habe keine Pläne
 nach Hause zu gehen.
 
-804
+807
 01:13:50,360 --> 01:13:53,119
 Ich weiß es wirklich nicht.
 Ich habe keine Ahnung.
 
-805
+808
 01:13:53,280 --> 01:13:56,959
 Ich zögere, aber ich würde eine Verurteilung nicht akzeptieren.
 
-806
+809
 01:13:57,119 --> 01:14:02,280
 Ich könnte eine Gefängnisstrafe absitzen,
 aber warum sollte ich, wenn ich nicht müsste?
 
-807
+810
 01:14:02,439 --> 01:14:05,520
 Es gibt wirklich keinen Grund
 für dich, das zu tun.
 
-808
+811
 01:14:05,680 --> 01:14:09,439
 Guck dich um. Warum sollte ich hier
 nicht für fünf Jahre bleiben.
 
-809
+812
 01:14:13,000 --> 01:14:15,959
 Du kannst nicht für etwas ins Gefängnis gehen,
 was du nicht getan hast.
 
-810
+813
 01:14:16,119 --> 01:14:19,400
 Politisches Exil ist das hier.
 
-811
+814
 01:14:21,560 --> 01:14:25,800
 Ich will kein Märtyrer werden.
 
-812
+815
 01:14:25,959 --> 01:14:28,760
-Aber ich glaube nicht, das ich verurteilt werde.
+Aber ich glaube nicht, dass ich verurteilt werde.
 
-813
+816
 01:14:28,920 --> 01:14:34,160
 Klopf auf Holz... Wir werden sehen.
 
-814
+817
 01:14:35,879 --> 01:14:37,760
 Prost!
 
-815
+818
 01:14:55,200 --> 01:14:57,439
 Bier, man!
 
-816
+819
 01:15:04,000 --> 01:15:07,879
 Betrinkst du dich aus
 Freude oder aus Frust?
 
-817
+820
 01:15:08,040 --> 01:15:11,080
 Kann ich dir das in zwölf Minuten beantworten?
 
-818
+821
 01:15:13,119 --> 01:15:17,879
 Hey! Das Internet hat sich gerade
 synchronisiert. Ich glaube das ist ein Zeichen.
 
-819
+822
 01:15:18,040 --> 01:15:19,840
 Hör auf zu laggen!
 
-820
+823
 01:15:20,000 --> 01:15:24,720
 "Wenn TPB freigesprochen wird, ist es
 ein Sieg für die Freiheit des Internets."
 
-821
+824
 01:15:24,879 --> 01:15:27,560
 Guck dir meine Augen-Infektion an!
 
-822
+825
 01:15:27,720 --> 01:15:32,680
 "Der Pirat Gottfrid Svartholm Warg
 hat ein medizinische Erklärung eingereicht."
 
-823
+826
 01:15:32,840 --> 01:15:35,840
 Gottfrid Svartholm war "krank".
 
-824
+827
 01:15:44,680 --> 01:15:49,320
 "... wurde verkürzt, aber die Schadensersatzzahlungen
 wurden erhöht." Wir wurden verurteilt.
 
-825
+828
 01:15:49,479 --> 01:15:53,479
 Wir wurden verurteilt. Domstol.se. Es ist Spam.
 
-826
+829
 01:15:53,640 --> 01:15:58,879
 Kopier den Link.
 Den Link da drunter!
 
-827
+830
 01:16:03,959 --> 01:16:08,600
 "Das Berufungsgericht hat entschieden, das
 den Verurteilten eine Verbindung nachgewiesen werden konnte."
 
-828
+831
 01:16:08,760 --> 01:16:12,360
 "Fredrik Neij wurde zu
 zehn Monaten Haft verurteilt, Peter Sunde zu acht"-
 
-829
+832
 01:16:12,520 --> 01:16:14,720
 -"und Carl Lundström zu vier Monaten."
 
-830
+833
 01:16:14,879 --> 01:16:17,360
--Was ist mit Gottfrid?
--Er ist nicht in diesem Fall.
+- Was ist mit Gottfrid?
+- Er ist nicht in diesem Fall.
 
-831
+834
 01:16:17,439 --> 01:16:18,680
 Stimmt.
 
-832
+835
 01:16:21,439 --> 01:16:25,200
 Die Schadensersatzforderung steigt
 von 4,5 Millionen Dollar auf 6,6 Millionen Dollar.
 
-833
+836
 01:16:28,239 --> 01:16:31,640
 Also... Wir haben verloren.
 Verfickte Idioten.
 
-834
+837
 01:16:33,280 --> 01:16:36,160
 Ich rufe meine Mutter an.
 
-835
+838
 01:16:36,320 --> 01:16:41,239
 Hi. Ich wollte nur sagen, dass sie
 unsere Haftstrafe verkürzt habe.
 
-836
+839
 01:16:43,160 --> 01:16:46,879
 Aber wir legen Berufung ein.
-acht Monate statt ein Jahr.
+Acht Monate statt ein Jahr.
 
-837
+840
 01:16:47,040 --> 01:16:51,760
 Ich wollte dich nur anrufen und
 dir das sagen. Sei also nicht besorgt.
 
-838
+841
 01:16:51,920 --> 01:16:55,920
-Ich habe noch 59 Seiten die ich lesen muss.
+Ich habe noch 59 Seiten, die ich lesen muss.
 
-839
+842
 01:16:57,239 --> 01:16:59,760
 Okay, gut. Pass auf dich auf.
 
-840
+843
 01:17:10,200 --> 01:17:12,920
 Verfickte Idioten.
 
-841
+844
 01:17:13,080 --> 01:17:17,520
--Das Internet ist gerade abgestürzt!
--Verdammt! Ja, ist es.
+- Das Internet ist gerade abgestürzt!
+- Verdammt! Ja, ist es.
 
-842
+845
 01:17:17,680 --> 01:17:20,680
 Verfickte Windows-Scheiße!
 
-843
+846
 01:17:20,840 --> 01:17:23,600
 Die Gesetzesbestimmung für Verjährung sind fünf Jahre.
 
-844
+847
 01:17:23,760 --> 01:17:26,200
 Sie könne keinen internationalen Haftbefehl ausstellen.
 
-845
+848
 01:17:26,360 --> 01:17:30,360
 Ich kann hier fünf Jahre sitzen und mir einen runterholen.
 Und das werde ich auch.
 
-846
+849
 01:17:30,520 --> 01:17:32,879
 Du willst für fünf Jahre masturbieren?
 Und das durchgehend?
 
-847
+850
 01:17:32,959 --> 01:17:34,720
 Ich mache es mit Unterbrechung.
 
-848
+851
 01:17:35,640 --> 01:17:39,239
 Das heißt, dass das
 Internet kriminalisiert wurde.
 
-849
+852
 01:17:39,400 --> 01:17:44,119
 Die bezetteln das Internet, als Platz zum
 Ausführen von Verbrechen. "Macht es dicht."
 
-850
+853
 01:17:44,280 --> 01:17:50,360
 Wir sind bis jetzt nicht einmal auf BBC oder CCN!
 Das irritiert mich! Komm schon!
 
-851
+854
 01:17:50,520 --> 01:17:56,520
 Ich glaube wir müssen damit leben, dass
 wir nicht mehr wichtig sind.
 
-852
+855
 01:18:02,360 --> 01:18:07,080
--The Bay!
--Wann kommt das Internet zurück?
+- The Bay!
+- Wann kommt das Internet zurück?
 
-853
+856
 01:18:07,239 --> 01:18:11,479
 Vielleicht in zwei Stunden, wenn wir Glück haben.
 
-854
+857
 01:18:21,000 --> 01:18:24,500
 Im Februar hat das oberste Gericht die Berufung abgelehnt.
 
-855
+858
 01:18:32,000 --> 01:18:35,500
 Das Gericht bleibt bei der Gefängnisstrafe
 und der Schadensersatzzahlung von 6,6 Millionen Dollar.
 
-856
+859
 01:18:44,000 --> 01:18:47,000
 Peter erwartet eine Gefängnisstrafe in Schweden.
 
-857
+860
 01:18:50,000 --> 01:18:54,000
 Fredrik bleibt in Laos. Er wird von Interpol gesucht.
 
-858
+861
 01:19:01,000 --> 01:19:05,000
 Gottfrid wurde von der kambodschanischen Polizei verhaftet
 und nach Schweden abgeschoben.
 
-859
+862
 01:19:10,000 --> 01:19:14,000
 Er wurde direkt mit mehreren anderen Hacker-bezogenen Verbrechen belastet.
 
-860
+863
 01:19:15,160 --> 01:19:18,119
 Meine Damen und Herren, liebe Freunde.
 
-861
+864
 01:19:18,280 --> 01:19:22,439
-Wir treffen uns heute, um eines-
+Wir treffen uns heute, um eines -
 
-862
+865
 01:19:22,600 --> 01:19:26,920
--der momentan heißesten Themen im
+- der momentan heißesten Themen im
 Europäischen Parlament zu diskutieren.
 
-863
+866
 01:19:27,080 --> 01:19:31,720
 Vielen Dank, dass ich kommen durfte.
 Es ist sehr mutig von ihnen, mich heute hier zu haben.
 
-864
+867
 01:19:31,879 --> 01:19:36,280
 Ich bin der Copyright-Industrie jahrelang
 richtig auf den Sack gegangen.
 
-865
+868
 01:19:36,439 --> 01:19:40,520
 Ich bin einer der Sprecher
 für „The Pirate Bay“.
 
-866
+869
 01:19:40,680 --> 01:19:45,720
-TPB ist das größte File-Sharing-System der Welt.
+TPB ist das größte Filesharing-System der Welt.
 
-867
+870
 01:19:45,879 --> 01:19:51,400
 Es ist zehn mal größer als Napster
 zu seiner größten Zeit, und es wächst immer weiter.
 
-868
+871
 01:19:52,000 --> 01:22:05,000
 Subs by *moogle19* and *dreck*
 Proofreading by *icwiener*
 Please visit: https://github.com/icwiener/tpb_afk_de to report errors.
+
+
