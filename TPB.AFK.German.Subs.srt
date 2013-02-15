@@ -558,7 +558,7 @@ Hi. Okay, wir kommen runter. Tschüss.
 120
 00:12:20,400 --> 00:12:25,239
 - Lass uns essen.
-- Okay. Aber nichts vegetarisches.
+- Okay. Aber nichts Vegetarisches.
 
 121
 00:12:25,400 --> 00:12:31,040
@@ -648,7 +648,7 @@ bevor wir sie entfernt haben.
 138
 00:14:05,000 --> 00:14:09,239
 Wir haben mit Redefreiheit und 
-das Recht auf Parodie argumentiert.
+dem Recht auf Parodie argumentiert.
 
 139
 00:14:09,400 --> 00:14:14,400
@@ -771,7 +771,7 @@ in der Zeitung war:
 165
 00:16:28,600 --> 00:16:33,119
 "Wenn „The Pirate Bay“ verurteilt wird,
-würden Sie dann nicht zu Märtyrer werden?"
+würden Sie dann nicht zu Märtyrern werden?"
 
 166
 00:16:33,280 --> 00:16:37,040
@@ -1140,7 +1140,7 @@ Professor Roger Wallis.
 
 242
 00:22:11,959 --> 00:22:17,720
-Ich denke, es ist krank die
+Ich denke, dass es krank ist, die
 akademische Welt so anzugreifen.
 
 243
@@ -1397,7 +1397,7 @@ Wieso würden Sie eine E-Mail -
 
 295
 00:26:28,360 --> 00:26:31,640
-- mit dem Betreff "Copyright Verletzung" als Spam ansehen?
+- mit dem Betreff "Copyrightverletzung" als Spam ansehen?
 
 296
 00:26:31,800 --> 00:26:36,840
@@ -1458,7 +1458,7 @@ Die ersten 100 Male sagten wir noch:
 
 308
 00:27:33,920 --> 00:27:37,920
-- Und die nächsten 100 Male?
+- Und die nächsten hundert Male?
 - Da haben wir dann unsere Geduld verloren.
 
 309
@@ -1529,7 +1529,7 @@ der Razzia nicht erreichbar war-
 323
 00:28:55,959 --> 00:28:58,560
 Die Seite war nach drei Tagen wieder online.
-Wo habt Sie die Server herbekommen?
+Wo haben Sie die Server herbekommen?
 
 324
 00:28:58,720 --> 00:29:02,840
@@ -1669,11 +1669,11 @@ Idee von der größten Webseite der Welt.
 352
 00:31:31,000 --> 00:31:36,479
 - Wie wird „The Pirate Bay“ finanziert?
-- Wie wird die Webseite finanziert?
+- Wie die Webseite finanziert wird?
 
 353
 00:31:36,640 --> 00:31:40,479
-Wir haben Anzeigen mit
+Wir haben Anzeigen, mit
 denen wir Einnahmen generieren.
 
 354
@@ -1934,13 +1934,13 @@ Wann gehst du zurück nach Kambodscha?
 
 408
 00:35:50,959 --> 00:35:55,200
-Was ist im Allgemeinen deine Meinung
+Was ist, im Allgemeinen, deine Meinung
 zu dem Fall?
 
 409
 00:35:55,360 --> 00:36:01,239
 Es ist schön, wenn es vorbei ist.
-Morgen ist es nurnoch ein halber Tag.
+Morgen ist es nur noch ein halber Tag.
 
 410
 00:36:01,400 --> 00:36:05,239
@@ -2208,7 +2208,7 @@ Ich muss eine Tastatur emulieren.
 467
 00:40:58,280 --> 00:41:01,479
 Also was machst du am
-17ten April um 11:00?
+17. April um 11:00 Uhr?
 
 468
 00:41:01,640 --> 00:41:03,800
@@ -2216,7 +2216,7 @@ Vor dem Gericht warten?
 
 469
 00:41:03,959 --> 00:41:09,239
--11:00 heißt 17:00 lokaler Zeit.
+-11:00 Uhr heißt 17:00 Uhr Ortszeit.
 -Ich habe das gleiche gedacht.
 
 470
@@ -2286,7 +2286,7 @@ Verstöße verantworten müssen.
 
 484
 00:42:17,280 --> 00:42:22,400
-Folgt dem Urteilsspruch ab 11:00 live auf svt.se.
+Folgt dem Urteilsspruch ab 11:00 Uhr live auf svt.se.
 
 485
 00:42:24,879 --> 00:42:30,600
@@ -4106,5 +4106,3 @@ zu seiner größten Zeit, und es wächst immer weiter.
 Subs by *moogle19* and *dreck*
 Proofreading by *icwiener*
 Please visit: https://github.com/icwiener/tpb_afk_de to report errors.
-
-
